@@ -8,4 +8,6 @@ This is a group project by Shahmeer Khan (25156) and Uzair Nadeem (24928) for ou
 
 -The report contains a video URL demoing our process and explaining some key functions
 
--We've also attached a few key scripts and other files used for the project
+-We've also attached a few key scripts and other files used for the project, the generation file can be used to generate the csvs 
+
+-The excel sheet attached contains our full process breakdown for warehouse planning, following it should allow you to recreate our warehouse accordingly
