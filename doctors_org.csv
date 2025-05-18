@@ -1,0 +1,873 @@
+Doctor Id,Name,Contact No,Email,Position,Started At,Specialty
+60056518,Dr. Beth Thompson,623-895-7403,,Chief of Surgery,"Dec 26, 1988",General Surgery
+39411157,Dr. Ann Stevens,,astevens@hospital.org,,1985-05-18,Internal Medicine
+62342472,Dr. Taylor Young,922-979-2798,tyoung@hospital.org,,1986-01-06,General Surgery
+64555512,Dr. Cathy Collins,202-699-5076,ccollins@hospital.org,,1993-01-25,Internal Medicine
+40410056,Dr. Justin Hinton,488-767-5456,jhinton@hospital.org,Medical Director,2004-12-11,Internal Medicine
+21172764,Dr. Ellen Nelson,910-736-6486,enelson@hospital.org,Chief of Surgery,1998-04-13,General Surgery
+92392177,Dr. Stephanie Campos,990-509-2553,,Chief of Surgery,1998-02-13,General Surgery
+19538924,Dr. Kelli Smith,227-305-5725,ksmith@hospital.org,Resident,2015.06.07,Internal Medicine Resident
+34232655,Dr. Jeremy Bennett,936-450-7566,jbennett@hospital.org,Medical Director,1994-12-21,Internal Medicine
+23278549,Dr. David Allen,791-572-6011,dallen@hospital.org,Medical Director,2003-09-26,Internal Medicine
+52939530,Dr. Deborah Church,692-484-7392,dchurch@hospital.org,Attending Physician,2010-06-06,Internal Medicine
+50150107,Dr. Meghan Miller,,mmiller@hospital.org,,04/19/1997,General Surgery
+62573072,Dr. Luke Singh,,lsingh@hospital.org,Medical Director,1994-06-14,Internal Medicine
+75122171,Dr. Cathy Shaw,371-831-3711,cshaw@hospital.org,Attending Physician,2008-01-18,Internal Medicine
+62196394,Dr. Lawrence Herman,986-703-7724,lherman@hospital.org,Attending Physician,2006-10-11,Internal Medicine
+77206675,Dr. Samuel Mason,365-791-7742,,Residen?t,2019-08-06,Internal Medicine Resident
+18082101,Dr. Jonathan Zuniga,839-847-9825,jzuniga@hospital.org,Medical Director,1999-04-28,Internal Medicine
+84175013,Dr. Kelly Davis,233-367-5773,kdavis@hospital.org,Attending Physician,2013-08-06,Internal Medicine
+3145965,Dr. Mark Castillo,215-443-6657,mcastillo@hospital.org,,15-02-2021,Pulmonary Fellow
+65097676,Dr. Dustin Rogers,391-931-6026,drogers@hospital.org,Medical Director,2002-10-24,Internal Medicine
+3651043,Dr. Nathan Barton,978-912-3661,nbarton@hospital.org,Medical Direct`[?or,2000-11-11,Internal Medicine
+58632312,Dr. Tasha Lee,477-610-4177,tlee@hospital.org,Chief of Surgery,1997-05-23,General Surgery
+9059996,Dr. Emily Chavez,218-935-5235,echavez@hospital.org,Chief of Surgery,1990-02-10,General Surgery
+29406995,Dr. Seth Carey,553-875-6472,scarey@hospital.org,Chief of Surgery,2004.06.06,General Surgery
+88297745,Dr. Tiffany Wright,915-558-8501,twright@hospital.org,Resident,2019-06-28,Pediatrics Resident
+45245328,Dr. Kara Webb,533-361-5699,,Medical Director,1989-05-17,Internal Medicine
+52209712,Dr. Robert Hines,,rhines@hospital.org,,2008-03-23,Internal Medicine
+43664005,Dr. Michelle Estes,334-708-8823,mestes@hospital.org,Attending Physician,2014-06-03,Internal Medicine
+21270550,Dr. Benjamin Mitchell,240-799-2251,bmitchell@hospital.org,Fellow,2020-05-06,Oncology Fellow
+92040993,Dr. Victoria Lee,719-806-5771,vlee@hospital.org,Medical Director,1998.04.14,Internal Medicine
+83947330,Dr. Warren Romero,378-668-6891,wromero@hospital.org,Chief of Surgery,1991-12-20,General Surgery
+2798384,Dr. Heather Davis,843-949-5581,,Medical D^irector,"Mar 27, 2004",Internal Medicine
+81281955,Dr. Dana Lawrence,326-244-7881,,Medi(cal Director,2003-10-20,Internal Medicine
+60935813,Dr. Gabriel Thompson,754-549-4350,gthompson@hospital.org,Medical Director,1997-03-18,Internal Medicine
+88482276,Dr. Bill Floyd,539-947-4465,bfloyd@hospital.org,Chief of Surgery,2004-08-15,General Surgery
+83922623,Dr. Jenna White,983-807-6941,jwhite@hospital.org,Resident,2018-08-16,Internal Medicine Resident
+61784917,Dr. Carlos Duncan,,cduncan@hospital.org,Attending Physician,2011-11-17,Internal Medicine
+14306407,Dr. Amanda Hall,566-476-5603,ahall@hospital.org,Attending Physician,2006-04-06,Internal Medicine
+41189744,Dr. Jacob Rodriguez,781-479-3088,jrodriguez@hospital.org,Chief of Surgery,1990-10-31,General Surgery
+93348745,Dr. Cynthia Hammond,474-644-1726,chammond@hospital.org,,2017-11-01,Cardiology Fellow
+78830198,Dr. Zoe Scott,,zscott@hospital.org,Fellow,2017-09-09,Oncology Fellow
+66324024,Dr. Carolyn Simmons,301-577-4376,,Attending Phys}(ician,07/20/2008,Internal Medicine
+13044280,Dr. Keith Salas,,ksalas@hospital.org,Chief of Surgery,1997-11-28,General Surgery
+49926765,Dr. William Green,383-253-1647,wgreen@hospital.org,Attending Physician,2009-01-28,Internal Medicine
+82809478,Dr. Haley Jennings,509-306-9750,hjennings@hospital.org,Attending Physician,2012-12-06,Internal Medicine
+29119811,Dr. Stephanie Black,802-629-5190,sblack@hospital.org,Resident,2024-03-09,Surgery Resident
+5217011,Dr. Tina Clayton,892-952-1407,tclayton@hospital.org,Fellow,"Sep 28, 2018",Pulmonary Fellow
+23534325,Dr. Jessica Pham,243-780-1702,jpham@hospital.org,Medical Director,2004-12-18,Internal Medicine
+79016896,Dr. Kimberly Smith,480-713-5886,ksmith@hospital.org,Attending Physician,2014-05-15,Internal Medicine
+75505404,Dr. Shannon Wagner,952-358-9882,swagner@hospital.org,Medical Director,1989-03-17,Internal Medicine
+81295677,Dr. Patrick Schultz,656-219-9443,,Medical Director,1987-02-28,Internal Medicine
+36176355,Dr. Sydney Hansen,650-977-9288,shansen@hospital.org,Medica[*l Director,1998-01-07,Internal Medicine
+68655348,Dr. Carl Farmer,402-754-2927,cfarmer@hospital.org,Attending Physic*$@ian,2006-09-16,Internal Medicine
+62876982,Dr. Lisa Barton,893-639-9817,,Chief of Surgery,2000-09-03,General Surgery
+25564132,Dr. Allison Mccoy,216-840-8130,amccoy@hospital.org,Chief of Surgery,1989-12-21,General Surgery
+37756530,Dr. Nicholas Jenkins,608-629-9019,njenkins@hospital.org,Chief of Surgery,2002-10-27,General Surgery
+54365293,Dr. Stacey Smith,254-267-8755,ssmith@hospital.org,Fellow,2017-07-15,Pulmonary Fellow
+95325256,Dr. Michael Church,945-694-1333,mchurch@hospital.org,Chief of Surgery,1991-10-26,General Surgery
+4115096,Dr. Angela Smith,371-456-8914,asmith@hospital.org,Resident,2023-05-03,Pediatrics Resident
+60474316,Dr. Rachel Evans,476-429-7877,revans@hospital.org,Fe}(llow,2017-07-29,Oncology Fellow
+31231430,Dr. Karen Becker,,kbecker@hospital.org,Chief of Surgery,2003-10-26,General Surgery
+41489357,Dr. Randall French,,rfrench@hospital.org,Medic:al Director,1988-11-24,Internal Medicine
+48127457,Dr. Patricia Ellison,486-290-6540,pellison@hospital.org,Medical Director,1997-11-29,Internal Medicine
+69947518,Dr. Justin Vaughn,619-299-8204,jvaughn@hospital.org,Chief of Surgery,1997-11-22,General Surgery
+79606766,Dr. Ashley Serrano,721-776-3102,aserrano@hospital.org,Fel!?|low,2025-04-07,Pulmonary Fellow
+83080341,Dr. Theodore Jackson,450-551-8310,tjackson@hospital.org,Chief of Surgery,1992-09-21,General Surgery
+43529203,Dr. Amber Hickman,529-515-5480,ahickman@hospital.org,Fellow,2016-10-13,Pulmonary Fellow
+27313587,Dr. Thomas Alvarez,436-925-6794,talvarez@hospital.org,,2003-03-13,General Surgery
+60687937,Dr. Christopher Sullivan,564-329-5805,,Fellow,2017-12-27,Cardiology Fellow
+19248857,Dr. Kelsey Townsend,782-572-1285,ktownsend@hospital.org,Chief of Surgery,"Oct 09, 1989",General Surgery
+84010369,Dr. Charles Wheeler,246-218-4039,cwheeler@hospital.org,,2021-04-04,Oncology Fellow
+76136313,Dr. Tammy Wolfe,,twolfe@hospital.org,Chief of Surg){[ery,2001-10-07,General Surgery
+26850466,Dr. Holly Green,980-480-6395,hgreen@hospital.org,Attending Physician,2015-05-12,Internal Medicine
+1595980,Dr. Dustin Espinoza,813-761-2803,despinoza@hospital.org,Attending Physician,2013-08-07,Internal Medicine
+55502242,Dr. Dakota Hoover,370-988-7707,dhoover@hospital.org,Medical Director,1989-07-18,Internal Medicine
+32479628,Dr. Deanna Gomez,483-527-3601,dgomez@hospital.org,,1999-08-10,Internal Medicine
+3848675,Dr. Austin Hubbard,535-615-6542,ahubbard@hospital.org,Medical Director,2002-07-07,Internal Medicine
+92701942,Dr. Kathryn Lamb,680-384-2539,,Medical Director,24-06-2001,Internal Medicine
+57361342,Dr. Matthew Graves,925-265-5657,mgraves@hospital.org,Resident,2015-11-21,Pediatrics Resident
+65899010,Dr. Andre Shaffer,403-487-3549,ashaffer@hospital.org,,2015-07-16,Internal Medicine Resident
+41375958,Dr. Adam Gross,865-611-8219,agross@hospital.org,Resident,2023-03-18,Pediatrics Resident
+90422821,Dr. Kristen Williams,219-553-2062,kwilliams@hospital.org,Medical Director,1987-05-10,Internal Medicine
+56413376,Dr. Courtney Jones,290-988-8213,cjones@hospital.org,Attending Physician,2013-11-19,Internal Medicine
+60109170,Dr. Jennifer Larsen,412-971-4328,jlarsen@hospital.org,Chief of Surgery,2003-04-07,General Surgery
+14810462,Dr. Benjamin Lopez,937-674-3738,blopez@hospital.org,Attending Physician,2008-09-30,Internal Medicine
+70912820,Dr. Michael Farmer,490-772-7386,mfarmer@hospital.org,Chief of Surgery,2001-08-21,General Surgery
+26273155,Dr. John Stanley,582-700-8514,jstanley@hospital.org,,2002-02-08,General Surgery
+86891917,Dr. Nicole Bell,798-347-8435,nbell@hospital.org,Medical Director,1989-07-15,Internal Medicine
+2179772,Dr. Brandy Hamilton,444-474-5866,bhamilton@hospital.org,Attending Physician,2005-06-12,Internal Medicine
+15477699,Dr. Cheryl Morgan,938-841-6651,,Resident,31-01-2020,Pediatrics Resident
+24680961,Dr. Charles Roach,449-405-8074,croach@hospital.org,,2016-11-29,Pulmonary Fellow
+60472130,Dr. Joshua Davis,772-781-7704,,Chief` of Surgery,1998-02-06,General Surgery
+85442509,Dr. Alexandria Cox,594-238-2961,acox@hospital.org,Chief of Surgery,1991-05-07,General Surgery
+85721569,Dr. Gene White,464-610-6273,gwhite@hospital.org,Medical Direct[$[or,1989-10-26,Internal Medicine
+78835952,Dr. Brian Bryant,,bbryant@hospital.org,Attending Physician,2011-08-17,Internal Medicine
+83478345,Dr. Tina Wong,713-897-4489,twong@hospital.org,Medical Director,1993-01-06,Internal Medicine
+76023915,Dr. Andrew Johnson,810-297-7734,ajohnson@hospital.org,Chief of Surgery,2002-07-17,General Surgery
+68126550,Dr. Matthew Mckee,308-782-6101,mmckee@hospital.org,Chief of Surgery,1985-11-27,General Surgery
+14331924,Dr. Alexandra Davis,659-358-5119,adavis@hospital.org,Chief of Surgery,2002-12-21,General Surgery
+24310424,Dr. Gregory Cooper,563-435-8635,gcooper@hospital.org,Medical Director,1999-11-06,Internal Medicine
+45221144,Dr. Tiffany Sanchez,561-213-6566,tsanchez@hospital.org,Chief of Surgery,2000-07-18,General Surgery
+36904623,Dr. Elizabeth White,306-587-6593,ewhite@hospital.org,Fellow,2022-12-10,Pulmonary Fellow
+87914843,Dr. Christopher Riddle,,criddle@hospital.org,Attending Physician,12/22/2006,Internal Medicine
+97820473,Dr. Brian Johnson,625-899-5371,bjohnson@hospital.org,Attending Physician,2013-02-06,Internal Medicine
+43465215,Dr. Amanda King,694-267-3917,aking@hospital.org,Attending Physician,2006-07-02,Internal Medicine
+87443729,Dr. Derrick Campos,,dcampos@hospital.org,Fellow,2019-12-10,Cardiology Fellow
+27379950,Dr. Matthew Martin,783-521-4226,mmartin@hospital.org,Medical Director,2004-12-02,Internal Medicine
+35313318,Dr. Gabriel Rice,283-369-2852,grice@hospital.org,Medical @||Director,1987-10-28,Internal Medicine
+59809156,Dr. Jennifer Miller,,jmiller@hospital.org,Medical Director,1989-08-08,Internal Medicine
+32936705,Dr. John Klein,570-927-2946,jklein@hospital.org,Fellow,2023-12-28,Pulmonary Fellow
+97555362,Dr. Timothy Mason,643-372-4862,tmason@hospital.org,,1989-09-19,Internal Medicine
+55337383,Dr. Jeffrey Ferrell,763-661-7794,jferrell@hospital.org,Medical Director,1989-06-12,Internal Medicine
+26541305,Dr. Kelly Hall,,khall@hospital.org,Chief of Surgery,1992-07-20,General Surgery
+45660546,Dr. Julie Elliott,798-990-1915,jelliott@hospital.org,Fellow,2024-12-24,Cardiology Fellow
+54706723,Dr. Michele Walker,811-564-4093,mwalker@hospital.org,Attending Physician,2006.09.20,Internal Medicine
+65615523,Dr. Matthew Benitez,286-854-3173,mbenitez@hospital.org,Chie>|f of Surgery,1996-03-12,General Surgery
+72630284,Dr. Stephen Davis,208-896-6608,sdavis@hospital.org,Resident,2019-03-05,Surgery Resident
+42561181,Dr. Jennifer Brown,757-807-2764,jbrown@hospital.org,Reside=nt,2017-01-11,Internal Medicine Resident
+23508056,Dr. Rose Sharp,925-282-7368,rsharp@hospital.org,Medical Director,1994-10-02,Internal Medicine
+47250350,Dr. Mike Vasquez,422-390-1695,,Chief of Surgery,1995-01-15,General Surgery
+13000979,Dr. Jacob Parsons,229-865-5130,jparsons@hospital.org,Chief of Surgery,2002-11-26,General Surgery
+3811859,Dr. Amanda Moore,,amoore@hospital.org,Attending Physician,2012-03-09,Internal Medicine
+26569650,Dr. Chase Butler,611-661-3519,cbutler@hospital.org,Attending Physician,2013-03-25,Internal Medicine
+34083451,Dr. Lisa Richard,889-202-7375,lrichard@hospital.org,Chief of Surgery,1989-08-31,General Surgery
+73902678,Dr. Brenda Parsons,635-298-7346,bparsons@hospital.org,Chief of Surgery,"Feb 02, 1995",General Surgery
+74142676,Dr. David Roberts,,droberts@hospital.org,Fellow,2018-04-02,Cardiology Fellow
+76354638,Dr. Cassidy Rowe,691-358-4798,crowe@hospital.org,Attending Physician,10/18/2008,Internal Medicine
+65944780,Dr. Daniel Gibson,529-506-2841,dgibson@hospital.org,Chief of Surge(ry,1993-03-09,General Surgery
+64583033,Dr. Kelli Montoya,932-713-4285,kmontoya@hospital.org,Chief of Surg&ery,2005.03.22,General Surgery
+46969753,Dr. Jonathan Mason,329-826-9763,jmason@hospital.org,Chief of Surgery,2001-11-27,General Surgery
+13166055,Dr. Sarah Cardenas,893-845-9407,scardenas@hospital.org,Chief of Surgery,2003-08-26,General Surgery
+47903634,Dr. Robert Rodriguez,504-316-7416,rrodriguez@hospital.org,Medical @+Director,2002-02-17,Internal Medicine
+52058467,Dr. Michael Hall,901-323-2927,mhall@hospital.org,Attending Physician,2008-08-17,Internal Medicine
+50225945,Dr. Robert Clarke,569-811-8043,rclarke@hospital.org,Chief of Surgery,2001-02-08,General Surgery
+86836748,Dr. Lisa Richmond,291-643-5254,lrichmond@hospital.org,Medical Director,2004-09-25,Internal Medicine
+47638156,Dr. Gregory Hunt,596-393-5055,ghunt@hospital.org,Medical Director,1996-07-28,Internal Medicine
+80326548,Dr. Andrea Martin,623-516-2841,amartin@hospital.org,Chief of Surgery,2002-07-03,General Surgery
+81955788,Dr. Darrell Scott,622-624-4214,dscott@hospital.org,Attending Physician,04/10/2012,Internal Medicine
+51231258,Dr. Melissa Hooper,687-698-4002,mhooper@hospital.org,,2009-05-01,Internal Medicine
+48400165,Dr. Andres Vasquez,659-278-9220,,Chief of Surgery,1997-02-05,General Surgery
+51210311,Dr. Spencer Jimenez,963-442-8322,sjimenez@hospital.org,Resident,2021-05-18,Internal Medicine Resident
+38364599,Dr. Lisa Lopez,288-387-4699,llopez@hospital.org,Chief of Surgery,1987-03-11,General Surgery
+26782827,Dr. Douglas Clarke,409-910-1690,dclarke@hospital.org,Medical Director,2001-02-21,Internal Medicine
+67530469,Dr. Jesus Moreno,317-750-5013,jmoreno@hospital.org,Resident,2019-03-07,Internal Medicine Resident
+45574392,Dr. James White,484-204-7585,jwhite@hospital.org,Chief of Surgery,2003-03-04,General Surgery
+2447845,Dr. Arthur Allen,232-201-6442,aallen@hospital.org,Fellow,2017-05-25,Pulmonary Fellow
+69020641,Dr. Diana Payne,531-450-7252,dpayne@hospital.org,,2004-09-11,Internal Medicine
+16644455,Dr. Sarah Owen,350-813-6650,sowen@hospital.org,Chief of Surgery,2003-12-10,General Surgery
+32362775,Dr. Jenny Gibson,535-531-1122,jgibson@hospital.org,Medical Director,1988-03-31,Internal Medicine
+51420452,Dr. Wanda Myers,435-794-8527,wmyers@hospital.org,Attending Physician,2008-05-11,Internal Medicine
+55817108,Dr. Jose Roberts,248-536-1077,jroberts@hospital.org,Medical Director,2003-06-14,Internal Medicine
+24862292,Dr. Cheryl Wilson,841-217-9566,cwilson@hospital.org,Fellow,2016-03-09,Cardiology Fellow
+14935665,Dr. Cheryl Lopez,257-942-8900,clopez@hospital.org,Attending Physician,2008-09-24,Internal Medicine
+2962189,Dr. Shane Perkins,701-208-1168,sperkins@hospital.org,A_$ttending Physician,2014-09-30,Internal Medicine
+30558369,Dr. Reginald Brandt,548-588-3846,rbrandt@hospital.org,Chief of Surgery,2003-01-20,General Surgery
+85010056,Dr. Austin Swanson,288-997-6323,aswanson@hospital.org,Fellow,2020-01-04,Pulmonary Fellow
+96271109,Dr. Debra Phillips,342-548-7498,dphillips@hospital.org,Chief of Surgery,1998-12-15,General Surgery
+63518807,Dr. Kimberly Black,532-636-2540,kblack@hospital.org,Resident,2024-12-26,Surgery Resident
+14238411,Dr. Alan Bradford,254-373-2450,abradford@hospital.org,Resident,2020-01-28,Internal Medicine Resident
+46237298,Dr. Matthew Thomas,391-613-4745,mthomas@hospital.org,Chief of Surgery,1993-06-12,General Surgery
+9354875,Dr. Cheryl Johnson,623-835-7132,cjohnson@hospital.org,Re?/sident,2024-05-15,Internal Medicine Resident
+6416314,Dr. Brian Andrade,829-365-3796,bandrade@hospital.org,Fellow,2019-10-09,Oncology Fellow
+93685391,Dr. Kathy Alexander,422-712-3273,kalexander@hospital.org,Chief of Surgery,1995-05-30,General Surgery
+74545276,Dr. Jeffrey Stevens,778-747-2107,jstevens@hospital.org,Chief of Surgery,1998-11-09,General Surgery
+39441928,Dr. Ronald Duffy,205-678-3002,rduffy@hospital.org,Attending Physician,2014-12-26,Internal Medicine
+83657147,Dr. Danielle Riley,915-566-7677,driley@hospital.org,Medical Director,1991.11.20,Internal Medicine
+60688199,Dr. Derek Garcia,337-882-4298,dgarcia@hospital.org,Attending Physi={+cian,2013-08-28,Internal Medicine
+49343443,Dr. Jeremy Robinson,540-597-9431,jrobinson@hospital.org,Attending Physician,2008-02-29,Internal Medicine
+37816069,Dr. Allen Walsh,508-585-7848,awalsh@hospital.org,,2011-07-21,Internal Medicine
+73454966,Dr. Hunter Edwards,743-661-2233,hedwards@hospital.org,,1989-08-27,Internal Medicine
+85607236,Dr. Travis Brown,522-376-4319,tbrown@hospital.org,Attending Physician,2008-03-24,Internal Medicine
+57210758,Dr. Catherine Pacheco,718-873-2846,cpacheco@hospital.org,Chief of Surgery,1992-08-31,General Surgery
+97251093,Dr. David Middleton,974-671-6389,dmiddleton@hospital.org,Attending P&hysician,2006.12.10,Internal Medicine
+65272457,Dr. Cynthia Wright,669-679-1930,cwright@hospital.org,Fellow,2025-02-10,Pulmonary Fellow
+98511056,Dr. Debbie Lawrence,623-982-8419,dlawrence@hospital.org,Fello!#!w,2016-07-22,Cardiology Fellow
+78941282,Dr. Henry Booth,293-627-9823,hbooth@hospital.org,Medical Director,1995-04-01,Internal Medicine
+90134505,Dr. Stacey Wheeler,933-953-5952,swheeler@hospital.org,Medical Director,1999-12-02,Internal Medicine
+12676002,Dr. Michael Brooks,217-614-6549,mbrooks@hospital.org,Fellow,2016-03-19,Cardiology Fellow
+26416289,Dr. Daniel Simmons,921-439-4570,,Attending Physician,2013-05-12,Internal Medicine
+38235672,Dr. Samantha Smith,346-223-3348,,Attending Physician,2009-04-04,Internal Medicine
+77254542,Dr. Meghan Morgan,703-872-3246,mmorgan@hospital.org,Chief of S*%urgery,1989-02-12,General Surgery
+91092357,Dr. Erika Bell,,ebell@hospital.org,Resident,2016-03-14,Surgery Resident
+70740738,Dr. Scott Rosario,554-887-2985,srosario@hospital.org,,1999-02-15,Internal Medicine
+36203563,Dr. Desiree Smith,,dsmith@hospital.org,Attending Physician,2013-03-22,Internal Medicine
+95935576,Dr. Misty Dudley,235-517-5683,mdudley@hospital.org,Resident,2023-07-19,Internal Medicine Resident
+81645378,Dr. Henry Meyers,,hmeyers@hospital.org,Fellow,2021-02-20,Pulmonary Fellow
+90146687,Dr. George Shepherd,369-206-2603,gshepherd@hospital.org,Medical Director,1985-08-16,Internal Medicine
+85402490,Dr. David Romero,,dromero@hospital.org,Fellow,2024-05-26,Pulmonary Fellow
+31236562,Dr. Stephen Arnold,598-838-1618,sarnold@hospital.org,Medical Director,1997-01-11,Internal Medicine
+26833761,Dr. Gregory Beasley,283-573-9469,,Chief of Surgery,2000-04-18,General Surgery
+20262745,Dr. Emily Caldwell,400-272-6355,ecaldwell@hospital.org,Medical Direct}or,1998-08-07,Internal Medicine
+74177732,Dr. Jason Richardson,955-717-5636,jrichardson@hospital.org,Medical Director,2001-02-13,Internal Medicine
+67449932,Dr. Jonathan Kennedy,634-634-4156,jkennedy@hospital.org,Medical Director,1991.07.11,Internal Medicine
+49656154,Dr. Nicholas Booker,,nbooker@hospital.org,Medical Director,2001-08-12,Internal Medicine
+32507969,Dr. Lucas Mclean,663-419-3321,,At=`^tending Physician,2010-09-07,Internal Medicine
+70727433,Dr. Gregory Alexander,820-455-2299,,Attending Physician,2010-04-25,Internal Medicine
+67318965,Dr. Rodney Horton,631-710-6100,rhorton@hospital.org,Fellow,2021-11-29,Oncology Fellow
+76756807,Dr. Bernard Jones,212-879-1998,bjones@hospital.org,Attending Physician,2006-01-08,Internal Medicine
+65129789,Dr. Bethany Diaz,361-672-2746,bdiaz@hospital.org,Chi@?ef of Surgery,1989-12-30,General Surgery
+46780056,Dr. John Boone,979-298-8905,jboone@hospital.org,Chief of Surgery,1999-07-08,General Surgery
+26534806,Dr. Melinda Dudley,808-946-5904,mdudley@hospital.org,Fellow,2022-05-11,Pulmonary Fellow
+16552451,Dr. Nicholas Lambert,908-457-1785,nlambert@hospital.org,,2010-02-22,Internal Medicine
+28767463,Dr. Scott Sexton,857-297-4103,ssexton@hospital.org,Medical Director,1987-07-09,Internal Medicine
+46690067,Dr. Michael Thompson,839-855-8342,mthompson@hospital.org,Attending Physician,2013-04-07,Internal Medicine
+1759971,Dr. Alicia Chapman,757-365-3776,achapman@hospital.org,Attending Physician,2007-06-24,Internal Medicine
+57364083,Dr. Timothy Harrison,637-646-3855,tharrison@hospital.org,Attending Physician,2007-12-09,Internal Medicine
+98323355,Dr. Lori Flowers,464-668-7010,lflowers@hospital.org,Attending Physician,2013-12-22,Internal Medicine
+86456534,Dr. Brianna Scott,221-713-1899,bscott@hospital.org,Medical Director,1996-10-24,Internal Medicine
+11390042,Dr. Victor Sampson,927-232-8694,vsampson@hospital.org,Medical Director,2000-01-25,Internal Medicine
+42616744,Dr. Jared Kelly,988-673-2962,jkelly@hospital.org,Chief of Surgery,1986-08-06,General Surgery
+40363178,Dr. Larry Gray,528-273-7361,lgray@hospital.org,Resident,2018-09-26,Surgery Resident
+67421944,Dr. Francis Gaines,403-703-1398,fgaines@hospital.org,Resident,05/19/2022,Surgery Resident
+9784827,Dr. Donald Garcia,,dgarcia@hospital.org,Attending Phy#]|sician,2011-11-04,Internal Medicine
+79139297,Dr. Alexandria Wagner,745-233-3655,awagner@hospital.org,Medical Director,1986-07-02,Internal Medicine
+29902415,Dr. Diane Woods,743-607-6705,dwoods@hospital.org,Resident,2017-04-25,Pediatrics Resident
+66144839,Dr. Shaun Hall,396-555-1862,shall@hospital.org,Medical Director,1987-02-03,Internal Medicine
+49259686,Dr. Brittany Haynes,749-439-9205,bhaynes@hospital.org,Resident,2016-05-23,Surgery Resident
+45786271,Dr. Nancy Aguilar,935-782-1406,naguilar@hospital.org,Fellow,2024-02-06,Pulmonary Fellow
+46682225,Dr. Douglas Anderson,371-248-6271,danderson@hospital.org,Medical Director,1997.03.14,Internal Medicine
+99476284,Dr. Robert Jackson,,,Attending Physician,2006-09-17,Internal Medicine
+62009570,Dr. Frank Wells,686-902-7164,fwells@hospital.org,Attending Physician,"May 15, 2007",Internal Medicine
+9659375,Dr. Carrie Davis,327-996-7126,,Medical Directo.r,12-09-1991,Internal Medicine
+94774893,Dr. Cheryl Gray,841-478-8322,cgray@hospital.org,Chief of _Surgery,1992-04-15,General Surgery
+59709678,Dr. Roger Werner,511-764-5227,rwerner@hospital.org,Chief of Surgery,2002-05-31,General Surgery
+52980777,Dr. Anthony Jackson,609-523-1370,ajackson@hospital.org,Fellow,2023-05-09,Cardiology Fellow
+3157425,Dr. Ann Harris,510-322-5723,aharris@hospital.org,Resident,2018-01-10,Surgery Resident
+49194301,Dr. Karen Mercer,844-930-7285,kmercer@hospital.org,,2007-05-06,Internal Medicine
+30331937,Dr. Bridget Gray,909-920-5623,bgray@hospital.org,Attending Physician,2008-12-20,Internal Medicine
+21488299,Dr. Matthew Potts,818-253-5590,mpotts@hospital.org,Fellow,2024-01-07,Pulmonary Fellow
+34950346,Dr. Joseph Richardson,321-516-4276,jrichardson@hospital.org,Fello}w,2022-04-22,Pulmonary Fellow
+21884936,Dr. Jeanette Miller,446-811-6157,jmiller@hospital.org,Medical Director,1991-04-17,Internal Medicine
+55079439,Dr. William Gardner,835-336-9727,wgardner@hospital.org,Res>)=ident,2017-03-12,Surgery Resident
+55364227,Dr. Kathryn Cox,885-552-2617,kcox@hospital.org,Medical Director,2003-12-02,Internal Medicine
+42588599,Dr. Megan Moore,243-300-5054,mmoore@hospital.org,Chief of Surgery,1995-08-13,General Surgery
+1095108,Dr. William Rogers,268-212-2772,wrogers@hospital.org,Attending Physician,2011-07-17,Internal Medicine
+99544175,Dr. Wayne Miller,851-852-2010,,Fellow,"Mar 30, 2020",Pulmonary Fellow
+39836197,Dr. Ashley Smith,,asmith@hospital.org,,1998-03-24,General Surgery
+31917863,Dr. Richard Smith,663-596-8885,rsmith@hospital.org,Med*ical Director,1987-08-11,Internal Medicine
+84799150,Dr. Ryan Morgan,448-701-6688,rmorgan@hospital.org,Medical Director,2003-09-06,Internal Medicine
+16529641,Dr. Linda Tanner,307-604-9231,,Attending Physician,28-07-2008,Internal Medicine
+36703626,Dr. Zachary Fleming,324-270-8684,zfleming@hospital.org,Attending Physician,2008-04-07,Internal Medicine
+86536049,Dr. Robert Morse,347-238-3865,rmorse@hospital.org,Chief of Surgery,1987-09-25,General Surgery
+20188736,Dr. Adrian Holmes,617-850-5451,aholmes@hospital.org,Resident,2024-10-17,Surgery Resident
+21954303,Dr. Shelby Manning,,smanning@hospital.org,Fellow,2015-12-17,Pulmonary Fellow
+50149682,Dr. James Perry,861-668-6368,jperry@hospital.org,Resident,2024-04-13,Internal Medicine Resident
+17139246,Dr. Bailey Odom,,bodom@hospital.org,,2012-09-25,Internal Medicine
+63331506,Dr. Manuel Nelson,632-632-3407,mnelson@hospital.org,Medical Director,1995-05-24,Internal Medicine
+88351597,Dr. Dana Smith,897-722-4743,dsmith@hospital.org,Medical Director,1985-07-12,Internal Medicine
+14367392,Dr. Melissa Rogers,630-304-4138,,Attending Physician,2014-03-13,Internal Medicine
+58602589,Dr. Stacy Ward,664-364-2660,sward@hospital.org,Chief of Surgery,1998-07-07,General Surgery
+60587796,Dr. Holly Cisneros,826-618-2000,hcisneros@hospital.org,Med|:+ical Director,2002-01-03,Internal Medicine
+226730,Dr. Gabriela Davis,464-584-2674,gdavis@hospital.org,Resident,"Feb 21, 2016",Surgery Resident
+21927208,Dr. John Humphrey,974-721-8515,jhumphrey@hospital.org,,2022-02-18,Surgery Resident
+71446952,Dr. Austin Singh,583-608-7609,asingh@hospital.org,Resident,2021-09-29,Surgery Resident
+38175176,Dr. William Morrow,633-541-1550,wmorrow@hospital.org,Resident,2020-08-10,Surgery Resident
+12144290,Dr. David Raymond,430-646-2662,draymond@hospital.org,Chief of Surgery,1999-05-27,General Surgery
+48521164,Dr. Benjamin Lee,722-753-9133,blee@hospital.org,Resident,2018-11-23,Internal Medicine Resident
+50810945,Dr. Amanda Cox,383-793-9162,acox@hospital.org,Fel%~?low,2025-02-23,Pulmonary Fellow
+65152736,Dr. Samantha Fitzgerald,206-513-3525,sfitzgerald@hospital.org,Attending Physician,2013-02-23,Internal Medicine
+68702998,Dr. Justin Moore,260-891-7823,jmoore@hospital.org,Attending Physician,2014-12-20,Internal Medicine
+22059629,Dr. Karl Crawford,560-473-4606,kcrawford@hospital.org,Chief of Surgery,2001-05-04,General Surgery
+22799743,Dr. Claudia Brown,357-863-1717,cbrown@hospital.org,Fellow,2018-03-21,Cardiology Fellow
+63008343,Dr. Erica Weber,412-764-9844,eweber@hospital.org,Chief of Surgery,1992-12-23,General Surgery
+66502206,Dr. Michael Pearson,203-770-9080,mpearson@hospital.org,><~Attending Physician,2011-05-27,Internal Medicine
+69625321,Dr. George Alexander,999-573-2119,galexander@hospital.org,Medical Director,1990-02-13,Internal Medicine
+17422238,Dr. Jeffrey Murray,924-770-8338,jmurray@hospital.org,Fellow,2023-01-07,Cardiology Fellow
+53583716,Dr. Steven Galvan,808-501-9498,,,2008-06-07,Internal Medicine
+28542217,Dr. Amy Lewis,568-302-7143,alewis@hospital.org,Attending Physician,2013-10-27,Internal Medicine
+32289679,Dr. Michael Hill,743-878-4235,mhill@hospital.org,Medical Director,1997-05-25,Internal Medicine
+18827162,Dr. Jessica Martin,314-948-8528,jmartin@hospital.org,Attending Physician,2008-10-28,Internal Medicine
+15189514,Dr. Lauren Webb,848-258-9016,,Fellow,"Jun 30, 2017",Pulmonary Fellow
+83561209,Dr. Julie Rodriguez,233-625-2822,,Attending Physician,2007-08-20,Internal Medicine
+99881994,Dr. Larry Howe,542-767-6738,lhowe@hospital.org,Fellow,2024-06-15,Cardiology Fellow
+97759202,Dr. Diana Green,,dgreen@hospital.org,,2018-07-18,Internal Medicine Resident
+26530018,Dr. Kristin Chavez,883-815-1449,kchavez@hospital.org,Attending Physician,2013-05-04,Internal Medicine
+91867606,Dr. Amanda Jackson,436-653-8953,,Medical Director,1988-01-29,Internal Medicine
+19727103,Dr. Natalie Jones,767-443-8509,njones@hospital.org,Resident,2019-12-10,Surgery Resident
+93835955,Dr. Michelle Valenzuela,672-315-5128,mvalenzuela@hospital.org,Chief of Sur&/gery,1992-02-01,General Surgery
+17336923,Dr. Samuel Myers,343-455-8568,smyers@hospital.org,Attending Physician,2007-11-09,Internal Medicine
+28805050,Dr. Brenda Johnson,750-704-7408,bjohnson@hospital.org,Medical Director,1994-10-19,Internal Medicine
+86205207,Dr. Shawn Wiggins,939-791-7792,swiggins@hospital.org,Chief of Surgery,1997-04-09,General Surgery
+75517669,Dr. Traci Scott,666-383-9865,tscott@hospital.org,Attending Physician,2009-05-29,Internal Medicine
+75078107,Dr. Victor Pope,861-446-6994,vpope@hospital.org,Chief of(! Surgery,2000-06-22,General Surgery
+27053514,Dr. Jennifer Thompson,786-841-4159,jthompson@hospital.org,Medical Director,2001-06-13,Internal Medicine
+48134261,Dr. William Norris,811-499-4904,wnorris@hospital.org,Medi?cal Director,"Nov 04, 2004",Internal Medicine
+76103892,Dr. Madison Davis,434-210-3192,mdavis@hospital.org,Medical Director=,1993-07-08,Internal Medicine
+60194645,Dr. Michael Crawford,,mcrawford@hospital.org,,2012-03-28,Internal Medicine
+24418111,Dr. Levi Hernandez,320-970-4702,lhernandez@hospital.org,Attending Physician,2012-01-01,Internal Medicine
+90647027,Dr. Robert Smith,496-807-1260,rsmith@hospital.org,,1990-02-15,Internal Medicine
+37444214,Dr. Steven Alexander,692-640-7250,salexander@hospital.org,Medical Director,2000-06-27,Internal Medicine
+71140731,Dr. Victor Bowers,207-472-6708,vbowers@hospital.org,Medical +Director,1992-07-01,Internal Medicine
+83234204,Dr. Thomas Ruiz,592-584-5162,truiz@hospital.org,Medical Director,1999-12-05,Internal Medicine
+91543222,Dr. Richard Padilla,247-225-6720,rpadilla@hospital.org,Resident,2021-09-12,Surgery Resident
+84584022,Dr. Keith Gould,258-552-5681,,Attending Physician,25-01-2011,Internal Medicine
+82288278,Dr. Cassie Peterson,498-917-3992,cpeterson@hospital.org,Chief of Surgery,1993-08-25,General Surgery
+46719945,Dr. Rebecca Hoffman,440-531-7051,rhoffman@hospital.org,Medical Director,1999.02.09,Internal Medicine
+1880768,Dr. Jonathan Quinn,255-502-1394,jquinn@hospital.org,Attending Physician,2008-08-12,Internal Medicine
+29657430,Dr. Sarah Thomas,427-331-1024,,Attending Physician,2010-03-26,Internal Medicine
+16295215,Dr. Emily Williams,467-664-2447,ewilliams@hospital.org,Attending Physician,2009-04-05,Internal Medicine
+75240961,Dr. Michael Johnson,204-527-9308,mjohnson@hospital.org,Attending Physician,2009-12-31,Internal Medicine
+66843439,Dr. Natasha Nelson,415-840-9807,nnelson@hospital.org,Resident,2020-12-08,Surgery Resident
+42929433,Dr. Andre Morrow,488-327-6841,amorrow@hospital.org,Chief of Surgery,2002-06-29,General Surgery
+57662882,Dr. Tim Hoffman,631-452-5671,thoffman@hospital.org,Medical Director,1994-12-04,Internal Medicine
+52735696,Dr. Elizabeth Williams,744-709-3623,ewilliams@hospital.org,Chief of Surgery,1991-08-26,General Surgery
+53360438,Dr. Stanley Wong,872-561-9034,swong@hospital.org,A!:>ttending Physician,2005-05-30,Internal Medicine
+68370485,Dr. Jennifer Myers,984-854-7672,jmyers@hospital.org,Attending Physician,2010-08-28,Internal Medicine
+68737547,Dr. Michael Preston,246-407-6152,mpreston@hospital.org,Chief of Surgery,1986-04-04,General Surgery
+15205440,Dr. Nicole Graves,865-912-3733,ngraves@hospital.org,Resident,2018-07-30,Pediatrics Resident
+28621824,Dr. Jerry Harris,480-846-4700,jharris@hospital.org,Medical Director,1985-06-01,Internal Medicine
+29035068,Dr. Linda Carson,639-219-6978,lcarson@hospital.org,Attending Physician,2009-09-15,Internal Medicine
+10057460,Dr. Jacob Figueroa,612-985-1539,jfigueroa@hospital.org,Resident,2017-09-23,Internal Medicine Resident
+26924881,Dr. Jessica Sharp,354-528-3108,jsharp@hospital.org,Fellow,2025-04-19,Cardiology Fellow
+84760979,Dr. Tina Gomez,749-349-6720,,Chief of Su&?rgery,2004-08-13,General Surgery
+74650979,Dr. Amy Robinson,,arobinson@hospital.org,Attending >Physician,2008-04-02,Internal Medicine
+27450641,Dr. Ann Moss,809-904-1233,amoss@hospital.org,,2017-08-11,Surgery Resident
+72863173,Dr. Robert Marshall,895-817-8904,rmarshall@hospital.org,,1998-02-13,Internal Medicine
+64825048,Dr. Thomas Adams,301-529-6642,tadams@hospital.org,Resident,2024-06-13,Pediatrics Resident
+88907140,Dr. Angela Brandt,799-691-8188,abrandt@hospital.org,Resident,2025-05-08,Surgery Resident
+20026052,Dr. Greg Robinson,,grobinson@hospital.org,,2004-05-20,General Surgery
+26887321,Dr. Priscilla Stewart,,pstewart@hospital.org,Attending Physician,2009-07-23,Internal Medicine
+62516399,Dr. Carrie Lopez,,,Fellow,2023-01-31,Cardiology Fellow
+16146847,Dr. Stephen Larson,730-460-4194,slarson@hospital.org,Attending Physician,2015-05-17,Internal Medicine
+88514139,Dr. Shari Mccarthy,710-939-2962,smccarthy@hospital.org,Chief of Surgery,1998-05-12,General Surgery
+36116762,Dr. Kristin Greene,,kgreene@hospital.org,,2003-09-10,General Surgery
+38928918,Dr. Scott Young,,syoung@hospital.org,Fellow,2015-09-15,Oncology Fellow
+70463415,Dr. Amanda Garza,242-498-5668,agarza@hospital.org,Chief of Surgery,1995-06-07,General Surgery
+52924655,Dr. Thomas Vincent,898-366-2233,tvincent@hospital.org,Resident,2024-10-31,Surgery Resident
+30650840,Dr. James White,767-391-3964,jwhite@hospital.org,Chief of Surgery,1995-10-22,General Surgery
+23440658,Dr. John Lewis,374-472-5906,jlewis@hospital.org,!@Resident,2020-08-21,Pediatrics Resident
+78142426,Dr. Brandy Good,481-968-8423,bgood@hospital.org,Attending Physician,2005-12-19,Internal Medicine
+19028416,Dr. Richard White,810-553-6013,rwhite@hospital.org,Chief of Surgery,1989-11-28,General Surgery
+89987234,Dr. April Summers,836-520-3058,asummers@hospital.org,Attendin&]g Physician,03/11/2008,Internal Medicine
+64101213,Dr. Jesse Howard,200-423-4001,jhoward@hospital.org,Residen?(t,2023-07-20,Pediatrics Resident
+86499480,Dr. Michael Warner,,mwarner@hospital.org,Chief of Surgery,2003-03-30,General Surgery
+7698465,Dr. April Brown,972-401-9103,abrown@hospital.org,Resident,2017-01-14,Internal Medicine Resident
+70756506,Dr. Dave Bartlett,606-597-3419,dbartlett@hospital.org,,05/07/2023,Pulmonary Fellow
+8208291,Dr. Travis Proctor,852-929-3709,tproctor@hospital.org,Medical Director,1998-01-25,Internal Medicine
+92836341,Dr. Alec Perez,821-644-8540,aperez@hospital.org,Chief of Surgery,31-12-1992,General Surgery
+60958242,Dr. Jeffery Rodgers,,jrodgers@hospital.org,Medical Director,1997-10-09,Internal Medicine
+88572874,Dr. Richard Fernandez,,rfernandez@hospital.org,Attend|ing Physician,2007-11-29,Internal Medicine
+97095570,Dr. Keith Smith,,ksmith@hospital.org,Attending Physician,2012-05-12,Internal Medicine
+22196373,Dr. Sean Cross,260-852-2468,,Attending Physician,2014-11-12,Internal Medicine
+48826885,Dr. Richard Reid,,rreid@hospital.org,Medical Director,1990-08-28,Internal Medicine
+8849697,Dr. Brian Salazar,870-488-7351,bsalazar@hospital.org,,"Sep 30, 2007",Internal Medicine
+89754959,Dr. Donna Simpson,662-687-2551,dsimpson@hospital.org,Fellow,2023-03-07,Oncology Fellow
+84548891,Dr. Sara Erickson,921-915-8514,serickson@hospital.org,Resident,2023-11-02,Pediatrics Resident
+81373071,Dr. Sarah Cohen,738-753-8814,scohen@hospital.org,Attending Physician,"Aug 29, 2011",Internal Medicine
+9254183,Dr. Cynthia Copeland,787-310-4280,ccopeland@hospital.org,Medical Director,04-06-1990,Internal Medicine
+31650912,Dr. Megan Bowman,966-715-2906,mbowman@hospital.org,Medical Director,2002-05-17,Internal Medicine
+18145413,Dr. Brittany Bennett,547-309-1349,bbennett@hospital.org,Medical Director,1986-02-26,Internal Medicine
+34783616,Dr. John Fox,264-993-4734,jfox@hospital.org,Fellow,2020-04-19,Pulmonary Fellow
+52914133,Dr. Alex Valdez,204-486-9069,avaldez@hospital.org,Medical Director,1993-09-30,Internal Medicine
+19499243,Dr. Rachel Arnold,406-469-2770,rarnold@hospital.org,Resident,2018-07-17,Pediatrics Resident
+77959542,Dr. Jessica Macdonald,570-686-7323,jmacdonald@hospital.org,Attending Physician,2010-04-02,Internal Medicine
+19852790,Dr. Michael Cruz,,mcruz@hospital.org,Fellow,2017-03-07,Cardiology Fellow
+49034436,Dr. Stephanie Gibson,667-323-6773,,Medical Director,1998-10-02,Internal Medicine
+7779276,Dr. Rodney Mccarthy,908-924-4878,rmccarthy@hospital.org,Resident,2022-01-05,Surgery Resident
+22546960,Dr. Alexandra Sanchez,,,,1987-12-16,General Surgery
+69523244,Dr. Isabel Murphy,799-698-4640,imurphy@hospital.org,Attending Physician,2006-12-20,Internal Medicine
+85877883,Dr. Sandra Williams,641-399-3150,,Chief of Surgery,1989-09-18,General Surgery
+69642346,Dr. Dave Wilson,458-884-6271,dwilson@hospital.org,Chief of Surgery,19-07-1993,General Surgery
+95019278,Dr. Christopher Clark,464-997-3530,cclark@hospital.org,Resident,2023-04-27,Pediatrics Resident
+34424754,Dr. Jennifer Lee,380-954-6380,jlee@hospital.org,Medical Director,1998-03-07,Internal Medicine
+44140427,Dr. Kathleen Wade,,kwade@hospital.org,Chief of Surgery,1994-03-10,General Surgery
+11804090,Dr. Edward Webster,518-202-6805,ewebster@hospital.org,Resident,2017-03-24,Internal Medicine Resident
+96633105,Dr. Jason Green,850-613-8246,jgreen@hospital.org,,11-08-1992,Internal Medicine
+69614420,Dr. Phillip Brock,593-521-7755,pbrock@hospital.org,Attending Physician,2012-07-19,Internal Medicine
+78348420,Dr. Jasmine Perez,694-633-9651,jperez@hospital.org,Fellow,06/06/2019,Oncology Fellow
+54053498,Dr. Jillian Allen,429-365-1531,jallen@hospital.org,Attending Physician,2013-10-11,Internal Medicine
+77720390,Dr. Briana Flores,290-426-6631,bflores@hospital.org,Attending Physician,2010-10-04,Internal Medicine
+17073140,Dr. Jessica Brady,387-864-1763,jbrady@hospital.org,Resident,2017-06-25,Surgery Resident
+7017246,Dr. Julie Brown,992-785-9486,jbrown@hospital.org,Resident,07-12-2015,Pediatrics Resident
+17057075,Dr. Madison Allen,785-733-1385,mallen@hospital.org,Attending Physician,01/07/2007,Internal Medicine
+80266752,Dr. Justin Gibson,,,Medical Director,1986-02-15,Internal Medicine
+87300139,Dr. Benjamin Rice,356-261-1617,brice@hospital.org,Medical Director,24-02-2001,Internal Medicine
+50034331,Dr. Tamara Walker,,twalker@hospital.org,Chief of Surgery,2003-01-30,General Surgery
+3303975,Dr. Debra Murphy,382-602-9323,dmurphy@hospital.org,,2000-12-29,General Surgery
+4944272,Dr. Brendan Moore,250-567-4676,bmoore@hospital.org,Fellow,2020-06-23,Cardiology Fellow
+91356005,Dr. Douglas Bonilla,,,Attending Physician,2011-01-31,Internal Medicine
+16121990,Dr. Mark Marks,404-500-9242,mmarks@hospital.org,,1988-07-26,Internal Medicine
+86052886,Dr. Kimberly Smith,490-892-6445,ksmith@hospital.org,Attending Physician,2009.11.13,Internal Medicine
+22588941,Dr. William Figueroa,768-314-2182,wfigueroa@hospital.org,Attending Physician,2011-09-09,Internal Medicine
+33405698,Dr. Jimmy Greene,818-999-5819,jgreene@hospital.org,Chief of Surgery,1985-06-16,General Surgery
+48639103,Dr. Brenda Caldwell,474-284-5403,bcaldwell@hospital.org,Fellow,2025-03-06,Oncology Fellow
+2512911,Dr. Gabriel Colon,311-354-9199,gcolon@hospital.org,Chief of Surgery,1996-05-07,General Surgery
+23025751,Dr. Alyssa Kane,529-582-8815,akane@hospital.org,Attending Physician,2010-10-30,Internal Medicine
+43203947,Dr. Joseph Armstrong,211-884-8006,jarmstrong@hospital.org,,2010-05-14,Internal Medicine
+69600808,Dr. Belinda Schaefer,999-825-9135,bschaefer@hospital.org,Attending Physician,2008-11-19,Internal Medicine
+79193655,Dr. Eric Beard,722-801-8984,ebeard@hospital.org,Chief of Surgery,1992-05-29,General Surgery
+67779027,Dr. Rachel Norton,812-964-3590,rnorton@hospital.org,Medical Director,1993-08-04,Internal Medicine
+39456535,Dr. Patrick Hall,802-654-1568,phall@hospital.org,Chief of Surgery,1992-08-14,General Surgery
+7597679,Dr. Kara Stephens,835-617-6546,kstephens@hospital.org,Chief of Surgery,1988-03-27,General Surgery
+28038727,Dr. Susan Brown,252-504-2715,sbrown@hospital.org,Fellow,2021-05-03,Cardiology Fellow
+96933468,Dr. Jessica Silva,550-417-5265,jsilva@hospital.org,Medical Director,1988-03-22,Internal Medicine
+41518002,Dr. Janice Lane,866-556-5901,jlane@hospital.org,Fellow,"Mar 06, 2022",Pulmonary Fellow
+92633686,Dr. Steven Banks,,sbanks@hospital.org,Attending Physician,07/05/2006,Internal Medicine
+66550191,Dr. Michael Heath,643-213-1776,,,12-11-2018,Surgery Resident
+14811420,Dr. Betty Snyder,813-586-7663,bsnyder@hospital.org,Medical Director,2001-12-30,Internal Medicine
+51462801,Dr. Frank Burns,432-579-2816,fburns@hospital.org,Medical Di|rector,1999-09-16,Internal Medicine
+35543257,Dr. Adam Thompson,393-842-7435,,Fellow,2023-03-21,Cardiology Fellow
+4684693,Dr. Evelyn Watson,883-713-5033,ewatson@hospital.org,Resident,2020-02-08,Pediatrics Resident
+79666400,Dr. Kara Scott,,kscott@hospital.org,Attending Physician,2007-08-20,Internal Medicine
+48517828,Dr. Alexander Mcclure,535-426-8376,amcclure@hospital.org,Medical Director,2002-09-05,Internal Medicine
+31936748,Dr. Arthur Price,450-804-5468,aprice@hospital.org,Chief of Surgery,2003-08-08,General Surgery
+71496620,Dr. Chad Moore,633-310-4358,cmoore@hospital.org,Fellow,2018-07-26,Pulmonary Fellow
+82145448,Dr. Sarah Lee,244-630-5274,slee@hospital.org,Resident,2020-10-26,Surgery Resident
+85526557,Dr. Christopher Lopez,937-619-9853,clopez@hospital.org,Medical Director_@[,2001-07-12,Internal Medicine
+66978344,Dr. Jade Brown,,jbrown@hospital.org,Attending Physician,2012-08-22,Internal Medicine
+43838938,Dr. Shawn Roman,,sroman@hospital.org,Attending P*&@hysician,2006-03-30,Internal Medicine
+74387763,Dr. Robin Kline,639-293-9111,rkline@hospital.org,Chief of Surgery,1991-04-07,General Surgery
+89319732,Dr. John Norton,840-816-1121,jnorton@hospital.org,Medical Director,2003-09-19,Internal Medicine
+28512351,Dr. Janice Callahan,276-539-8555,jcallahan@hospital.org,Fellow,2017-02-24,Pulmonary Fellow
+54583158,Dr. Alisha Bell,299-328-4739,abell@hospital.org,Medical Director,1985-11-18,Internal Medicine
+42049760,Dr. Alexander Golden,576-284-3565,agolden@hospital.org,Resident,2023-03-10,Internal Medicine Resident
+82103952,Dr. Dan Hunter,772-766-7307,dhunter@hospital.org,Chief of Surgery,1994-03-01,General Surgery
+93325893,Dr. Rachel Foster,716-432-4973,rfoster@hospital.org,Chief of Surgery,2005-02-10,General Surgery
+75787759,Dr. Joel Burton,,,Attending Physician,2006-04-13,Internal Medicine
+23522247,Dr. Michael Wheeler,950-302-5713,mwheeler@hospital.org,Attending Physician,2014-10-02,Internal Medicine
+87963953,Dr. Eric Blackburn,906-560-5247,eblackburn@hospital.org,Attending Physician,2006-09-25,Internal Medicine
+62902477,Dr. Anna White,453-212-3436,awhite@hospital.org,,1999-11-13,General Surgery
+2217578,Dr. Wendy Krueger,812-278-3019,,Chief of Surgery,1990-09-21,General Surgery
+82013984,Dr. Rachel Garcia,351-750-3393,rgarcia@hospital.org,Medical Director,1993-11-26,Internal Medicine
+92242068,Dr. Joe Hamilton,708-931-6992,,Attending Physician,2007-10-07,Internal Medicine
+33729058,Dr. Brenda Bryant,674-532-4193,bbryant@hospital.org,,2003-01-21,General Surgery
+64021072,Dr. Brandon Holland,828-511-4496,,Medical Director,1996-03-18,Internal Medicine
+90643779,Dr. Emily Holt,,,Resident,2018-09-15,Surgery Resident
+37146149,Dr. Reginald Hall,297-690-7153,rhall@hospital.org,Medical Director,1985-09-08,Internal Medicine
+30124978,Dr. Andrea Lane,399-749-3447,alane@hospital.org,Medical Director,1995.11.04,Internal Medicine
+80153297,Dr. Scott Le,,sle@hospital.org,Chief of Surgery,1999-08-20,General Surgery
+91795687,Dr. Deborah Patton,929-700-4714,dpatton@hospital.org,Chief of Surgery,1995-09-21,General Surgery
+65178164,Dr. Jeremy Johnson,611-796-8087,jjohnson@hospital.org,Resident,2022-04-15,Pediatrics Resident
+86936679,Dr. Albert Williams,233-572-5180,awilliams@hospital.org,Chief of Surgery,1986-03-26,General Surgery
+84464736,Dr. Victoria Elliott,797-721-1933,,Fellow,2015-06-01,Cardiology Fellow
+25361246,Dr. Jonathan George,760-270-4701,jgeorge@hospital.org,Chief of Surgery,1992-11-25,General Surgery
+75462287,Dr. Jose Francis,556-271-9468,jfrancis@hospital.org,Attending Physician,2006-04-01,Internal Medicine
+77118734,Dr. Theresa Morales,866-738-5275,tmorales@hospital.org,Chi>*ef of Surgery,1991-02-21,General Surgery
+23002680,Dr. Patricia Henderson,491-248-5468,phenderson@hospital.org,`?{Chief of Surgery,2001-04-23,General Surgery
+25972725,Dr. Leslie Martin,479-461-6079,lmartin@hospital.org,Medical Direc/tor,11/11/2003,Internal Medicine
+20685853,Dr. Marcia Alvarado,377-898-3714,malvarado@hospital.org,Attending Physician,2009-10-29,Internal Medicine
+41827111,Dr. Michael Morales,,mmorales@hospital.org,Medical Director,22-06-1996,Internal Medicine
+99390957,Dr. Angela Stout,861-797-4639,astout@hospital.org,,2017-09-20,Internal Medicine Resident
+73452269,Dr. Suzanne Berg,410-305-5237,,Chief of Surgery,1985-12-21,General Surgery
+72632307,Dr. Chad Chase,644-590-6795,cchase@hospital.org,Attending Physician,2009-02-05,Internal Medicine
+43773886,Dr. Matthew Kim,825-653-9222,mkim@hospital.org,Chief of Surgery,1996-08-06,General Surgery
+86269362,Dr. Maria Stevenson,947-603-7067,mstevenson@hospital.org,*+)Resident,2023-08-05,Surgery Resident
+86447834,Dr. Samantha Cohen,383-975-9004,scohen@hospital.org,Medical Director,1993-01-12,Internal Medicine
+94537893,Dr. Jaime Lopez,838-243-8426,jlopez@hospital.org,,2013-02-13,Internal Medicine
+74036658,Dr. Travis Henderson,894-488-2467,thenderson@hospital.org,Chief of Surgery,1985.08.05,General Surgery
+77293221,Dr. Calvin Waters,569-424-3340,cwaters@hospital.org,Resident,2019-12-03,Surgery Resident
+15287126,Dr. Gregory Henry,581-670-8742,ghenry@hospital.org,Resident,2024-05-29,Pediatrics Resident
+56022668,Dr. Shane Graham,693-605-1375,sgraham@hospital.org,,2005-03-07,Internal Medicine
+48217648,Dr. Erin Howell,,ehowell@hospital.org,Attending Physician,2009-12-25,Internal Medicine
+63847804,Dr. Tracey Moore,660-508-8571,tmoore@hospital.org,,2001-03-23,General Surgery
+59576218,Dr. Brittany Thomas,673-599-4143,bthomas@hospital.org,Resident,2015-08-13,Pediatrics Resident
+96311584,Dr. Craig Tate,723-384-9891,ctate@hospital.org,Attending Physician,2013-12-18,Internal Medicine
+61710496,Dr. Bryan Robinson,,brobinson@hospital.org,Atten]@>ding Physician,2006-04-14,Internal Medicine
+36937497,Dr. Christine Hill,271-976-8368,chill@hospital.org,Medical Director,1993-02-13,Internal Medicine
+20516416,Dr. Anthony Collins,376-822-5423,acollins@hospital.org,Resident,2023-06-25,Surgery Resident
+73073297,Dr. Madison Hughes,727-341-3796,mhughes@hospital.org,Attending Physician,2011-01-22,Internal Medicine
+46906625,Dr. Lawrence Hammond,914-936-1435,lhammond@hospital.org,Attending Physician,2008-07-10,Internal Medicine
+71140390,Dr. Tommy Bender,645-269-9650,tbender@hospital.org,Residen_t,2023-07-18,Surgery Resident
+30113766,Dr. Eric Thomas,329-746-7311,ethomas@hospital.org,Medical Director,1987-01-20,Internal Medicine
+19751181,Dr. Samantha Butler,741-796-9520,sbutler@hospital.org,Medical Director,2005-01-25,Internal Medicine
+47395493,Dr. Sara Jones,869-427-9459,sjones@hospital.org,Fellow,2022-06-28,Pulmonary Fellow
+89318160,Dr. Keith Mason,707-816-3810,kmason@hospital.org,Chief of Sur?@>gery,1990-06-30,General Surgery
+60269357,Dr. Kyle Myers,232-203-5192,kmyers@hospital.org,Resident,2016-01-05,Pediatrics Resident
+91813127,Dr. Joanna Alvarez,926-636-7189,jalvarez@hospital.org,Medical Director,2003-11-15,Internal Medicine
+54481089,Dr. Vickie Crane,585-342-2886,vcrane@hospital.org,Chief of S$urgery,1999-06-22,General Surgery
+21421574,Dr. Sheryl Russell,956-969-9058,srussell@hospital.org,Medical Director,2003-07-16,Internal Medicine
+83768781,Dr. Sarah Edwards,785-573-3281,,Chi(_/ef of Surgery,1999-01-06,General Surgery
+45304013,Dr. Mark Miller,,mmiller@hospital.org,Chief of Surgery,2000-06-16,General Surgery
+33059789,Dr. Lorraine Mendoza,379-583-9188,lmendoza@hospital.org,Chief.># of Surgery,1991-12-21,General Surgery
+71738654,Dr. Barbara Williams,311-901-6340,bwilliams@hospital.org,Medical Director,2005-03-23,Internal Medicine
+68044606,Dr. Samantha Briggs,876-478-7928,sbriggs@hospital.org,Chief of Surgery,1998-07-20,General Surgery
+55958845,Dr. Kendra Thompson,398-883-6270,kthompson@hospital.org,Resident,2023-08-09,Pediatrics Resident
+44641982,Dr. Sarah Key,935-871-6747,skey@hospital.org,Resident,2021-08-22,Pediatrics Resident
+80731932,Dr. Kristen Salazar,546-988-7038,ksalazar@hospital.org,,1990-02-15,Internal Medicine
+42919330,Dr. Deborah Rush,535-989-2367,drush@hospital.org,Attending Physician,2010-02-20,Internal Medicine
+58928985,Dr. Alison Russell,711-704-2895,arussell@hospital.org,,1993-07-17,Internal Medicine
+61627980,Dr. Arthur Robles,819-548-6289,arobles@hospital.org,Resi)dent,2016-09-08,Pediatrics Resident
+87288447,Dr. Lauren Dixon,942-517-5507,,Chief of Surgery,1999-08-29,General Surgery
+26795600,Dr. Matthew Davis,947-789-7930,mdavis@hospital.org,,1999-09-01,Internal Medicine
+34608568,Dr. Amber Navarro,555-489-7494,,Medical Director,2005-05-08,Internal Medicine
+84535571,Dr. Dennis Anthony,300-695-5654,danthony@hospital.org,Attending@@ Physician,2011-01-09,Internal Medicine
+36190065,Dr. Caitlin Jones,229-263-3098,cjones@hospital.org,Attending Physician,2008-08-07,Internal Medicine
+84437398,Dr. Carlos Hill,260-467-2722,chill@hospital.org,Attending Physician,2008-12-23,Internal Medicine
+56786214,Dr. Amy Clark,686-664-7192,aclark@hospital.org,Resident,2015-07-22,Pediatrics Resident
+71507944,Dr. Timothy Lawrence,867-686-9181,tlawrence@hospital.org,Attending Physician,2009-09-06,Internal Medicine
+78956067,Dr. Christina Miller,581-722-7148,cmiller@hospital.org,Chief of Surgery,2002-03-22,General Surgery
+34117017,Dr. Karen Vazquez,794-574-9023,kvazquez@hospital.org,Chief of Surgery,2002-09-10,General Surgery
+20548704,Dr. Johnathan Young,,jyoung@hospital.org,Chief of Surgery,1986-08-09,General Surgery
+29406369,Dr. Suzanne Clark,304-217-2250,sclark@hospital.org,Medical Director,2004-07-19,Internal Medicine
+22295669,Dr. Megan Yang,860-762-4120,myang@hospital.org,Attending Physician,2012-08-11,Internal Medicine
+94544827,Dr. John Herman,857-406-7852,jherman@hospital.org,Attending Physician,2009-02-09,Internal Medicine
+99967707,Dr. Crystal Gardner,452-405-5545,cgardner@hospital.org,Resident,2019-05-20,Pediatrics Resident
+26782914,Dr. Tiffany Jensen,757-682-9021,tjensen@hospital.org,Attending Physician,2008-01-27,Internal Medicine
+36779987,Dr. Brandy Bond,435-224-6855,,Medical Director,1989-02-16,Internal Medicine
+74708985,Dr. Jimmy Vance,954-763-1063,jvance@hospital.org,Resident,2025-03-05,Internal Medicine Resident
+90150858,Dr. Megan Mcdowell,882-764-6019,mmcdowell@hospital.org,Medical Director,1999-01-24,Internal Medicine
+69455115,Dr. John Robinson,621-406-4494,jrobinson@hospital.org,,1986-04-17,Internal Medicine
+60063114,Dr. Michael Scott,229-918-4926,mscott@hospital.org,Attending Physician,2005-09-24,Internal Medicine
+16471931,Dr. Robert Wilson,958-561-7204,rwilson@hospital.org,Medical Director,"Feb 13, 1986",Internal Medicine
+35697446,Dr. Anthony Gilmore,404-468-1439,agilmore@hospital.org,Chief of Surgery,1995-03-19,General Surgery
+49453122,Dr. Linda Martin,436-545-8579,lmartin@hospital.org,Medical Director,1993-11-05,Internal Medicine
+5763642,Dr. Tanya Lopez,737-590-4360,tlopez@hospital.org,Chief of Surgery,1991-11-01,General Surgery
+20122780,Dr. Tammy Brady,809-754-8953,,Chief of Surgery,1994-10-14,General Surgery
+68900760,Dr. Amber Mayo,736-408-6994,amayo@hospital.org,,2007-01-03,Internal Medicine
+50184364,Dr. Brianna Roy,435-558-4232,broy@hospital.org,Medical Director,2001-01-14,Internal Medicine
+43954711,Dr. Christian Mitchell,702-497-9224,cmitchell@hospital.org,Medical Director,1987-12-06,Internal Medicine
+45626770,Dr. Sandra Peterson,660-984-4459,speterson@hospital.org,Medical Director,1990-08-25,Internal Medicine
+70089299,Dr. April Warren,,awarren@hospital.org,Atte=`:nding Physician,2005-07-03,Internal Medicine
+79618044,Dr. Lance Horton,686-921-9554,lhorton@hospital.org,Medical Director,2004-09-27,Internal Medicine
+32631909,Dr. Scott Decker,316-812-1789,sdecker@hospital.org,Medical Director,2002-01-20,Internal Medicine
+49753867,Dr. Kyle Myers,570-513-7395,kmyers@hospital.org,Chief of Surgery,2000-02-23,General Surgery
+63354112,Dr. Samuel Wheeler,977-656-5140,swheeler@hospital.org,Attending Physician,09-04-2012,Internal Medicine
+90538217,Dr. Robert Harrison,266-578-9654,rharrison@hospital.org,Chief of Surgery,2001-07-18,General Surgery
+34362028,Dr. Brian Baker,800-221-4853,bbaker@hospital.org,,1990-12-09,Internal Medicine
+29717889,Dr. Lori Mccoy,542-230-1796,lmccoy@hospital.org,Attending Physician,2008-07-27,Internal Medicine
+68511344,Dr. Lisa Lynch,374-915-4873,llynch@hospital.org,Res(ident,2016.05.30,Internal Medicine Resident
+66860450,Dr. Michael Woods,728-582-2477,mwoods@hospital.org,Attending Physician,2012-01-25,Internal Medicine
+20861332,Dr. Mary Knapp,910-981-4739,mknapp@hospital.org,,2000-03-12,General Surgery
+72918393,Dr. Andrew Gilbert,334-318-5777,agilbert@hospital.org,Attending Physician,2008-11-22,Internal Medicine
+74807236,Dr. Donald Wilkinson,967-782-9318,dwilkinson@hospital.org,Resident,2022-11-09,Pediatrics Resident
+11914028,Dr. Angela Morrow,683-751-5465,,Medical Director,1989-08-12,Internal Medicine
+45328127,Dr. Debra Cooper,,dcooper@hospital.org,^&:Medical Director,1995-04-16,Internal Medicine
+66657081,Dr. David Frank,591-717-7107,dfrank@hospital.org,Chief of Surgery,1993-08-02,General Surgery
+45528159,Dr. Devin Nelson,682-861-5120,dnelson@hospital.org,Fel|/low,"Jun 13, 2024",Cardiology Fellow
+46882176,Dr. Lisa Rodgers,583-391-8080,,,2000.01.06,General Surgery
+92582531,Dr. Danielle Lee,650-771-3080,dlee@hospital.org,Resident,2018-02-10,Pediatrics Resident
+20996667,Dr. Danielle Fleming,662-675-5717,dfleming@hospital.org,Fellow,2022-11-05,Oncology Fellow
+10351948,Dr. Elizabeth Ferguson,559-542-3146,,Attending Physician,2005-09-20,Internal Medicine
+16236475,Dr. Jennifer Wallace,685-725-9629,jwallace@hospital.org,Medical Director,1989-08-26,Internal Medicine
+24258429,Dr. John Elliott,847-871-7403,jelliott@hospital.org,Attending Physician,2011-04-27,Internal Medicine
+71364379,Dr. Melissa Turner,,mturner@hospital.org,Resident,2018-04-03,Internal Medicine Resident
+53321553,Dr. Caroline Jenkins,702-594-1352,cjenkins@hospital.org,Medical Director,2004-04-17,Internal Medicine
+40244357,Dr. Tamara Morris,886-744-2988,tmorris@hospital.org,Medical Director,1999-07-03,Internal Medicine
+23692958,Dr. Kristine Wood,451-538-6726,kwood@hospital.org,Medical Director,1994-09-13,Internal Medicine
+81438349,Dr. Angela Thompson,979-360-9427,athompson@hospital.org,Fellow,2015-06-12,Cardiology Fellow
+85841158,Dr. Marcus Gardner,863-255-5103,mgardner@hospital.org,Attending Physician,"Mar 17, 2014",Internal Medicine
+34041326,Dr. April Nixon,977-472-2301,anixon@hospital.org,Attending Physician,2011-06-17,Internal Medicine
+30092190,Dr. Valerie Miles,292-315-4012,vmiles@hospital.org,Medical Director,06/24/1988,Internal Medicine
+78323695,Dr. William Mcknight,398-436-1708,wmcknight@hospital.org,Medical Director,10/03/1995,Internal Medicine
+65082193,Dr. Daniel Miller,936-628-7959,dmiller@hospital.org,Medical Director,2000-01-26,Internal Medicine
+21640647,Dr. Michael Rice,331-450-8833,mrice@hospital.org,Resident,2016-11-03,Internal Medicine Resident
+3778807,Dr. Levi Price,569-389-4341,lprice@hospital.org,";&,Attending Physician",2011.09.22,Internal Medicine
+8422435,Dr. Jeremy Noble,224-797-9878,,,2002-08-21,Internal Medicine
+66967646,Dr. Lori Patton,706-819-1218,lpatton@hospital.org,Chief of Surgery,1993-02-19,General Surgery
+45781270,Dr. Ruben Nguyen,841-744-6811,rnguyen@hospital.org,Medical Director,1988-04-04,Internal Medicine
+32901392,Dr. Jessica Travis,318-261-4724,jtravis@hospital.org,Attending Physician,2015-05-15,Internal Medicine
+59904328,Dr. Cheryl Williams,297-734-9434,cwilliams@hospital.org,Chief of Surgery,1996-04-16,General Surgery
+32021750,Dr. Daniel Phillips,980-633-4864,dphillips@hospital.org,Chief of Surgery,2004-05-18,General Surgery
+82079950,Dr. Travis Jackson,675-722-3901,tjackson@hospital.org,Medical Director,2002-05-15,Internal Medicine
+4258206,Dr. Carla Benton,441-723-2880,cbenton@hospital.org,Medical Director,2005-03-24,Internal Medicine
+34021338,Dr. Lindsey Hernandez,340-718-5506,lhernandez@hospital.org,Chief of Surgery,1986-07-05,General Surgery
+25290510,Dr. Keith Cox,911-716-8293,kcox@hospital.org,Attending Physician,2012-06-12,Internal Medicine
+29453310,Dr. Alexandra Gonzalez,754-482-6441,,Attending Physician,01-08-2008,Internal Medicine
+36385516,Dr. Ashley Gallegos,258-607-8654,agallegos@hospital.org,Chief of Surgery,1998-11-16,General Surgery
+26475976,Dr. Julie Rice,,jrice@hospital.org,Attending Physician,2014-01-25,Internal Medicine
+76637636,Dr. Brian Garcia,247-823-3590,bgarcia@hospital.org,Medical Director,1987-05-04,Internal Medicine
+48649361,Dr. Kelli Baker,472-394-4896,kbaker@hospital.org,Fellow:_,2018-11-21,Cardiology Fellow
+47014107,Dr. Rebecca Jordan,801-218-7231,rjordan@hospital.org,Chief of Surgery,2001-11-28,General Surgery
+94353604,Dr. Brittany Glover,,bglover@hospital.org,Attending Physician,2009-10-18,Internal Medicine
+3035320,Dr. Mark Ayala,228-360-2095,mayala@hospital.org,Me`_{dical Director,1986-07-23,Internal Medicine
+69501882,Dr. Sean Salazar,822-872-8578,ssalazar@hospital.org,Attending Physician,2014-12-20,Internal Medicine
+87943055,Dr. Angela Mcdonald,878-708-3116,amcdonald@hospital.org,,2005-09-22,Internal Medicine
+71975466,Dr. Crystal Gibson,837-484-2579,cgibson@hospital.org,Resident,2017-12-07,Pediatrics Resident
+21360727,Dr. Kristin Franklin,340-716-6516,kfranklin@hospital.org,Medical Director,1992-03-21,Internal Medicine
+18633258,Dr. Patrick Beard,777-771-1201,pbeard@hospital.org,Medical Director,2005-03-25,Internal Medicine
+67867094,Dr. Brian Molina,268-235-8931,bmolina@hospital.org,Chief of Surgery,1995-08-29,General Surgery
+17048021,Dr. Colleen Levine,883-352-3027,clevine@hospital.org,Medical Director,2004-11-22,Internal Medicine
+92385824,Dr. Christy Hill,793-923-2103,chill@hospital.org,Medical Director,1992-05-06,Internal Medicine
+18895513,Dr. Nicole Mcfarland,254-907-7459,nmcfarland@hospital.org,Resident,2017-12-02,Pediatrics Resident
+51991734,Dr. Henry Underwood,665-618-3881,hunderwood@hospital.org,Fellow,2021-02-06,Pulmonary Fellow
+25634424,Dr. Gwendolyn Hood,990-870-8009,ghood@hospital.org,,2006-01-18,Internal Medicine
+15313564,Dr. James Haynes,340-555-4146,jhaynes@hospital.org,Medical Director,1986-03-20,Internal Medicine
+92257435,Dr. Miranda Jones,477-511-4754,,Medical Director,2002-05-06,Internal Medicine
+14462328,Dr. Timothy Thomas,617-868-1539,tthomas@hospital.org,Atte}nding Physician,2009-11-04,Internal Medicine
+74006457,Dr. Ashley Lowe,224-889-1618,alowe@hospital.org,Chi/)^ef of Surgery,2003-10-16,General Surgery
+34805794,Dr. Donald Garcia,219-649-8345,,Medical Director,1996-07-19,Internal Medicine
+19715275,Dr. Cheryl Kent,715-870-3854,ckent@hospital.org,Atten(ding Physician,2012-06-19,Internal Medicine
+53110856,Dr. John Garcia,934-406-4019,jgarcia@hospital.org,Resident,2025-04-13,Internal Medicine Resident
+96604477,Dr. Jessica Oliver,864-401-4560,joliver@hospital.org,Attending Physician,2015-01-18,Internal Medicine
+12742041,Dr. Matthew Kim,678-827-3349,mkim@hospital.org,Fellow,2024-01-25,Cardiology Fellow
+89794057,Dr. Chad Freeman,,cfreeman@hospital.org,Attending Physician,2007.10.17,Internal Medicine
+8242740,Dr. Timothy Jefferson,,tjefferson@hospital.org,Resident,19-06-2022,Pediatrics Resident
+56830633,Dr. Melissa Santos,926-627-9993,msantos@hospital.org,Attending $+?Physician,"Apr 29, 2011",Internal Medicine
+66268245,Dr. Deborah Montoya,512-771-4109,dmontoya@hospital.org,Resident,2024-08-17,Internal Medicine Resident
+25262292,Dr. Justin Harris,619-744-4416,jharris@hospital.org,Attending Physician,2015.03.09,Internal Medicine
+18274533,Dr. Michael Campbell,468-423-5172,,Attending Physician,2015-05-19,Internal Medicine
+41977315,Dr. Melissa Mejia,687-244-1158,mmejia@hospital.org,R#?/esident,2016-01-20,Internal Medicine Resident
+99782786,Dr. Mark Brown,670-278-8020,mbrown@hospital.org,,1995-11-18,General Surgery
+26423423,Dr. Robert Owens,440-422-5235,rowens@hospital.org,Fell)/=ow,2019-06-04,Oncology Fellow
+95420107,Dr. Jacqueline Thomas,,jthomas@hospital.org,Chief of Surgery,2000-06-10,General Surgery
+65556116,Dr. Marissa Watson,366-307-3091,mwatson@hospital.org,Chief of Surgery,1995-08-27,General Surgery
+53838328,Dr. Teresa Pineda,579-258-3208,tpineda@hospital.org,Medical Director,1987-11-18,Internal Medicine
+41339828,Dr. Rebecca Robinson,,rrobinson@hospital.org,Resident,2023-01-15,Internal Medicine Resident
+35531435,Dr. Edwin King,356-568-8271,eking@hospital.org,,2002-01-30,General Surgery
+59584915,Dr. Paul Hernandez,,phernandez@hospital.org,Medical Director,1999-07-03,Internal Medicine
+70660134,Dr. Erica Gilbert,245-857-6097,egilbert@hospital.org,Fellow,2022-08-21,Pulmonary Fellow
+9546300,Dr. Kelly Nguyen,743-368-1454,knguyen@hospital.org,Resident,2016-02-09,Surgery Resident
+73019042,Dr. Michael Mooney,608-398-9099,mmooney@hospital.org,Attending Physician,"May 15, 2007",Internal Medicine
+19408458,Dr. Steven Lee,586-741-2796,slee@hospital.org,Attendin![g Physician,2010-05-21,Internal Medicine
+29323799,Dr. Dylan Navarro,233-429-3067,dnavarro@hospital.org,Resident,2020-12-21,Pediatrics Resident
+56273532,Dr. Eric Shah,665-838-4537,eshah@hospital.org,Medical Director,1990-01-12,Internal Medicine
+72135504,Dr. Kimberly Sullivan,,ksullivan@hospital.org,Resident,2019-06-22,Surgery Resident
+42526164,Dr. Heather Lopez,745-277-6294,,Chief of Surgery,2001-12-18,General Surgery
+53005385,Dr. Sarah Moore,834-758-9530,smoore@hospital.org,Medical Director,1993-05-10,Internal Medicine
+14071165,Dr. Dustin Cohen,779-917-5714,dcohen@hospital.org,Attending ~/;Physician,2013-08-10,Internal Medicine
+656559,Dr. Teresa Cole,812-640-8410,tcole@hospital.org,Chief of Surgery,2002-04-28,General Surgery
+40877456,Dr. Patrick Anderson,750-730-5248,,Medical Director,2001-06-30,Internal Medicine
+38967082,Dr. Morgan Vega,915-958-7515,mvega@hospital.org,Medical Director,1994-10-19,Internal Medicine
+77608651,Dr. Jennifer Brooks,796-745-1633,,Medical Director,1986-07-18,Internal Medicine
+64660157,Dr. Lynn Juarez,622-804-9745,ljuarez@hospital.org,Fellow,2017-05-08,Cardiology Fellow
+76416060,Dr. Brandy Jimenez,639-661-6335,bjimenez@hospital.org,,1990-11-18,Internal Medicine
+66026124,Dr. Reginald Owens,557-733-4835,rowens@hospital.org,Attending Physi@#cian,2005-06-04,Internal Medicine
+60417658,Dr. Phyllis Ryan,828-764-2714,pryan@hospital.org,Medical Director,1992-09-30,Internal Medicine
+68100856,Dr. Michelle Bernard,219-553-4272,mbernard@hospital.org,Medical Di^@<rector,1992-09-15,Internal Medicine
+4439952,Dr. Katrina Gardner,757-562-8391,kgardner@hospital.org,Medical Director,1996-06-04,Internal Medicine
+3416934,Dr. Lindsay Wilson,201-589-2045,lwilson@hospital.org,Chief of Surgery,1993-08-20,General Surgery
+67884937,Dr. Alexis Miller,851-878-9901,,Fellow{[+,2019-09-25,Cardiology Fellow
+89587662,Dr. Matthew Dodson,762-503-9486,mdodson@hospital.org,Medical Director,1991-09-20,Internal Medicine
+3106470,Dr. Katie Buchanan,885-745-9823,kbuchanan@hospital.org,Medical Director,2000-12-02,Internal Medicine
+30150057,Dr. Debra Bailey,319-963-6489,dbailey@hospital.org,Medical Director,1989-02-13,Internal Medicine
+52873168,Dr. Nathan Myers,665-427-1064,,Attending Physician,2014-09-06,Internal Medicine
+69787461,Dr. Audrey Martin,257-423-6606,amartin@hospital.org,Resident,2017-11-11,Pediatrics Resident
+64873517,Dr. Todd Diaz,960-956-6404,tdiaz@hospital.org,Medical Director,1988-01-11,Internal Medicine
+65061472,Dr. Jeremy Watson,698-318-3250,jwatson@hospital.org,,2010-12-08,Internal Medicine
+74726208,Dr. Rodney Hansen,384-785-2879,rhansen@hospital.org,Attending Physician,2008-01-04,Internal Medicine
+84583958,Dr. Mary Taylor,373-348-1731,mtaylor@hospital.org,Fellow,02/01/2022,Pulmonary Fellow
+99365754,Dr. Julie Glenn,630-259-7385,jglenn@hospital.org,,2014-07-16,Internal Medicine
+29865467,Dr. Jared Peters,762-493-9138,jpeters@hospital.org,Attending Physician,2010-09-23,Internal Medicine
+45297511,Dr. Sean Olson,324-607-3417,solson@hospital.org,Chief of Surgery,1998-11-26,General Surgery
+3025645,Dr. Ashley Thompson,,athompson@hospital.org,Medical Di.rector,1986-10-14,Internal Medicine
+20982553,Dr. Kelli Simpson,523-449-8465,ksimpson@hospital.org,Attending Physician,2008-01-31,Internal Medicine
+59267518,Dr. Marc Pineda,612-804-3963,mpineda@hospital.org,Medical Di$*rector,1991-05-06,Internal Medicine
+34984423,Dr. Jeffrey Odonnell,664-592-8575,jodonnell@hospital.org,Chief of Surgery,03/26/1989,General Surgery
+46720110,Dr. Paula Malone,748-454-4004,pmalone@hospital.org,,2020-06-15,Internal Medicine Resident
+52769047,Dr. Suzanne Larson,798-327-4720,slarson@hospital.org,,1990-08-17,Internal Medicine
+23144655,Dr. Patrick Rodriguez,660-256-6507,prodriguez@hospital.org,"Attendi:|,ng Physician",2009-04-28,Internal Medicine
+28033356,Dr. Angelica Nelson,796-778-8961,anelson@hospital.org,M<!edical Director,1995-05-27,Internal Medicine
+48858762,Dr. Michael Smith,307-499-2087,msmith@hospital.org,Medical Director,1993-09-24,Internal Medicine
+67392005,Dr. Brandon Oliver,950-299-7057,boliver@hospital.org,Medical Director,1993-12-24,Internal Medicine
+5413623,Dr. Katie Nguyen,492-738-8983,knguyen@hospital.org,Attending Physician,2008-08-21,Internal Medicine
+75755042,Dr. James Rogers,287-322-7550,jrogers@hospital.org,Medical Director,1995-02-18,Internal Medicine
+44665917,Dr. Jack Simmons,,jsimmons@hospital.org,Chief of Surgery,1997-11-10,General Surgery
+93304690,Dr. Ashley Dunlap,,adunlap@hospital.org,Chief of Surgery,1996-12-14,General Surgery
+93221116,Dr. Christopher Conway,633-215-5084,,Chief of Surgery,2002-11-15,General Surgery
+94214542,Dr. Margaret Davidson,617-393-2154,mdavidson@hospital.org,Fellow,2016-02-13,Oncology Fellow
+67136663,Dr. Steven Thompson,405-491-7193,,Resident,2016-12-16,Surgery Resident
+27140498,Dr. Darren Obrien,874-563-4525,dobrien@hospital.org,Chief of Surgery,1998-03-09,General Surgery
+19570446,Dr. Ronald Smith,456-375-7512,rsmith@hospital.org,Medical Director,1996-08-01,Internal Medicine
+66170696,Dr. Francisco Bullock,900-770-8885,fbullock@hospital.org,Medical Director,1998-09-16,Internal Medicine
+14664798,Dr. Maria Miller,819-253-3800,mmiller@hospital.org,Chief of Surgery,1997-05-28,General Surgery
+88511259,Dr. Alexander Duncan,996-813-8932,aduncan@hospital.org,Chief of Surgery,1993-08-07,General Surgery
+11894073,Dr. Holly Smith,609-402-6714,hsmith@hospital.org,Fellow,2024-12-27,Oncology Fellow
+40695296,Dr. Daisy Warren,820-815-8282,dwarren@hospital.org,Resident,2023-11-17,Internal Medicine Resident
+89899938,Dr. Robert Montgomery,805-862-9632,rmontgomery@hospital.org,Medical Director,1991-12-19,Internal Medicine
+46622543,Dr. Christina Williams,486-328-8825,cwilliams@hospital.org,Fellow,2016-08-24,Oncology Fellow
+61809863,Dr. Yolanda Carlson,,ycarlson@hospital.org,,2000-11-06,Internal Medicine
+31574586,Dr. Charles Sosa,553-263-3042,csosa@hospital.org,Chief of Surgery,2002-06-23,General Surgery
+13791911,Dr. Laura Collins,454-774-7169,lcollins@hospital.org,,2009-12-19,Internal Medicine
+42211304,Dr. Jeffrey Cook,948-470-9613,jcook@hospital.org,Fellow,2022-05-17,Pulmonary Fellow
+27253212,Dr. Curtis Reid,,creid@hospital.org,Chief of Surgery,1993-07-02,General Surgery
+13776889,Dr. William Combs,969-905-7086,wcombs@hospital.org,Attending Physician,2014-03-25,Internal Medicine
+13617444,Dr. Ronnie Woods,292-616-2188,rwoods@hospital.org,Fellow,2024-09-24,Pulmonary Fellow
+70179341,Dr. Matthew Hart,777-368-7309,mhart@hospital.org,Chief of? Surgery,2004-05-28,General Surgery
+84995405,Dr. Thomas Peters,227-316-5241,tpeters@hospital.org,Resident,2024-11-24,Pediatrics Resident
+60587340,Dr. Pamela Kirby,646-441-5137,pkirby@hospital.org,Chief of Surgery,2004-05-30,General Surgery
+38008770,Dr. Christopher Smith,780-741-4469,csmith@hospital.org,Chief of Surgery,2004-11-17,General Surgery
+2520591,Dr. Brandon Palmer,999-967-7417,bpalmer@hospital.org,Attending Physician,2006-04-02,Internal Medicine
+10619930,Dr. Michael Jones,876-606-1716,mjones@hospital.org,,1995-07-27,General Surgery
+51197983,Dr. Brian Taylor,379-835-1536,,Fellow,2023-04-29,Oncology Fellow
+55873841,Dr. Jonathan Allen,,jallen@hospital.org,,2009-10-29,Internal Medicine
+62585872,Dr. Connie Jackson,270-274-3321,cjackson@hospital.org,Medical Director,1995-07-21,Internal Medicine
+84532286,Dr. Jenna Rogers,668-412-1482,jrogers@hospital.org,Chief of Surgery,1996-05-23,General Surgery
+29859508,Dr. Brian Evans,277-857-2201,bevans@hospital.org,Fellow_!,"Feb 03, 2022",Cardiology Fellow
+76498012,Dr. Mary Prince,226-345-8034,mprince@hospital.org,Med%_@ical Director,1988-01-16,Internal Medicine
+25978050,Dr. Dustin Bryant,422-218-4192,dbryant@hospital.org,Medical Director,1991-11-28,Internal Medicine
+13061560,Dr. Denise Mendoza,410-905-4100,dmendoza@hospital.org,Resident,2015-09-08,Internal Medicine Resident
+3956382,Dr. Jane Rivera,911-644-8179,jrivera@hospital.org,Medical Director,1992-03-09,Internal Medicine
+36054705,Dr. Lisa Larson,542-700-4712,llarson@hospital.org,Resident,2022-11-18,Pediatrics Resident
+86592041,Dr. Susan Mcmahon,790-658-9519,smcmahon@hospital.org,Fellow,04-06-2024,Cardiology Fellow
+64183986,Dr. James Caldwell,945-661-4379,jcaldwell@hospital.org,Medical Director,1996-09-09,Internal Medicine
+11428025,Dr. Amanda Holmes,503-360-9702,aholmes@hospital.org,Medical Director,1998-03-24,Internal Medicine
+70186984,Dr. Sarah Baker,902-562-5859,sbaker@hospital.org,Medical Director,1997-08-17,Internal Medicine
+6319062,Dr. Beth Barnes,658-473-9301,bbarnes@hospital.org,Medical Director,2001-08-07,Internal Medicine
+62730996,Dr. Amy George,529-870-3967,,Fellow,2018-05-31,Cardiology Fellow
+77127910,Dr. Julie Gordon,326-849-5794,,Attending Physician,2013-11-09,Internal Medicine
+70561267,Dr. Timothy Fisher,236-994-9891,tfisher@hospital.org,Attend^<:ing Physician,2010-02-03,Internal Medicine
+75717195,Dr. Tiffany Mora,263-901-1502,,,2008-10-12,Internal Medicine
+89952398,Dr. Shane Ho,863-821-8933,sho@hospital.org,Medical Director,1996-01-12,Internal Medicine
+38827067,Dr. Nicholas Gray,399-860-4636,ngray@hospital.org,Attending Physician,2011-06-29,Internal Medicine
+31143927,Dr. David Harris,525-545-3860,dharris@hospital.org,Attending Physician,15-04-2012,Internal Medicine
+13125490,Dr. Francisco Berg,212-254-8192,fberg@hospital.org,Attending Physician,2010-12-23,Internal Medicine
+57529574,Dr. Spencer Rowe,226-472-8365,srowe@hospital.org,Medical Director,"Jan 24, 2004",Internal Medicine
+41260509,Dr. Francisco Kelly,734-924-6047,fkelly@hospital.org,Fellow,2024-10-06,Cardiology Fellow
+13475911,Dr. Jennifer Norris,697-859-4457,jnorris@hospital.org,Medical?! Director,2004-07-19,Internal Medicine
+97140943,Dr. Benjamin Pugh,248-735-8819,bpugh@hospital.org,Medical Director,1995-08-13,Internal Medicine
+50993423,Dr. Carmen Jackson,508-310-6342,cjackson@hospital.org,Attending Physician,2011-01-12,Internal Medicine
+43298037,Dr. Veronica Oconnor,365-458-7503,voconnor@hospital.org,Chief of Surgery,1991-03-23,General Surgery
+83325612,Dr. Christopher Flores,231-413-8778,,Medical Director,2003-03-08,Internal Medicine
+19321574,Dr. Susan Estrada,687-624-8473,sestrada@hospital.org,Attending ?=$Physician,2009-12-02,Internal Medicine
+15124416,Dr. Edwin Goodwin,954-691-4748,,Chief of Surgery,1997-09-07,General Surgery
+26184059,Dr. Jennifer Sandoval,310-386-2722,jsandoval@hospital.org,Chief of Surgery,1999-07-13,General Surgery
+65479215,Dr. Valerie Hudson,399-623-3433,vhudson@hospital.org,Resid/ent,2015-09-25,Surgery Resident
+91249971,Dr. Timothy Maldonado,812-640-1357,tmaldonado@hospital.org,Attending Physician,2006-03-29,Internal Medicine
+54783973,Dr. Christopher Orozco,,corozco@hospital.org,,2005-03-01,Internal Medicine
+95152160,Dr. Devon Larson,376-351-8163,dlarson@hospital.org,Resident,2022-03-25,Internal Medicine Resident
+17678083,Dr. Doris King,708-713-6118,dking@hospital.org,Resident,2021-10-27,Surgery Resident
+96591377,Dr. Monica Wolfe,483-786-2921,mwolfe@hospital.org,,2022-07-31,Cardiology Fellow
+62499944,Dr. Christopher Mcdonald,592-787-6667,cmcdonald@hospital.org,Attending Physician,2008-06-26,Internal Medicine
+52304547,Dr. Stacey Lopez,289-384-8727,slopez@hospital.org,,2010-12-22,Internal Medicine
+70530300,Dr. Riley Baldwin,954-616-1293,,Attending Physician,2008-04-09,Internal Medicine
+11678299,Dr. Jessica Beck,,jbeck@hospital.org,Chief of Surgery,1985-05-24,General Surgery
+55416921,Dr. Tammy Martinez,812-845-1843,tmartinez@hospital.org,Chief of Surgery,1997-03-01,General Surgery
+43369391,Dr. Kimberly Baxter,778-457-4600,kbaxter@hospital.org,Attending Physician,2005-10-24,Internal Medicine
+6311213,Dr. Zoe Rivera,819-501-7434,zrivera@hospital.org,Medical Director,2002-07-11,Internal Medicine
+34570342,Dr. Peggy Williams,877-621-8526,pwilliams@hospital.org,Attending Physician,2006-01-07,Internal Medicine
+60090965,Dr. Tonya Ferrell,893-878-2382,tferrell@hospital.org,Chief of Surgery,2000-09-03,General Surgery
+51672990,Dr. Melissa Sawyer,,msawyer@hospital.org,Medical Director,1995-09-26,Internal Medicine
+26275951,Dr. Jacqueline Johnson,970-707-3490,jjohnson@hospital.org,Medical Director,1990-07-05,Internal Medicine
+89930977,Dr. Brandi Lee,927-787-9423,blee@hospital.org,Attending Physician,2009-06-03,Internal Medicine
+6041597,Dr. Joshua Knight,760-995-3079,jknight@hospital.org,Fellow,2019-08-04,Cardiology Fellow
+14133147,Dr. Curtis Aguirre,744-722-7690,caguirre@hospital.org,Fellow,2022-03-09,Oncology Fellow
+63112460,Dr. Chad Hall,223-827-3248,chall@hospital.org,Chief of Surgery,1992-12-30,General Surgery
+93316541,Dr. Anthony Bridges,947-830-3828,abridges@hospital.org,Attending Physician,2012-06-22,Internal Medicine
+75529317,Dr. Cindy Cooper,321-601-9106,ccooper@hospital.org,Attending Physician,2006-12-30,Internal Medicine
+207876,Dr. Ruth Carroll,296-669-5014,rcarroll@hospital.org,Medical Director,1987-11-19,Internal Medicine
+79439990,Dr. Amy Austin,393-364-1251,aaustin@hospital.org,Medical Director,2000-01-15,Internal Medicine
+35264254,Dr. Susan Spencer,601-520-5678,sspencer@hospital.org,Chief of Surgery,1995-01-10,General Surgery
+43393051,Dr. Michelle Watson,524-226-4901,mwatson@hospital.org,Medical Director,1986-01-27,Internal Medicine
+91575156,Dr. Sean Williams,275-410-6690,swilliams@hospital.org,Medical Director,1994-06-09,Internal Medicine
+45505027,Dr. Michelle Gray,536-759-3566,mgray@hospital.org,Chief of Surgery,1994-06-08,General Surgery
+12494406,Dr. Andrew Fernandez,537-358-3084,afernandez@hospital.org,Attending Physician,2011-05-19,Internal Medicine
+2328869,Dr. Marissa Ramos,987-668-4632,mramos@hospital.org,Chief of Surgery,1993-03-17,General Surgery
+69411418,Dr. Shaun Whitaker,925-927-8304,swhitaker@hospital.org,Attending Physician,2015-03-09,Internal Medicine
+11743645,Dr. Mark Ayala,408-907-8169,mayala@hospital.org,Attending Physician,2014-03-15,Internal Medicine
+67411333,Dr. Hannah Salas,681-908-7791,hsalas@hospital.org,Attending Physician,2015.02.27,Internal Medicine
+36636056,Dr. Paula Parker,882-294-3085,pparker@hospital.org,Attending Physician,2015-02-28,Internal Medicine
+59764953,Dr. Lauren Woods,920-507-4181,lwoods@hospital.org,Chief of Surgery,1995-06-07,General Surgery
+88901745,Dr. Kimberly Hobbs,304-700-3185,khobbs@hospital.org,Resident,2016-11-13,Surgery Resident
+95491613,Dr. Diana Romero,809-865-5292,dromero@hospital.org,Attending Physician,2014-09-15,Internal Medicine
+12211463,Dr. James Yang,853-272-2400,jyang@hospital.org,Medical Director,1998-09-18,Internal Medicine
+96120623,Dr. Andrew Cervantes,210-601-2060,acervantes@hospital.org,Medical Director,2003.02.01,Internal Medicine
+83419049,Dr. James Lucero,349-340-1142,jlucero@hospital.org,Attending Physician,2006-04-09,Internal Medicine
+59667232,Dr. Shannon Perez,215-512-2613,sperez@hospital.org,Medical Director,2002-04-18,Internal Medicine
+71628491,Dr. Suzanne Reyes,932-877-8470,sreyes@hospital.org,Medical Director,2002-11-11,Internal Medicine
+85077094,Dr. Kayla Kennedy,822-946-5222,kkennedy@hospital.org,Attending Physician,2008.11.30,Internal Medicine
+46931598,Dr. Michael Jensen,650-575-5222,mjensen@hospital.org,Fellow,2015.09.12,Cardiology Fellow
+27137949,Dr. Daniel Frederick,513-215-8335,dfrederick@hospital.org,Chief of Surgery,2002-10-17,General Surgery
+95658644,Dr. Brandon Barker,885-963-1950,bbarker@hospital.org,,1987-06-07,General Surgery
+80341116,Dr. Donald Bautista,454-854-5883,,Chief of Sur;[=gery,1996-01-31,General Surgery
+6356378,Dr. Anna Greene,209-614-7150,agreene@hospital.org,Attending Physician,2006-07-20,Internal Medicine
+3648445,Dr. Paula Landry,798-518-8788,plandry@hospital.org,Fellow,2020-03-28,Cardiology Fellow
+60323922,Dr. Mary Henderson,213-808-8194,mhenderson@hospital.org,Fellow,2019-07-08,Pulmonary Fellow
+88247346,Dr. Jennifer Massey,260-616-1089,jmassey@hospital.org,Resident,2023-08-20,Surgery Resident
+24475726,Dr. Gary Wall,705-841-2891,gwall@hospital.org,Fellow,2023-08-21,Oncology Fellow
+60002734,Dr. Rita Mejia,971-337-8555,rmejia@hospital.org,Fellow,2018-04-16,Cardiology Fellow
+79633148,Dr. Angel Williams,587-574-9508,awilliams@hospital.org,Resident,2021.03.19,Internal Medicine Resident
+83862695,Dr. Shaun White,961-319-3468,swhite@hospital.org,Medical Director,1996-05-07,Internal Medicine
+83241925,Dr. Natasha Miller,798-745-7555,nmiller@hospital.org,Attending Physician,2008-05-04,Internal Medicine
+5018195,Dr. Jennifer Hughes,888-376-4169,jhughes@hospital.org,Attending Physician,2010-08-03,Internal Medicine
+57203664,Dr. Megan Barr,808-369-1145,mbarr@hospital.org,Medical Director,"Dec 10, 1998",Internal Medicine
+22599585,Dr. Tristan Mcdaniel,981-913-1435,tmcdaniel@hospital.org,Chief of Surgery,1986-10-10,General Surgery
+95486337,Dr. Ethan Mccall,992-702-1215,emccall@hospital.org,Medical Director,2001-07-11,Internal Medicine
+15212966,Dr. Adam Mclaughlin,243-206-1305,amclaughlin@hospital.org,Chief of Surgery,2004-08-29,General Surgery
+16534035,Dr. Jim Cummings,412-345-5047,,Resident,2016-10-23,Surgery Resident
+9137570,Dr. Victor Hughes,490-258-4424,vhughes@hospital.org,Chief of Surgery,2003-08-12,General Surgery
+55003987,Dr. Brenda Stone,721-245-2006,bstone@hospital.org,Chief of Surgery,1987-04-26,General Surgery
+74811287,Dr. Kelly Green,638-494-5263,kgreen@hospital.org,,1989-07-11,General Surgery
+60847988,Dr. Heather Smith,488-913-6701,hsmith@hospital.org,Attending Physician,2014-10-15,Internal Medicine
+33886386,Dr. Savannah Cox,214-795-3546,scox@hospital.org,Attending Physician,2008-03-04,Internal Medicine
+17480827,Dr. Sara Gardner,730-578-8711,sgardner@hospital.org,Attending Physician,2005-10-19,Internal Medicine
+10853028,Dr. Elizabeth Calhoun,692-611-8952,ecalhoun@hospital.org,Fellow,2022-04-27,Cardiology Fellow
+33954987,Dr. Tina Villegas,887-866-8198,tvillegas@hospital.org,Fellow,2019-12-20,Oncology Fellow
+67142937,Dr. Chad Martinez,830-237-4296,cmartinez@hospital.org,Medical Director,1993-03-06,Internal Medicine
+71324228,Dr. Alexander Schultz,599-936-5632,,Chief of Surgery,1991-05-25,General Surgery
+53613112,Dr. Ryan Collins,444-769-3603,,Fellow,2022-04-19,Pulmonary Fellow
+5564750,Dr. Maria Cochran,226-860-4605,mcochran@hospital.org,,2019-11-09,Pulmonary Fellow
+66883481,Dr. Lucas Cooke,938-528-1871,lcooke@hospital.org,,2022-05-18,Surgery Resident
+56376338,Dr. Kimberly Davenport,426-510-2920,kdavenport@hospital.org,,2000-12-25,General Surgery
+1652314,Dr. Tricia Oneal,505-928-2144,toneal@hospital.org,Medical Director,2004-01-26,Internal Medicine
+23327568,Dr. Meagan Parrish,936-319-7040,mparrish@hospital.org,Ch|ief of Surgery,1987-03-20,General Surgery
+54333329,Dr. Alexandria Caldwell,646-501-6888,acaldwell@hospital.org,Resident,2017-11-06,Pediatrics Resident
+67109502,Dr. Collin Gates,866-725-3805,cgates@hospital.org,Fellow,2019-04-14,Oncology Fellow
+21424320,Dr. Andrew Harris,553-555-4213,,Medical Director,1992.07.05,Internal Medicine
+83247428,Dr. Sarah Franco,775-444-6708,sfranco@hospital.org,,2007-02-05,Internal Medicine
+13006425,Dr. Anne Gray,,agray@hospital.org,,2018-05-03,Pediatrics Resident
+78529887,Dr. Thomas Ray,935-982-3545,tray@hospital.org,Chief of Surgery,1993-12-20,General Surgery
+21885251,Dr. Kelly Thomas,356-813-6672,kthomas@hospital.org,Chief of Surgery,2003-05-24,General Surgery
+24594638,Dr. Julie Simpson,410-650-5701,jsimpson@hospital.org,Attending Physician,2009-05-21,Internal Medicine
+29782055,Dr. Brittany Ramos,505-751-7812,bramos@hospital.org,Attending Physician,2013-04-08,Internal Medicine
+91609331,Dr. Alexandra Morgan,544-723-5502,amorgan@hospital.org,Attending Physician,2011-10-14,Internal Medicine
+31328511,Dr. Lindsey Cole,915-322-4507,lcole@hospital.org,Chief of Surgery,2004-03-27,General Surgery
+92460244,Dr. Tonya Monroe,502-973-4047,tmonroe@hospital.org,Medical Di#}rector,1998-04-02,Internal Medicine
+1603068,Dr. Sean Brown,817-679-1869,sbrown@hospital.org,Chief of Surgery,2002-09-29,General Surgery
+90994973,Dr. Brittany Love,543-471-6305,blove@hospital.org,Chief of Surgery,1995-12-06,General Surgery
+37103582,Dr. Kimberly Martin,,kmartin@hospital.org,,1987-12-11,Internal Medicine
+42804191,Dr. Benjamin Richard,905-640-8850,brichard@hospital.org,Chief of Surgery,1985-12-28,General Surgery
+98649861,Dr. Margaret Burns,402-894-2212,mburns@hospital.org,Attending Physician,2013-01-09,Internal Medicine
+15313564,Dr. James Haynes,340-555-4146,jhaynes@hospital.org,Medical Director,1986-03-20,Internal Medicine
+21421574,Dr. Sheryl Russell,956-969-9058,srussell@hospital.org,Medical Director,2003-07-16,Internal Medicine
+97820473,Dr. Brian Johnson,625-899-5371,bjohnson@hospital.org,Attending Physician,2013-02-06,Internal Medicine
+11743645,Dr. Mark Ayala,408-907-8169,mayala@hospital.org,Attending Physician,2014-03-15,Internal Medicine
+55873841,Dr. Jonathan Allen,,jallen@hospital.org,,2009-10-29,Internal Medicine
+74545276,Dr. Jeffrey Stevens,778-747-2107,jstevens@hospital.org,Chief of Surgery,1998-11-09,General Surgery
+2179772,Dr. Brandy Hamilton,444-474-5866,bhamilton@hospital.org,Attending Physician,2005-06-12,Internal Medicine
+49753867,Dr. Kyle Myers,570-513-7395,kmyers@hospital.org,Chief of Surgery,2000-02-23,General Surgery
+75517669,Dr. Traci Scott,666-383-9865,tscott@hospital.org,Attending Physician,2009-05-29,Internal Medicine
+67136663,Dr. Steven Thompson,405-491-7193,,Resident,2016-12-16,Surgery Resident
+68100856,Dr. Michelle Bernard,219-553-4272,mbernard@hospital.org,Medical Director,1992-09-15,Internal Medicine
+71496620,Dr. Chad Moore,633-310-4358,cmoore@hospital.org,Fellow,2018-07-26,Pulmonary Fellow
+81295677,Dr. Patrick Schultz,656-219-9443,,Medical Director,1987-02-28,Internal Medicine
+34424754,Dr. Jennifer Lee,380-954-6380,jlee@hospital.org,Medical Director,1998-03-07,Internal Medicine
+50034331,Dr. Tamara Walker,,twalker@hospital.org,Chief of Surgery,2003-01-30,General Surgery
+43529203,Dr. Amber Hickman,529-515-5480,ahickman@hospital.org,Fellow,2016-10-13,Pulmonary Fellow
+55817108,Dr. Jose Roberts,248-536-1077,jroberts@hospital.org,Medical Director,2003-06-14,Internal Medicine
+80341116,Dr. Donald Bautista,454-854-5883,,Chief of Surgery,1996-01-31,General Surgery
+59576218,Dr. Brittany Thomas,673-599-4143,bthomas@hospital.org,Resident,2015-08-13,Pediatrics Resident
+2512911,Dr. Gabriel Colon,311-354-9199,gcolon@hospital.org,Chief of Surgery,1996-05-07,General Surgery
+99544175,Dr. Wayne Miller,851-852-2010,,Fellow,"Mar 30, 2020",Pulmonary Fellow
+68655348,Dr. Carl Farmer,402-754-2927,cfarmer@hospital.org,Attending Physician,2006-09-16,Internal Medicine
+21954303,Dr. Shelby Manning,,smanning@hospital.org,Fellow,2015-12-17,Pulmonary Fellow
+52769047,Dr. Suzanne Larson,798-327-4720,slarson@hospital.org,,1990-08-17,Internal Medicine
+24475726,Dr. Gary Wall,705-841-2891,gwall@hospital.org,Fellow,2023-08-21,Oncology Fellow
+14238411,Dr. Alan Bradford,254-373-2450,abradford@hospital.org,Resident,2020-01-28,Internal Medicine Resident
+48826885,Dr. Richard Reid,,rreid@hospital.org,Medical Director,1990-08-28,Internal Medicine
+35543257,Dr. Adam Thompson,393-842-7435,,Fellow,2023-03-21,Cardiology Fellow
+83657147,Dr. Danielle Riley,915-566-7677,driley@hospital.org,Medical Director,1991.11.20,Internal Medicine
+71140731,Dr. Victor Bowers,207-472-6708,vbowers@hospital.org,Medical Director,1992-07-01,Internal Medicine
+85841158,Dr. Marcus Gardner,863-255-5103,mgardner@hospital.org,Attending Physician,"Mar 17, 2014",Internal Medicine
+45528159,Dr. Devin Nelson,682-861-5120,dnelson@hospital.org,Fellow,"Jun 13, 2024",Cardiology Fellow
+59584915,Dr. Paul Hernandez,,phernandez@hospital.org,Medical Director,1999-07-03,Internal Medicine
+42919330,Dr. Deborah Rush,535-989-2367,drush@hospital.org,Attending Physician,2010-02-20,Internal Medicine
+17073140,Dr. Jessica Brady,387-864-1763,jbrady@hospital.org,Resident,2017-06-25,Surgery Resident
+74036658,Dr. Travis Henderson,894-488-2467,thenderson@hospital.org,Chief of Surgery,1985.08.05,General Surgery
+23144655,Dr. Patrick Rodriguez,660-256-6507,prodriguez@hospital.org,Attending Physician,2009-04-28,Internal Medicine
+24594638,Dr. Julie Simpson,410-650-5701,jsimpson@hospital.org,Attending Physician,2009-05-21,Internal Medicine
+86499480,Dr. Michael Warner,,mwarner@hospital.org,Chief of Surgery,2003-03-30,General Surgery
+18895513,Dr. Nicole Mcfarland,254-907-7459,nmcfarland@hospital.org,Resident,2017-12-02,Pediatrics Resident
+27253212,Dr. Curtis Reid,,creid@hospital.org,Chief of Surgery,1993-07-02,General Surgery
+21360727,Dr. Kristin Franklin,340-716-6516,kfranklin@hospital.org,Medical Director,1992-03-21,Internal Medicine
+75240961,Dr. Michael Johnson,204-527-9308,mjohnson@hospital.org,Attending Physician,2009-12-31,Internal Medicine
+41489357,Dr. Randall French,,rfrench@hospital.org,Medical Director,1988-11-24,Internal Medicine
+53360438,Dr. Stanley Wong,872-561-9034,swong@hospital.org,Attending Physician,2005-05-30,Internal Medicine
+8422435,Dr. Jeremy Noble,224-797-9878,,,2002-08-21,Internal Medicine
+64660157,Dr. Lynn Juarez,622-804-9745,ljuarez@hospital.org,Fellow,2017-05-08,Cardiology Fellow
+50810945,Dr. Amanda Cox,383-793-9162,acox@hospital.org,Fellow,2025-02-23,Pulmonary Fellow
+73452269,Dr. Suzanne Berg,410-305-5237,,Chief of Surgery,1985-12-21,General Surgery
+89899938,Dr. Robert Montgomery,805-862-9632,rmontgomery@hospital.org,Medical Director,1991-12-19,Internal Medicine
+9059996,Dr. Emily Chavez,218-935-5235,echavez@hospital.org,Chief of Surgery,1990-02-10,General Surgery
+39836197,Dr. Ashley Smith,,asmith@hospital.org,,1998-03-24,General Surgery
+49656154,Dr. Nicholas Booker,,nbooker@hospital.org,Medical Director,2001-08-12,Internal Medicine
+66978344,Dr. Jade Brown,,jbrown@hospital.org,Attending Physician,2012-08-22,Internal Medicine
+90994973,Dr. Brittany Love,543-471-6305,blove@hospital.org,Chief of Surgery,1995-12-06,General Surgery
+43369391,Dr. Kimberly Baxter,778-457-4600,kbaxter@hospital.org,Attending Physician,2005-10-24,Internal Medicine
+43838938,Dr. Shawn Roman,,sroman@hospital.org,Attending Physician,2006-03-30,Internal Medicine
+34232655,Dr. Jeremy Bennett,936-450-7566,jbennett@hospital.org,Medical Director,1994-12-21,Internal Medicine
+51420452,Dr. Wanda Myers,435-794-8527,wmyers@hospital.org,Attending Physician,2008-05-11,Internal Medicine
+89794057,Dr. Chad Freeman,,cfreeman@hospital.org,Attending Physician,2007.10.17,Internal Medicine
+34083451,Dr. Lisa Richard,889-202-7375,lrichard@hospital.org,Chief of Surgery,1989-08-31,General Surgery
+20548704,Dr. Johnathan Young,,jyoung@hospital.org,Chief of Surgery,1986-08-09,General Surgery
+20516416,Dr. Anthony Collins,376-822-5423,acollins@hospital.org,Resident,2023-06-25,Surgery Resident
+48521164,Dr. Benjamin Lee,722-753-9133,blee@hospital.org,Resident,2018-11-23,Internal Medicine Resident
+34021338,Dr. Lindsey Hernandez,340-718-5506,lhernandez@hospital.org,Chief of Surgery,1986-07-05,General Surgery
+34608568,Dr. Amber Navarro,555-489-7494,,Medical Director,2005-05-08,Internal Medicine
+44665917,Dr. Jack Simmons,,jsimmons@hospital.org,Chief of Surgery,1997-11-10,General Surgery
+86836748,Dr. Lisa Richmond,291-643-5254,lrichmond@hospital.org,Medical Director,2004-09-25,Internal Medicine
+76023915,Dr. Andrew Johnson,810-297-7734,ajohnson@hospital.org,Chief of Surgery,2002-07-17,General Surgery
+43203947,Dr. Joseph Armstrong,211-884-8006,jarmstrong@hospital.org,,2010-05-14,Internal Medicine
+89318160,Dr. Keith Mason,707-816-3810,kmason@hospital.org,Chief of Surgery,1990-06-30,General Surgery
+33729058,Dr. Brenda Bryant,674-532-4193,bbryant@hospital.org,,2003-01-21,General Surgery

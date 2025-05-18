@@ -1,0 +1,227 @@
+Room id,Room number,Room type,Capacity,Status,Last serviced
+693643,A981,CCU,1.0,Needs inception,2025-05-14
+707044,B825,Maternity,2.0,Ready,2025-05-16
+665051,B786,Recovery,,Ready,16-05-2025
+427143,C971,Isolation,1.0,,2025-05-16
+760551,B964,Operating,,Ready,2025-05-10
+128373,A624,Recovery,2.0,,2025-05-16
+587628,D781,Isolation,1.0,Ready,2025-05-16
+687272,C223,ICU,1.0,Needs Inspection,2025-05-12
+166102,C826,Emergency,1.0,Ready,2025-05-16
+255731,B1025,Isolation,1.0,Ready,2025-05-16
+304778,B882,Emergency,,Ready,2025-05-16
+391883,C463,CCU,1.0,Needs Inspection,2025-05-11
+97380,D733,Maternity,2.0,Ready,2025-05-16
+817392,D276,CCU,,,2025-05-15
+750325,B285,Isolation,1.0,Ready,"May 16, 2025"
+189755,B833,Emergency,1.0,Ready,2025-05-16
+594759,B127,Pediatric,2.0,,2025-05-16
+371552,C224,ICU,,Needs inception,2025-05-12
+701683,A297,Operating,1.0,Ready,2025-05-15
+654595,B643,Pediatric,2.0,Ready,2025-05-16
+616519,A526,Operating,1.0,Ready,2025-05-16
+353760,A422,Pediatric,2.0,Ready,2025.05.16
+3217,C144,Emergency,1.0,Ready,2025-05-16
+324125,A585,Operating,1.0,Ready,2025-05-12
+197713,B267,Emergency,1.0,Ready,2025-05-16
+636339,A243,General Ward,,,2025-05-16
+703298,A171,ICU,1.0,Needs Inspection,2025-05-10
+450134,C219,CCU,1.0,Needs Inspection,2025-05-11
+897756,A1022,Operating,1.0,Ready,2025-05-12
+439283,A652,Recovery,2.0,Ready,2025-05-16
+493515,C992,CCU,1.0,Needs Inspection,2025-05-14
+300374,D722,Psychiatric,1.0,Ready,2025-05-16
+658433,C948,Isolation,1.0,Ready,"May 16, 2025"
+192626,C254,ICU,1.0,Ready,2025.05.16
+289493,C147,Operating,1.0,Ready,2025-05-14
+481983,A117,ICU,1.0,Ready,2025-05-15
+156873,B946,General Ward,4.0,Ready,2025-05-16
+469516,D1053,General Ward,4.0,Ready,2025-05-16
+543827,D332,Operating,,Ready,2025-05-16
+997561,D852,Recovery,2.0,Ready,2025-05-16
+698127,A218,ICU,1.0,Ready,2025-05-16
+735647,C965,General Ward,,Ready,2025-05-16
+154273,D1094,Psychiatric,1.0,Ready,2025-05-16
+556345,A970,Emergency,1.0,Ready,2025-05-16
+572653,D1077,CCU,1.0,Needs Inspection,2025-05-13
+668842,C735,Operating,1.0,Ready,2025-05-10
+541647,C778,Psychiatric,1.0,Ready,2025-05-16
+862467,B817,Maternity,2.0,Ready,2025-05-16
+961318,C880,Operating,1.0,Ready,2025-05-13
+118434,C449,Maternity,2.0,Ready,2025-05-16
+222303,A192,General Ward,4.0,,2025-05-16
+494738,A754,Isolation,1.0,,2025-05-16
+197585,C777,Isolation,1.0,Ready,2025-05-16
+173605,B154,Recovery,2.0,Ready,2025-05-16
+660786,C848,Maternity,2.0,Ready,"May 16, 2025"
+950118,C422,Operating,1.0,Ready,2025-05-16
+667346,C237,CCU,1.0,,2025-05-15
+41260,A777,Pediatric,2.0,Ready,2025-05-16
+819081,B781,Isolation,,Ready,2025-05-16
+715104,A725,Maternity,2.0,,2025-05-16
+690146,D194,Pediatric,2.0,Ready,2025-05-16
+720416,A391,Recovery,2.0,Ready,2025-05-16
+640015,A690,Pediatric,2.0,Ready,2025-05-16
+240949,A681,Isolation,1.0,Ready,05/16/2025
+954869,D221,Recovery,,,"May 16, 2025"
+193301,B167,General Ward,4.0,Ready,2025-05-16
+552783,C991,CCU,1.0,Needs Inspection,2025-05-12
+95373,D530,Emergency,,Ready,2025-05-16
+70920,C330,Maternity,2.0,,2025-05-16
+574090,D1054,Psychiatric,1.0,Ready,2025-05-16
+167347,C868,Psychiatric,,Ready,2025-05-16
+341592,C743,Pediatric,2.0,Ready,2025-05-16
+758378,C864,Psychiatric,1.0,Ready,2025-05-16
+830030,D779,Pediatric,2.0,Ready,2025-05-16
+968475,A955,General Ward,,,16-05-2025
+851942,C860,Pediatric,2.0,Ready,2025-05-16
+543388,D280,Pediatric,,Ready,16-05-2025
+855075,A523,Operating,1.0,Ready,2025-05-13
+137609,B537,Maternity,2.0,Ready,2025-05-16
+221818,B693,Emergency,1.0,Ready,2025-05-16
+187672,C419,Emergency,1.0,,2025-05-16
+86893,A587,Emergency,1.0,,2025-05-16
+679727,D449,Isolation,1.0,Ready,2025-05-16
+28518,C296,Recovery,2.0,Ready,2025-05-16
+807274,C583,General Ward,4.0,Ready,2025-05-16
+740399,C1033,Pediatric,2.0,Ready,2025-05-16
+68496,D626,ICU,1.0,Ready,2025-05-15
+451623,B750,General Ward,4.0,Ready,2025-05-16
+517062,A392,Psychiatric,,Ready,2025-05-16
+849177,A340,ICU,1.0,Ready,2025-05-15
+953942,D819,ICU,,Needs Inspection,2025-05-11
+384381,C174,CCU,1.0,Needs Inspection,2025-05-13
+214423,B431,CCU,1.0,Needs Inspection,05/13/2025
+416672,C856,CCU,1.0,Needs Inspection,2025-05-12
+316768,A450,Recovery,,Ready,"May 16, 2025"
+392937,B736,General Ward,4.0,Ready,2025-05-16
+481129,C631,General Ward,4.0,Ready,2025-05-16
+960041,A890,Recovery,2.0,Ready,16-05-2025
+538033,C499,Psychiatric,1.0,,2025-05-16
+579938,A942,Maternity,2.0,Ready,2025-05-16
+351143,A1069,Operating,1.0,Ready,2025-05-14
+167951,D959,Pediatric,,,2025-05-16
+252043,B965,Emergency,1.0,Ready,2025.05.16
+173961,A594,Emergency,1.0,Ready,2025-05-16
+239299,C275,Recovery,2.0,Ready,2025-05-16
+192996,C992,Psychiatric,1.0,Ready,2025-05-16
+843548,A945,Recovery,2.0,Ready,2025-05-16
+924438,B748,Maternity,2.0,Ready,2025-05-16
+912330,A737,Recovery,2.0,,2025-05-16
+669191,A743,General Ward,4.0,Ready,16-05-2025
+462022,B454,ICU,1.0,Needs Inspection,2025-05-11
+51500,A243,Psychiatric,,Ready,2025-05-16
+34343,A489,Psychiatric,1.0,Ready,2025-05-16
+672333,A549,Emergency,,,2025-05-16
+705964,C1097,Pediatric,,Ready,2025-05-16
+782571,D859,Isolation,1.0,Ready,2025-05-16
+303017,B636,General Ward,4.0,Ready,2025-05-16
+313323,A1058,Isolation,1.0,,2025-05-16
+229149,C668,Emergency,1.0,Ready,"May 16, 2025"
+824876,D697,Pediatric,2.0,Ready,2025-05-16
+92650,B984,CCU,1.0,Needs Inspection,2025-05-14
+683768,B512,Psychiatric,1.0,Ready,2025-05-16
+16258,C124,Isolation,1.0,Ready,2025-05-16
+568050,B286,Operating,1.0,,2025-05-12
+996977,B289,Recovery,2.0,Ready,2025-05-16
+771475,C568,Pediatric,,Ready,2025-05-16
+636132,B123,Maternity,2.0,Ready,2025-05-16
+219524,B219,Isolation,1.0,Ready,2025-05-16
+141440,A921,ICU,1.0,Needs Inspection,2025-05-10
+5741,D428,ICU,1.0,Needs Inspection,2025-05-14
+8414,D580,Pediatric,2.0,Ready,2025-05-16
+651916,D142,Operating,1.0,,2025-05-15
+975422,C946,Recovery,,Ready,16-05-2025
+909554,B781,CCU,1.0,Needs Inspection,2025-05-12
+173660,D652,Pediatric,,,2025-05-16
+251418,C1088,Isolation,1.0,Ready,2025-05-16
+196837,B1055,Isolation,1.0,Ready,2025-05-16
+419404,B448,Operating,1.0,Ready,2025-05-15
+113864,B887,Isolation,1.0,Ready,2025-05-16
+524157,A939,Emergency,1.0,,2025-05-16
+994736,B545,Pediatric,2.0,Ready,2025-05-16
+402529,D560,Recovery,2.0,,2025-05-16
+5630,D169,Pediatric,2.0,Ready,2025-05-16
+881014,B545,Maternity,2.0,Ready,2025-05-16
+164974,C365,General Ward,4.0,Ready,2025-05-16
+303574,A869,Isolation,,Ready,05/16/2025
+573961,D330,Recovery,2.0,Ready,2025-05-16
+70317,A459,Maternity,2.0,Ready,2025-05-16
+261111,B622,Pediatric,2.0,Ready,2025-05-16
+714636,D145,Maternity,2.0,Ready,2025-05-16
+984057,A853,ICU,1.0,Needs Inspection,2025-05-12
+324774,A667,Isolation,1.0,Ready,05/16/2025
+499627,A317,Pediatric,2.0,Ready,2025-05-16
+915128,A512,General Ward,4.0,Ready,2025-05-16
+866122,D1065,Recovery,2.0,Ready,05/16/2025
+622697,B628,Maternity,2.0,Ready,2025-05-16
+427186,C142,Pediatric,2.0,Ready,2025-05-16
+633909,A548,Emergency,1.0,Ready,2025-05-16
+542455,B944,Isolation,1.0,,2025-05-16
+801669,B117,General Ward,4.0,Ready,2025-05-16
+866806,D969,Emergency,1.0,Ready,"May 16, 2025"
+572762,A1034,Operating,1.0,Ready,"May 13, 2025"
+834235,B372,Operating,1.0,Ready,2025-05-13
+872768,D252,Operating,1.0,Ready,2025-05-13
+198087,B798,Pediatric,2.0,Ready,2025-05-16
+529667,B754,CCU,1.0,Needs Inspection,2025-05-12
+294302,B461,Isolation,1.0,Ready,2025-05-16
+130842,B561,Psychiatric,1.0,Ready,2025-05-16
+599034,B335,Operating,1.0,Ready,2025-05-14
+219177,C668,Emergency,1.0,Ready,2025-05-16
+365172,D763,Maternity,2.0,Ready,2025-05-16
+335824,D455,Recovery,2.0,Ready,2025-05-16
+995360,D466,Recovery,,Ready,2025-05-16
+140375,D1054,Pediatric,2.0,Ready,2025-05-16
+274065,B853,Emergency,1.0,Ready,2025-05-16
+742444,C1046,Psychiatric,1.0,Ready,2025-05-16
+969328,A241,Recovery,2.0,Ready,2025-05-16
+855095,C515,Emergency,1.0,,2025-05-16
+9242,C1043,Recovery,2.0,Ready,2025-05-16
+18925,D946,Psychiatric,,,2025-05-16
+637262,A728,Pediatric,2.0,Ready,"May 16, 2025"
+799313,C818,General Ward,,Ready,2025-05-16
+766038,A385,Emergency,1.0,,2025-05-16
+567827,B253,Operating,1.0,Ready,2025-05-14
+499864,A594,General Ward,4.0,Ready,2025-05-16
+623683,C669,Operating,1.0,Ready,2025-05-16
+21139,B338,Psychiatric,1.0,Ready,2025-05-16
+485143,A1035,Emergency,1.0,Ready,2025-05-16
+343080,C1055,Maternity,2.0,Ready,2025-05-16
+793119,D845,Maternity,,Ready,05/16/2025
+336102,D512,Pediatric,2.0,Ready,05/16/2025
+898192,D341,Maternity,2.0,Ready,2025-05-16
+988674,D490,General Ward,4.0,Ready,2025-05-16
+180460,C480,General Ward,,Ready,16-05-2025
+929950,C465,Psychiatric,1.0,Ready,2025-05-16
+511497,C484,Recovery,2.0,,2025-05-16
+3507,A1054,Recovery,2.0,Ready,"May 16, 2025"
+748443,D1029,Isolation,1.0,Ready,"May 16, 2025"
+555583,A921,Pediatric,2.0,Ready,2025-05-16
+533516,D731,Psychiatric,1.0,,2025-05-16
+219524,B219,Isolation,1.0,Ready,2025-05-16
+843548,A945,Recovery,2.0,Ready,2025-05-16
+427186,C142,Pediatric,2.0,Ready,2025-05-16
+187672,C419,Emergency,1.0,,2025-05-16
+196837,B1055,Isolation,1.0,Ready,2025-05-16
+543827,D332,Operating,,Ready,2025-05-16
+95373,D530,Emergency,,Ready,2025-05-16
+3507,A1054,Recovery,2.0,Ready,"May 16, 2025"
+335824,D455,Recovery,2.0,Ready,2025-05-16
+41260,A777,Pediatric,2.0,Ready,2025-05-16
+343080,C1055,Maternity,2.0,Ready,2025-05-16
+760551,B964,Operating,,Ready,2025-05-10
+849177,A340,ICU,1.0,Ready,2025-05-15
+968475,A955,General Ward,,,16-05-2025
+9242,C1043,Recovery,2.0,Ready,2025-05-16
+240949,A681,Isolation,1.0,Ready,05/16/2025
+669191,A743,General Ward,4.0,Ready,16-05-2025
+975422,C946,Recovery,,Ready,16-05-2025
+799313,C818,General Ward,,Ready,2025-05-16
+313323,A1058,Isolation,1.0,,2025-05-16
+86893,A587,Emergency,1.0,,2025-05-16
+701683,A297,Operating,1.0,Ready,2025-05-15
+782571,D859,Isolation,1.0,Ready,2025-05-16
+636339,A243,General Ward,,,2025-05-16
+742444,C1046,Psychiatric,1.0,Ready,2025-05-16
+995360,D466,Recovery,,Ready,2025-05-16

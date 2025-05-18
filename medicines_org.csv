@@ -1,0 +1,945 @@
+Medicine id,Name,Brand,Type,Dosage,Stock quantity,Expiry date,Price
+36477990,Sert?raline,Zoloft,SSRI,100mg,48,2027-05-06,142.01
+15284014,Atorvastatin,Torvast,Statin,80mg,216,2027-11-18,33.54
+5999649,Metformin,Glucophage,Biguanide,850mg,462,2027-12-15,12.71
+82612205,Amoxicillin,Moxatag,Antibiotic,250mg,413,2025-09-05,176.89
+46856919,Amoxicillin,Amoxil,Antibiotic,250mg,444,2028-02-18,177.35
+63352145,Lis:|inopril,Zestri_l,ACE Inhibitor,5mg,178,2026-08-21,35.5
+89919087,Lisinopril,`{.Qbrelis,ACE Inhibitor,40mg,157,2027-01-25,96.25
+65790199,Metformin,Glucophage,Biguanide,500mg,497,2025-12-22,178.67
+56775402,Metformin,Fortamet,Biguanide,850mg,343,2026-03-08,99.0
+81957661,Metformi?;n,Fortamet,Biguanide,1000mg,147,2026-10-20,52.91
+89062126,Atorvastatin,Atorva,Statin,80mg,86,2025-05-21,176.59
+62271770,Sertraline,Lustr;`:al,SSRI,25mg,176,2026-11-30,194.17
+98288961,Omeprazole,Losec,PPI,40mg,472,2026-09-04,46.13
+15359939,Amoxicillin,Amoxil,Antibiotic,250mg,47,2026-12-01,146.5
+24474421,Omepra%.zole,Zegerid,PPI,20mg,483,2028-01-09,180.93
+56519012,Omeprazole,Prilosec,PPI,20mg,479,2025-07-02,72.57
+68641374,Albuter!:ol,ProAir,Bronchodilator,180mcg/inh,53,2027-04-12,81.99
+26525060,Omeprazole,Prilosec,PPI,20mg,265,2028-01-19,60.71
+13866911,Lisinopril,Zestril,ACE Inhibitor,20mg,55,2026-11-29,174.79
+80556177,Metformin,Fortamet,Biguanide,850mg,162,2025-06-08,132.31
+6400736,Metformin,Fortamet,Biguanide,850mg,157,2028-04-24,167.5
+65468114,Sertraline,Zoloft,SSRI,25mg,266,2027-10-04,57.92
+20509630,Lisinopril,Zestril,ACE Inhibitor,10mg,198,2026-05-19,119.85
+79435023,Atorvastatin,Atorva,Statin,20mg,93,2025-08-24,147.04
+31626484,Atorvastatin,Lipitor,Statin,20mg,136,2027-08-07,15.12
+90832323,Amoxicillin,Amoxil,Antibiotic,500mg,72,2026-04-12,72.54
+82633864,Albuter{ol,Ventolin,Bronchodilator,90mcg/inh,178,2028-05-01,62.67
+5286197,Ato=rvastatin,Lipitor,Statin,10mg,453,2027-01-08,136.0
+96446302,Albuterol,ProAir,Bronchodilator,90mcg/inh,500,2026-02-24,101.55
+48467874,Lisinopril,Zestr^&$il,ACE Inhibitor,5mg,385,2028-03-03,113.67
+60197953,Atorvastatin,Atorva,Statin,10mg,114,2026-12-04,108.32
+53627245,Lisinopril,Qbrelis,ACE Inhibitor,5mg,465,2028-03-09,77.44
+3351601,S!ertraline,Lust~ral,SSRI,50mg,19,2025-06-20,157.8
+74554062,Omeprazole,Losec,PPI,40mg,483,2028-02-11,199.11
+24395334,}Lisinopril,Qbreli#$@s,ACE Inhibitor,20mg,208,2027-05-22,190.71
+60877397,Sertraline,Asentra,SSRI,50mg,229,2025-07-28,139.53
+55306559,Omeprazole,Prilosec,PPI,20mg,67,2026-06-20,122.38
+26836740,A[=torvastatin,Atorva,Statin,80mg,115,2025-06-28,192.46
+34236292,Atorvastatin,Lipitor,Statin,10mg,461,2025-12-09,56.85
+19475232,Lis!inopril,Zestril,ACE Inhibitor,20mg,364,2026-07-20,122.52
+69378627,Albuterol,ProAir,Bronchodilator,180mcg/inh,62,2026-10-20,180.95
+22303243,Omeprazole,Prilosec,PPI,40mg,87,2027-06-17,103.42
+22129092,Sertralin:/e,Lustral,SSRI,100mg,314,2026-02-07,79.92
+83167564,Albuterol,Ventolin,Bronchodilator,90mcg/inh,22,2027-06-04,17.56
+79759916,Lisinopril,Qbrelis,ACE Inhibitor,10mg,387,2028-03-01,90.44
+49062253,Albuterol,Proventil,Bronchodilator,180mcg/inh,354,2028-01-19,10.74
+5942052,Omeprazole,Losec,PPI,20mg,338,2027-07-21,6.16
+16025305,Atorvastatin,Atorva,Statin,80mg,212,2028-01-10,156.86
+63217327,Omeprazole,P%%rilosec,PPI,20mg,425,2026-07-23,19.9
+49507071,Lisinopril,Prinivil,ACE Inhibitor,40mg,156,2025-09-19,192.27
+2765901,Lisinop=<#ril,Prinivil,ACE Inhibitor,10mg,114,2028-05-11,122.24
+15155637,Albuterol,ProAir,Bronchodilator,180mcg/inh,268,2028-04-13,95.96
+57400057,Atorvastatin,Ato%{rva,Statin,20mg,19,2027-06-13,55.53
+4556628,Metformin,Fortamet,Biguanide,1000mg,385,2025-09-17,40.51
+43531959,Atorvastatin,T:/:orvast,Statin,20mg,133,2026-03-01,26.9
+1761287,Omeprazole,Zegerid,PPI,20mg,477,2027-01-26,31.5
+89083730,Omeprazole,Losec!),PPI,40mg,475,2026-05-27,98.95
+43773955,Atorvastatin,Lipitor,Statin,80mg,68,2025-07-27,111.41
+30088510,Albuterol,Pr+~{oAir,Bronchodilator,90mcg/inh,367,2026-10-03,106.82
+73392307,At&orvastatin,Lipitor,Statin,10mg,253,2027-12-19,18.49
+69101825,Amoxicillin,Moxatag,Antibiotic,250mg,264,2027-09-21,117.87
+24231625,Albuterol,ProAir,Bronchodilator,90mcg/inh,143,2025-08-10,82.02
+31260676,Atorvastatin,Torvast,Statin,10mg,216,2027-07-08,123.91
+77473582,Sertraline,Zoloft,SSRI,25mg,484,2027-07-03,75.6
+71936986,Albuterol,ProAir,Bronchodilator,180mcg/inh,269,2027-02-22,85.31
+46463972,Metformin,For~%{tamet,Biguanide,1000mg,358,2025-05-29,77.14
+58492481,Metformin,Glumetza,Biguanide,850mg,243,2028-03-27,136.92
+89375147,Albuterol,Proventil,Bronchodilator,90mcg/inh,307,2025-05-24,124.2
+14784306,Omeprazole,Losec,PPI,20mg,276,2027-09-01,167.23
+75633792,Lisinopril,Qbrelis,ACE Inhibitor,5mg,237,2026-10-26,24.85
+85504370,Metformin,Glucophage,Biguanide,500mg,36,2027-06-18,89.58
+8390858,Omeprazole,Prilosec,PPI,40mg,366,2027-09-03,21.06
+66827918,Omeprazole,Prilosec,PPI,40mg,402,2026-11-02,124.53
+98583690,Omeprazole,Losec,PPI,20mg,437,2028-02-14,148.45
+97700906,Sertraline,Asentra,SSRI,100mg,100,2026-11-10,107.59
+30568985,Albuterol,ProAir,Bronchodilator,180mcg/inh,249,2026-05-20,178.93
+67513245,Amoxicillin,Moxatag,Antibiotic,250mg,468,2027-12-31,127.54
+9841132,Lisinopril,Prinivil,ACE Inhibitor,10mg,213,2026-01-28,12.14
+52625957,Atorvastatin,Lipitor,Statin,20mg,14,2026-11-25,59.21
+92608761,Lisinopril,Zestril,ACE Inhibitor,10mg,138,2026-11-01,142.43
+19159635,Sertraline,Lustral,SSRI,25mg,167,2025-06-25,36.19
+72106831,Sertraline,Zoloft,SSRI,100mg,282,2025-08-04,127.34
+37626958,Metformin,Fortamet,Biguanide,1000mg,310,2027-09-30,6.04
+78497801,Sertraline,Asentra,SSRI,100mg,416,2028-04-06,110.12
+28648938,Atorvastatin,Atorva,Statin,40mg,186,2026-12-31,104.03
+50403489,Metformin,Glucophage,Biguanide,850mg,464,2026-08-16,157.11
+90356685,Lisinopr(`~il,Prin+;ivil,ACE Inhibitor,5mg,383,2026-08-28,193.06
+9058731,Albuterol,Ventolin,Bronchodilator,90mcg/inh,340,2027-06-17,5.24
+97653047,Atorvastatin,Lipitor,Statin,80mg,235,2025-08-06,151.21
+90856244,Sertraline,Asentra,SSRI,50mg,58,2028-04-02,121.65
+30460704,Albuterol,Ventolin,Bronchodilator,180mcg/inh,386,2027-03-21,115.31
+59560026,Albuterol,Proventil,Bronchodilator,180mcg/inh,272,2028-02-16,135.74
+31401812,Omeprazole,Prilosec,PPI,20mg,181,2025-07-24,80.79
+41354717,Sertralin]e,Lustral,SSRI,100mg,454,2027-09-18,55.69
+51510877,Albuterol,Proventil,Bronchodilator,180mcg/inh,27,2027-10-29,67.04
+12578252,Omeprazole,Prilosec,PPI,40mg,329,2026-05-10,99.84
+19949740,Omeprazole,Losec,PPI,20mg,157,2027-10-23,84.32
+49191971,Sertraline,Lustral,SSRI,25mg,294,2026-04-10,45.14
+55828684,Albuterol,Ventolin,Bronchodilator,90mcg/inh,81,2028-02-04,182.67
+26973427,Atorvastatin,Atorva,Statin,40mg,58,2027-07-17,132.84
+95712115,Omeprazole,Prilosec,PPI,40mg,241,2028-04-19,85.09
+7789669,Metformin,Fortamet,Biguanide,1000mg,41,2026-10-26,95.61
+2974990,Omeprazole,Prilosec,PPI,20mg,489,2027-01-22,48.54
+82123830,Metformin,Gl{;ucophage,Biguanide,500mg,6,2027-03-26,178.38
+51035632,Sertraline,Lustral,SSRI,25mg,482,2027-07-03,176.22
+19560449,Metformin,Glumetza,Biguanide,500mg,454,2027-12-05,122.81
+92403546,Omeprazole,Prilosec,PPI,40mg,274,2026-03-10,183.18
+11374186,Atorvastatin,Torvast,Statin,80mg,244,2027-08-03,62.62
+41455666,Amoxicillin,Trimox,Antibiotic,875mg,347,2026-04-15,94.35
+47671779,Albuterol,P!~roAir,Bronchodilator,90mcg/inh,93,2025-08-18,194.72
+1834776,Lisinopr!il,Zes.tril,ACE Inhibitor,40mg,206,2026-01-17,196.37
+65177922,"O,(`meprazole",Prilosec,PPI,40mg,50,2027-10-03,18.06
+68765559,Metformin,Fortamet,Biguanide,1000mg,359,2026-02-19,17.62
+40043676,Lisinopril,Prinivil,ACE Inhibitor,20mg,418,2025-09-13,90.53
+46358217,Lisinopril,:Qbrelis,ACE Inhibitor,40mg,29,2025-05-25,186.47
+18578544,Amoxicil.lin,Trimox,Antibiotic,500mg,286,2027-01-16,185.93
+8055620,Atorvastatin,Lipitor,Statin,20mg,220,2025-06-16,177.55
+41108800,Albuterol,Proventil,Bronchodilator,90mcg/inh,190,2028-04-20,179.6
+25879416,Atorvastat(>%in,Torvast,Statin,20mg,183,2027-02-08,79.35
+52322541,Albuterol,Proventil,Bronchodilator,180mcg/inh,353,2027-07-11,106.5
+87281533,Omeprazole,Losec,PPI,40mg,447,2026-05-08,166.17
+71770084,Albuterol,Proventil,Bronchodilator,180mcg/inh,413,2028-04-11,132.1
+92149478,Sertraline,Zo<loft,SSRI,50mg,37,2026-06-18,193.8
+29738053,Metformin,Glucophage,Biguanide,1000mg,9,2028-01-23,156.15
+78398004,Atorvastatin,Lipitor|&,Statin,20mg,20,2026-04-08,46.9
+84034576,Albuterol,Ventolin,Bronchodilator,90mcg/inh,458,2027-06-28,125.1
+59023242,Albuterol,Ventolin,Bronchodilator,180mcg/inh,5,2026-06-30,112.33
+62764842,Atorvastatin,Atorva,Statin,80mg,0,2027-02-22,147.57
+12203509,Lisinop@:ril,Prinivil,ACE Inhibitor,5mg,6,2026-05-02,97.5
+70244205,Atorvastatin,Torvast,Statin,40mg,340,2025-08-15,40.81
+12890324,Atorvastatin,Lipitor,Statin,10mg,444,2027-04-12,194.41
+34468073,Lisinopril,Qbrelis,ACE Inhibitor,20mg,405,2027-12-13,80.27
+19942486,Albuterol,Ventolin,Bronchodilator,90mcg/inh,173,2027-11-17,36.56
+60004410,Metf.;=ormin,Glucophage,Biguanide,500mg,469,2026-07-19,134.0
+91126595,Lis@$inopril,Qbrelis,ACE Inhibitor,40mg,71,2026-09-10,70.1
+43598222,Albutero{}l,Ventolin,Bronchodilator,180mcg/inh,207,2025-09-19,42.27
+64311895,Atorvastatin,Lipitor,Statin,80mg,118,2026-12-01,92.85
+90273700,Metformin,Glucophage,Biguanide,500mg,216,2027-03-09,136.85
+5868079,Albuterol,Proventil,Bronchodilator,180mcg/inh,295,2027-02-11,83.75
+87972823,Lisinopril,Prinivil,ACE Inhibitor,5mg,413,2026-08-17,76.84
+35788379,Sertraline,Lustral,SSRI,100mg,417,2026-12-31,175.65
+41937930,Albuterol,Ventolin$,Bronchodilator,180mcg/inh,125,2025-08-23,18.47
+95241504,Atorvastatin,Torvast,Statin,20mg,33,2027-12-23,92.13
+70047329,Albuterol,P!(=roventil,Bronchodilator,180mcg/inh,208,2026-08-01,134.87
+98168036,Albuterol,Proventil,Bronchodilator,180mcg/inh,466,2026-10-26,13.52
+75065287,Omeprazole,Prilosec,PPI,40mg,195,2025-12-01,153.19
+59164555,Sertraline,Asentra,SSRI,25mg,158,2025-09-08,98.81
+89850063,Lisinopril,Prinivil,ACE Inhibitor,5mg,446,2026-02-26,49.36
+7195312,Albuterol,Proventil,Bronchodilator,90mcg/inh,160,2026-04-29,197.52
+85478975,Metformin,Glumetza,Biguanide,850mg,133,2025-06-27,95.61
+51940981,Metformin,Glucophage,Biguanide,1000mg,494,2026-12-10,169.12
+15501409,Atorvastatin,Torvast,Statin,20mg,91,2026-05-19,124.62
+81860120,Sertraline,Asentra,SSRI,100mg,122,2028-01-12,86.09
+39926154,Sertraline,Lustral,SSRI,100mg,437,2027-03-03,124.76
+45169485,Lisinopril,Zestril,ACE Inhibitor,40mg,51,2025-10-15,162.04
+21957040,Omeprazole,Pril>{&osec,PPI,40mg,36,2027-06-16,114.52
+39021924,Amoxicillin,Trimox,Antibiotic,875mg,262,2025-05-23,162.78
+38409695,Omeprazole,Zegerid,PPI,40mg,347,2027-06-29,181.96
+49763342,Metformin,Glucophage,Biguanide,1000mg,237,2028-01-12,131.28
+20228689,Atorvas@[tatin,Lipitor,Statin,10mg,119,2027-05-01,174.4
+41989226,Atorvastatin,Atorva,Statin,80mg,487,2027-12-12,140.95
+70185361,"Atorvast,atin",Torvast,Statin,80mg,109,2025-07-15,24.9
+33644749,Amoxicillin,Trimox,Antibiotic,250mg,402,2025-08-01,146.49
+60664470,Lisinopril,Prinivil,ACE Inhibitor,20mg,239,2027-06-07,133.57
+86048574,Amoxicillin,Trimox,Antibiotic,250mg,134,2027-08-24,79.42
+97630861,Atorvastatin,Torvast,Statin,20mg,355,2027-02-06,20.85
+65374478,Omeprazole<;&,Prilosec,PPI,40mg,206,2027-06-14,63.04
+26075718,Albuterol,ProAi@])r,Bronchodilator,180mcg/inh,305,2025-11-26,184.98
+68709045,Alb<|_uterol,ProAir,Bronchodilator,90mcg/inh,138,2027-02-24,64.11
+37693683,Metformin,Glumetza,Biguanide,1000mg,264,2027-05-28,17.93
+25840222,Sertraline,Zoloft,SSRI,50mg,111,2027-08-19,73.2
+31661280,Omeprazole,Losec,PPI,40mg,388,2025-05-20,135.57
+42576254,Metformin,Fortamet,Biguanide,850mg,408,2026-07-18,34.41
+4247373,Atorvastatin,Lipitor,Statin,80mg,242,2027-03-26,196.56
+72472046,Metformin,Fortamet,Biguanide,850mg,482,2028-02-25,16.67
+31686848,S~ertraline,Lustral,SSRI,100mg,16,2026-05-07,91.32
+10790042,Albuterol,Proventil,Bronchodilator,90mcg/inh,410,2027-01-01,61.4
+91013713,"Omepr,,|azole",Losec,PPI,20mg,81,2026-05-24,195.79
+76438995,Sertraline,Lustral,SSRI,100mg,175,2025-07-11,131.35
+69726727,Omeprazole,L<osec,PPI,20mg,172,2027-07-03,194.48
+44397355,Lisinopril,Qbrelis,ACE Inhibitor,20mg,53,2027-08-07,190.66
+6678582,Albuterol,"Proventi,=]l",Bronchodilator,90mcg/inh,222,2027-04-23,133.78
+47091117,Metformin,Glumetza,Biguanide,500mg,155,2027-09-09,191.22
+8502354,Metformin,Glumetza,Biguanide,500mg,355,2026-11-01,17.07
+19316833,Atorvastatin,Lipi(^tor,Statin,40mg,388,2025-06-11,154.62
+65327471,Alb{?:uterol,Proventil,Bronchodilator,180mcg/inh,138,2027-02-14,95.4
+15482997,Lisinopril,Qbrelis,ACE Inhibitor,5mg,308,2027-03-20,195.16
+30389896,Lisinopril,Zestril,ACE Inhibitor,5mg,252,2028-01-09,44.37
+38912901,Metformin,Glucophage,Biguanide,500mg,347,2025-08-30,129.61
+34801755,Omeprazole,L@~}osec,PPI,40mg,299,2026-09-04,76.06
+20874511,Omeprazol<e,Losec,PPI,40mg,484,2028-02-19,178.21
+98978133,Lisinopril,Qbrelis,ACE Inhibitor,40mg,327,2025-07-12,7.24
+16555184,Metformin,Glumetza,Biguanide,1000mg,255,2027-02-09,119.18
+35649964,Amoxicillin,Trimox,Antibiotic,500mg,296,2027-11-23,47.93
+30817899,Atorvastatin,Atorva,Statin,40mg,54,2026-06-21,70.76
+66465133,Amoxicillin,Moxatag,Antibiotic,875mg,212,2026-10-17,54.27
+52075620,Albuterol,P}[roAir,Bronchodilator,90mcg/inh,198,2025-07-19,199.14
+36114055,Metformi*n,Glumetza,Biguanide,1000mg,458,2028-02-17,37.68
+76737005,Metf;%ormin,Glumetza,Biguanide,1000mg,340,2028-04-15,147.37
+75763168,Lisinopril,Qbrelis,ACE Inhibitor,5mg,57,2027-09-05,65.72
+26510882,Metformin,Fortamet,Biguanide,850mg,373,2025-07-21,58.14
+25722693,"Me(,tformin",Glumetza,Biguanide,500mg,42,2027-11-22,130.48
+81871012,"Omeprazol&.,e",Zegerid,PPI,40mg,145,2025-05-26,9.25
+16927318,Metformin,Glucophage,Biguanide,500mg,287,2025-10-03,183.71
+82177960,Sertraline,Asentra,SSRI,50mg,22,2025-10-20,154.55
+20072007,Amoxicillin,Trimox,Antibiotic,250mg,41,2025-05-28,175.77
+24256506,Lisinopril,Zestril,ACE Inhibitor,40mg,200,2025-06-30,27.61
+16475237,Metformin,Glumetza,Biguanide,850mg,319,2025-07-01,75.43
+81330291,Metformin,Glumetza,Biguanide,500mg,32,2026-05-04,199.64
+57745171,Ato?(_rvastatin,Lipitor,Statin,10mg,283,2027-04-21,7.32
+64050256,Lisinopril,Qbrelis,ACE Inhibitor,20mg,413,2026-03-06,88.24
+12420892,Atorvastatin,"Atorva)*,",Statin,10mg,154,2027-08-25,186.42
+95620991,Amoxicillin,Moxatag,Antibiotic,500mg,494,2027-09-17,170.05
+42173948,Atorvastatin,Lipi$tor,Statin,10mg,192,2027-03-25,162.79
+99724124,Metformin,Glumetza,Biguanide,500mg,178,2028-03-14,19.8
+9838660,Albuterol,Proventil,Bronchodilator,180mcg/inh,164,2027-10-14,146.31
+93179293,Metformin,Glumetza,Biguanide,850mg,101,2028-01-27,11.61
+15307009,Sertraline,Asentra,SSRI,50mg,224,2028-02-21,196.9
+61592637,Lisinopril,Zest//~ril,ACE Inhibitor,20mg,158,2026-01-20,86.52
+34245172,Albuterol,ProAir,Bronchodilator,90mcg/inh,437,2028-04-07,49.8
+99748438,Metformin,Glumetza,Biguanide,1000mg,464,2026-12-20,56.51
+59272197,Lisinopril,Prinivil,ACE Inhibitor,40mg,437,2026-08-06,118.69
+8516715,Atorvastatin,At)<`orva,Statin,80mg,13,2027-02-02,108.84
+84961588,Lisinopril,Zestril,ACE Inhibitor,10mg,369,2025-08-22,117.5
+93733355,Omepra;>#zole,Zegerid,PPI,40mg,108,2025-08-05,171.32
+49714213,Sertraline,Lustral,SSRI,50mg,119,2026-01-27,46.22
+24512268,Lisinopril,Zestril,ACE Inhibitor,10mg,306,2027-08-30,17.97
+96423839,Atorvastatin,Atorva,Statin,40mg,386,2025-11-10,121.15
+214065,Omeprazole,Zegerid,PPI,20mg,483,2027-11-01,59.63
+50391667,Albuterol,ProA!ir,Bronchodilator,90mcg/inh,194,2025-06-25,155.29
+73269016,Omeprazole,Losec,PPI,20mg,111,2027-12-07,199.11
+12446427,Lisinopril,Prinivil,ACE Inhibitor,20mg,206,2026-10-28,113.37
+43831147,Lisinopril,Prinivil,ACE Inhibitor,40mg,165,2025-09-23,95.25
+75673485,Sertraline,Zoloft,SSRI,50mg,434,2027-07-19,82.0
+13712430,Amoxicillin,Moxatag,Antibiotic,500mg,97,2026-12-09,165.03
+24498373,Metformin,Glumetza,Biguanide,500mg,188,2026-07-27,57.68
+57474319,Metf*ormin,Glumetza,Biguanide,500mg,184,2027-08-02,60.08
+13664596,Sertraline,Asentra,SSRI,25mg,159,2025-12-02,91.77
+61304811,Albuterol,ProAir,Bronchodilator,180mcg/inh,262,2025-10-04,179.49
+93419299,Atorvastatin,Lipitor[,Statin,40mg,424,2028-01-16,182.83
+47125068,Albuterol,ProAir,Bronchodilator,90mcg/inh,162,2027-12-29,65.41
+79785891,Amoxicillin,Trimox,Antibiotic,250mg,340,2028-03-04,98.94
+64048523,Sertraline,Zoloft,SSRI,50mg,217,2027-10-08,156.77
+13734424,Sertraline,Zoloft,SSRI,100mg,159,2027-12-01,119.65
+96820388,Atorvastatin,Atorva,Statin,40mg,429,2028-03-08,164.81
+84007181,!Sertraline,Asentra,SSRI,50mg,152,2026-07-08,110.64
+82610127,Sertraline,A``%sentra,SSRI,50mg,362,2025-12-15,125.85
+65510309,Atorvastatin,At+orva,Statin,40mg,182,2026-10-24,189.72
+33172427,Albuterol,ProAir,Bronchodilator,180mcg/inh,105,2028-03-18,131.08
+20171926,Omeprazole,Zegerid,PPI,40mg,24,2025-11-09,12.16
+28862216,Lisinopril,Zestril,ACE Inhibitor,40mg,410,2025-12-05,34.47
+47260772,Metformin,Fortamet,Biguanide,1000mg,260,2027-10-17,8.63
+16214234,Amoxicillin,Moxatag,Antibiotic,250mg,64,2028-03-12,95.87
+90479691,Amoxicillin,Amoxil,Antibiotic,500mg,253,2026-07-09,101.43
+89427700,Lisinopril,Prinivil,ACE Inhibitor,5mg,432,2025-10-20,107.18
+46654019,Atorvastatin,Atorva=/|,Statin,40mg,252,2027-03-12,24.93
+53063346,Amoxicillin,Amoxil,Antibiotic,250mg,28,2026-06-16,71.52
+85100016,Amoxicillin,Amoxil,Antibiotic,500mg,405,2025-09-16,18.89
+71842702,Amoxicillin,+Trimox,Antibiotic,250mg,430,2028-02-02,38.21
+4323533,Lisinopril,Prinivil,ACE Inhibitor,10mg,405,2025-09-11,157.85
+5837255,Sertraline,Zoloft#!*,SSRI,50mg,51,2027-06-16,199.97
+8507622,Omeprazole,Losec,PPI,20mg,353,2027-10-12,64.3
+37126746,Amoxicillin,Moxata@g,Antibiotic,875mg,493,2025-07-02,179.3
+56279941,Sertral+`ine,Asentra,SSRI,100mg,413,2026-06-19,11.98
+42304491,Ser/!traline,Asentra,SSRI,100mg,279,2026-10-25,47.0
+35009930,Metformin,Glucophage,Biguanide,850mg,474,2027-05-08,60.35
+96295257,Amoxicillin,Trimox,Antibiotic,250mg,6,2027-08-06,76.1
+11140930,Atorvastatin,Atorva,Statin,10mg,149,2027-10-13,31.46
+77889121,Metformin,Glucophage,Biguanide,500mg,463,2025-10-25,24.17
+25373731,Omeprazole,Losec,PPI,20mg,481,2025-08-28,11.76
+62158273,Omeprazole,Zegerid,PPI,40mg,88,2025-11-16,8.0
+31494248,Atorvastatin,Atorva,Statin,10mg,335,2026-01-17,37.39
+97014045,Amox$;icillin,Moxatag,Antibiotic,875mg,145,2027-10-10,117.12
+93719334,Albuterol,Proventil,Bronchodilator,90mcg/inh,4,2027-08-20,35.04
+38216386,Om@+^eprazole,Zegerid,PPI,20mg,349,2025-10-17,191.83
+7553812,Lisinopril,Zestril,ACE Inhibitor,5mg,229,2027-04-09,184.88
+9272411,Amoxicillin,Moxatag,Antibiotic,875mg,247,2025-07-11,179.39
+88202768,Lisinopril,"Ze,;stril",ACE Inhibitor,20mg,13,2027-10-24,8.6
+36986274,Amoxi|cillin,Amoxil,Antibiotic,250mg,243,2026-09-25,113.62
+89047922,Lisinopril,Qbrelis,ACE Inhibitor,10mg,43,2027-10-01,122.97
+10801555,Omeprazole,Losec,PPI,20mg,251,2025-12-29,154.23
+20206279,Metformin,Fortame)+t,Biguanide,850mg,171,2027-08-08,167.17
+54802718,Lisinopril,Qbrelis,ACE Inhibitor,20mg,153,2026-06-13,11.75
+30567139,Atorvastatin,Torvast,Statin,80mg,265,2028-03-22,77.15
+54319619,Sertraline@>],Zol`oft,SSRI,100mg,18,2026-06-08,79.85
+57053466,Lisinopril,Zestril,ACE Inhibitor,5mg,211,2027-07-17,169.82
+82584373,Albuterol,ProAir,Bronchodilator,180mcg/inh,462,2026-08-15,105.62
+75965285,^Omeprazole,Losec,PPI,20mg,364,2025-06-16,135.12
+34711032,Lisinopril,Qbrelis,ACE Inhibitor,10mg,80,2026-10-24,187.94
+92898075,Albuterol,Proventil,Bronchodilator,90mcg/inh,73,2027-01-04,83.58
+40003538,Lisinopril,Prinivil,ACE Inhibitor,10mg,413,2027-05-11,147.81
+11334968,Lisinopril,Prinivil,ACE Inhibitor,10mg,240,2025-05-21,146.47
+43369673,Lisinopr^*il,Qbrelis,ACE Inhibitor,10mg,228,2025-08-10,12.67
+61778585,Met|formin,Fortam:+[et,Biguanide,500mg,432,2028-04-08,193.24
+11062720,Albuterol,Ventoli`]?n,Bronchodilator,90mcg/inh,124,2025-12-11,189.36
+44730898,Atorvastatin,To~rvast,Statin,40mg,69,2026-06-03,56.95
+98238365,Metformin,Glucophage,Biguanide,500mg,177,2027-03-27,178.17
+30287945,Metformin,Glu@cophage,Biguanide,850mg,457,2026-02-06,103.56
+52761117,Atorvastatin,Lipitor,Statin,20mg,5,2026-01-16,54.15
+19212716,Metformin,G&<lumetza,Biguanide,850mg,434,2026-03-25,90.84
+82896052,Amoxicillin,Moxatag,Antibiotic,500mg,437,2025-11-14,171.54
+96797412,Amoxicillin,Amoxil,Antibiotic,875mg,245,2027-11-15,93.26
+11062040,Albutero)l,Proventil,Bronchodilator,180mcg/inh,488,2027-03-10,8.71
+24053364,Amoxicillin,Trimox,Antibiotic,875mg,286,2026-04-24,10.74
+49253014,Metformin,For/%tamet,Biguanide,500mg,235,2025-11-29,86.46
+43605046,Atorvastatin,Torvast,Statin,40mg,256,2026-01-21,48.73
+14017435,Lisinopril,Qbrelis,ACE Inhibitor,5mg,61,2026-03-11,173.63
+24797381,Atorvastatin,Torvast,Statin,10mg,251,2027-10-20,155.53
+78968627,Omeprazol.+e,Prilosec,PPI,40mg,257,2026-09-08,45.16
+66669198,Lisinopril,Zestril,ACE Inhibitor,20mg,71,2026-08-11,32.13
+30643374,Amoxicillin,Trimox,Antibiotic,500mg,139,2028-02-22,20.41
+27628525,Omeprazole,Losec,PPI,20mg,448,2028-04-24,74.45
+14230408,Amoxicillin,Trimox,Antibiotic,500mg,429,2027-01-01,140.63
+99265952,Amoxicillin,Amoxil,Antibiotic,500mg,415,2028-02-04,42.62
+80793301,M`etformin,Glucophage,Biguanide,500mg,348,2026-01-22,118.9
+19329276,Lisinopril,Prinivil,ACE Inhibitor,5mg,11,2027-09-17,24.41
+54150072,Lisinopril,Qbrelis,ACE Inhibitor,10mg,430,2027-06-16,62.43
+20545477,Atorvastatin,Lipitor,Statin,80mg,442,2025-11-18,132.53
+72146674,Metformin,Fortamet,Biguanide,500mg,23,2027-01-24,158.31
+30828671,|`!Sertraline,Lustral,SSRI,50mg,349,2026-09-06,73.58
+56151761,Sertraline,Asentra,SSRI,50mg,91,2027-02-25,79.67
+79621630,Lisinopril,Zestril,ACE Inhibitor,40mg,397,2026-03-13,11.62
+26248906,Lisinopri&<l,Prinivil,ACE Inhibitor,10mg,230,2027-11-22,115.73
+76240286,Albuterol,Proventil,Bronchodilator,180mcg/inh,402,2026-04-29,180.18
+97584228,Omeprazole,Losec,PPI,40mg,332,2026-11-01,66.94
+74768284,Ato]rvastatin,Atorva,Statin,10mg,424,2026-12-09,132.46
+31418521,Sertraline,Asentra,SSRI,25mg,374,2028-01-31,164.38
+67607886,Omeprazole[/,Zegerid,PPI,40mg,237,2026-03-04,91.47
+34627162,Atorvastatin,Atorva,Statin,10mg,100,2026-02-02,24.81
+67341458,Metf<ormin,Glucophage&&,Biguanide,500mg,274,2027-12-09,146.92
+88872640,Me(`$tformin,Glucophage,Biguanide,1000mg,436,2027-01-09,196.56
+98014539,Amoxicillin,Trimox,Antibiotic,250mg,352,2026-12-29,108.28
+10580032,Sertraline,Lustral,SSRI,100mg,469,2025-09-06,124.33
+20400592,Lisinopril,Qbrelis,ACE Inhibitor,5mg,425,2026-10-26,74.14
+5801088,Lisinopril,Zestril,ACE Inhibitor,10mg,168,2028-01-23,134.14
+33664524,Lisinopril,(Prinivil,ACE Inhibitor,40mg,284,2027-10-02,53.75
+31577197,Lisinopril,Qbrelis,ACE Inhibitor,20mg,278,2027-05-04,122.42
+15968184,Lisinopril,Zestr|il,ACE Inhibitor,40mg,474,2026-03-02,9.42
+50954136,Atorvastatin,Atorva,Statin,20mg,458,2025-06-21,61.17
+11093573,Ser&?traline,Lustral,SSRI,50mg,283,2026-12-22,53.34
+75996460,Atorvastatin,Atorva,Statin,20mg,252,2026-06-03,45.57
+14423710,S;&`ertraline,Zoloft,SSRI,100mg,438,2026-03-15,115.76
+93849688,Amoxicillin,Amoxil,Antibiotic,250mg,79,2027-10-09,25.31
+60193917,Atorvastatin,Lipitor,Statin,10mg,225,2025-10-23,93.24
+10232477,Omeprazole*[,Prilosec,PPI,40mg,335,2026-10-20,70.47
+56077131,Atorvastatin,Lipitor[)~,Statin,20mg,110,2026-10-12,192.44
+97005283,Omeprazole,Losec,PPI,40mg,22,2025-11-21,75.52
+37402157,Omeprazole,Losec,PPI,20mg,182,2028-01-02,63.25
+45317109,Omeprazole,Zegerid,PPI,40mg,140,2027-11-07,7.6
+81625673,Atorvastati@:n,Torvast,Statin,40mg,48,2026-12-28,177.45
+89821900,Omeprazole,Prilosec,PPI,20mg,109,2026-03-11,15.87
+23067923,Albuterol,ProAir,Bronchodilator,180mcg/inh,484,2028-01-07,196.47
+6108095,Lisinopril,Prinivil,ACE Inhibitor,10mg,11,2025-05-19,184.8
+67583023,Amoxicillin,Trimox,Antibiotic,875mg,174,2026-01-07,145.8
+37516537,Lisinopril,Prinivil,ACE Inhibitor,20mg,280,2027-06-21,24.54
+36240766,Sertraline,As+entra,SSRI,100mg,181,2027-06-08,70.59
+25894147,Albuterol,Ventolin,Bronchodilator,180mcg/inh,12,2026-06-25,111.93
+11349641,Omeprazole,Losec.!,PPI,40mg,274,2028-03-05,16.93
+92486728,Metformin,Fortamet,Biguanide,850mg,147,2026-03-08,193.65
+44585607,Amoxicillin,Moxatag,Antibiotic,500mg,308,2027-02-19,169.7
+78768420,Lisinopril,Prinivil,ACE Inhibitor,20mg,448,2027-04-29,126.12
+64830591,Albuterol,Ventolin,Bronchodilator,180mcg/inh,231,2025-09-08,8.75
+17620367,Sertral<ine,Lustral,SSRI,25mg,89,2027-01-29,109.03
+72969586,Omeprazole,Losec,PPI,40mg,31,2026-11-26,161.25
+75521140,Amoxicillin,Amoxil,Antibiotic,875mg,469,2026-01-29,45.06
+86305707,Metformin,Glumetza+,Biguanide,1000mg,267,2027-11-13,22.63
+80602288,Metformin,Glucophage,Biguanide,850mg,257,2025-06-10,40.36
+7424949,Omeprazole,Prilosec,PPI,20mg,294,2026-10-21,197.09
+11252991,Metformin,Glucophage,Biguanide,1000mg,456,2028-04-13,81.06
+68619124,Omeprazole,Prilo:&{sec,PPI,40mg,266,2025-08-27,43.35
+22233640,Sertraline,Lustral,SSRI,100mg,124,2026-03-23,101.09
+50525373,Amoxicillin,Moxatag,Antibiotic,500mg,374,2026-10-02,165.6
+14242469,Amoxicillin,Amox([il,Antibiotic,250mg,286,2026-05-08,186.49
+4385487,[Omeprazole,Prilosec,PPI,20mg,80,2025-07-14,78.47
+45942027,Metformin,Glumetza,Biguanide,850mg,144,2028-01-03,170.21
+34259024,Lisinopril,Prinivil,ACE Inhibitor,40mg,244,2027-04-04,188.78
+59849636,Atorvastatin,Atorva,Statin,20mg,397,2026-04-13,142.56
+660171,Sertraline,Asentra,SSRI,50mg,206,2028-05-08,127.54
+88682943,Sertraline,Asentra,SSRI,50mg,350,2028-04-29,143.03
+39944831,Omeprazole,P^[rilosec,PPI,20mg,107,2026-09-29,57.81
+14027638,Atorvastatin,Atorva,Statin,80mg,61,2027-05-16,177.5
+41358736,Metformin,Fortamet,Biguanide,1000mg,246,2027-11-30,49.98
+20353698,Metformin,Fortamet,Biguanide,500mg,222,2026-05-22,67.85
+26176519,Sertraline,Lust:}ral,SSRI,25mg,270,2027-05-31,108.1
+97540578,Amoxicillin,Trimox,Antibiotic,875mg,421,2026-10-08,124.77
+31353134,Albute*:}rol,ProAir,Bronchodilator,90mcg/inh,25,2026-03-23,108.14
+25248507,Atorvastatin,Torvast,Statin,10mg,147,2027-07-12,24.21
+55095634,Metformin,Glucopha_$ge,Biguanide,500mg,377,2025-10-27,142.52
+54637000,Amoxicillin,Trimox,Antibiotic,500mg,380,2027-11-23,45.78
+34101391,Lisinopril,Zes(^^tril,ACE Inhibitor,10mg,136,2025-06-23,78.02
+98281089,Metformin,Glumetza,Biguanide,1000mg,200,2026-02-26,102.58
+25459848,Metformin,Fortamet,Biguanide,1000mg,227,2026-08-24,114.25
+75377981,Albuterol,Ventolin,Bronchodilator,90mcg/inh,104,2025-12-24,49.55
+67100211,Albuterol,Proventil,Bronchodilator,90mcg/inh,475,2026-06-23,72.46
+87951110,Albuterol,P`|`roAir,Bronchodilator,90mcg/inh,329,2027-05-08,104.46
+87351455,Metformin,Fortamet,Biguanide,500mg,96,2028-01-14,88.22
+74303235,S:?@ertraline,Zoloft,SSRI,25mg,131,2027-06-22,118.26
+27803200,Lisinopril,Prinivil,ACE Inhibitor,10mg,400,2028-03-20,152.7
+9082960,Metformin,Gluc[%ophage,Biguanide,1000mg,208,2028-01-07,182.35
+51267663,Omeprazole,Losec,PPI,40mg,394,2025-10-21,161.32
+90786932,Amoxicillin,Amoxil,Antibiotic,500mg,295,2027-12-11,54.83
+18777713,Sertraline,Zoloft,SSRI,25mg,392,2025-08-14,37.73
+4368158,Metformin,Glumetza,Biguanide,1000mg,9,2026-09-21,61.97
+6226963,Omeprazole,Zegerid,PPI,40mg,318,2027-07-27,47.0
+71074703,Lisinopril,Zestril,ACE Inhibitor,20mg,45,2025-07-11,134.12
+20107753,"Se,;rtraline",Lustral,SSRI,25mg,175,2026-01-11,198.29
+71890971,Lisinopril!,Ze{$:stril,ACE Inhibitor,5mg,106,2026-10-31,88.81
+57928095,Amoxicillin,Tr(}}imox,Antibiotic,500mg,410,2026-03-14,68.5
+74386168,Atorvastatin,Torvast,Statin,20mg,418,2026-12-31,123.8
+33087703,Albuterol,ProAir,Bronchodilator,180mcg/inh,11,2025-11-06,98.59
+46768741,Lisinopril,Zestri#(l,ACE Inhibitor,20mg,285,2027-04-28,178.14
+91518908,Metformin,Fortamet,Biguanide,500mg,249,2027-01-20,187.71
+13107694,Sertraline,Asentra,SSRI,50mg,119,2025-07-18,100.38
+17517612,Amoxicillin,"T,*rimox",Antibiotic,875mg,419,2026-05-10,153.73
+10841716,Amoxicillin,Trimox,Antibiotic,500mg,473,2027-04-02,49.45
+83322229,Albuterol,ProAir,Bronchodilator,180mcg/inh,78,2026-08-27,29.57
+95251326,M#!etformin,Glucophage,Biguanide,1000mg,415,2027-07-22,52.91
+15136513,Metformin,Fortamet,Biguanide,850mg,396,2027-02-20,31.88
+73797967,Lisinopril,Prinivil,ACE Inhibitor,5mg,499,2027-10-02,60.34
+63594315,Amoxicillin,Amoxil,Antibiotic,500mg,142,2026-03-30,23.84
+79375635,Lisinopril,Prinivil,ACE Inhibitor,5mg,468,2026-08-08,103.54
+63875958,Omeprazole,Prilosec,PPI,20mg,344,2025-09-27,52.21
+93326664,Sertraline,(Lustral,SSRI,50mg,474,2027-10-02,199.01
+77473373,Sertraline,Asentra,SSRI,25mg,31,2025-09-13,70.28
+80918254,Atorvastatin,{Torvast,Statin,40mg,102,2025-09-24,47.75
+26820449,Albuterol,Ventolin,Bronchodilator,90mcg/inh,346,2025-10-24,10.27
+1875087,Albuterol,Ventolin,Bronchodilator,180mcg/inh,337,2025-06-22,172.19
+16279557,"M!,etformin",Fortamet,Biguanide,850mg,158,2027-03-25,119.36
+86455393,Atorvastatin,Lipitor,Statin,40mg,369,2026-06-22,100.82
+94739821,Sertraline,Asentra,SSRI,100mg,74,2027-12-08,32.7
+20188309,Metformin,Fortamet,Biguanide,850mg,312,2026-03-11,194.02
+84122965,Sertraline,Zoloft,SSRI,25mg,336,2026-08-13,135.2
+89599907,Metformin,Glucophage,Biguanide,1000mg,14,2025-07-09,171.68
+35355541,Albuterol,P.{<roventil,Bronchodilator,90mcg/inh,98,2027-12-24,85.46
+88329446,Lisinopril,Zestril,ACE Inhibitor,10mg,229,2027-08-16,68.72
+77893152,Sertraline,Zoloft,SSRI,50mg,287,2027-04-21,111.98
+82156840,Amoxicillin,Moxatag,Antibiotic,250mg,329,2026-09-13,77.29
+3131111,Sertraline,Lustral.}[,SSRI,50mg,205,2027-09-04,143.03
+6648747,Amoxicillin,Amoxil,Antibiotic,500mg,464,2026-09-10,41.41
+45310509,Metformin,Fortamet,Biguanide,500mg,443,2027-12-14,180.04
+34083865,Albuterol,Ventolin,Bronchodilator,180mcg/inh,330,2027-10-13,113.6
+79009686,Amoxicillin,A=%moxil,Antibiotic,875mg,261,2026-07-08,6.29
+69521407,Lisinopril,Qbrelis,ACE Inhibitor,10mg,475,2026-04-30,187.12
+86341280,Metformin,Glumetza,Biguanide,1000mg,141,2026-08-07,173.79
+66490592,Sertraline,Lustr*#>al,SSRI,50mg,208,2026-09-15,138.73
+85264943,Atorvastatin,A(torva,Statin,10mg,458,2026-04-22,172.79
+6352672,Albuterol,Ventolin,Bronchodilator,180mcg/inh,127,2027-10-23,46.6
+12038883,Atorv~{astatin,Torvast,Statin,40mg,73,2025-09-15,146.63
+84483510,Omeprazole,Zeg~!erid,PPI,20mg,252,2027-06-10,163.42
+10471177,Lisinopril,Zestril,ACE Inhibitor,20mg,340,2025-08-05,163.27
+28356675,Albutero!<!l,ProAir,Bronchodilator,180mcg/inh,463,2028-03-26,127.16
+28028907,Albuterol,Proventil,Bronchodilator,90mcg/inh,48,2028-01-23,198.77
+82781722,Albuterol,ProAir,Bronchodilator,90mcg/inh,495,2026-04-11,146.7
+79571582,A>&]moxicillin,Trimox,Antibiotic,250mg,368,2025-07-16,108.2
+87720883,Atorvastatin,Atorva,Statin,20mg,303,2026-12-21,109.51
+21060510,Metformin,Glucophage,Biguanide,850mg,302,2026-01-13,47.41
+38902811,Albuterol,Proventil,Bronchodilator,180mcg/inh,240,2025-09-16,151.02
+70872184,Sert|/}raline,Asentra,SSRI,50mg,489,2026-06-16,78.28
+9856876,Sertraline,Zoloft,SSRI,100mg,420,2027-06-26,109.84
+37979325,Omeprazole,Prilosec,PPI,20mg,446,2027-11-29,115.28
+16664911,Sertraline,Lustral,SSRI,25mg,48,2026-03-11,159.59
+34544212,Albuterol,ProAir,Bronchodilator,180mcg/inh,50,2028-01-31,184.01
+83324987,Albuter`+_ol,Pro=Air,Bronchodilator,90mcg/inh,56,2025-09-17,44.44
+89638617,Metformin,Glumetza,Biguanide,500mg,343,2027-05-12,170.23
+13069468,Lisinopril,Qbrelis,ACE Inhibitor,40mg,453,2026-10-06,84.04
+41062779,Amoxicillin,Amoxil,Antibiotic,875mg,274,2026-11-13,88.81
+83501981,Metformin,Glumetz;<a,Biguanide,500mg,375,2027-10-15,125.5
+7202136,Lisinopril,Zestril,ACE Inhibitor,40mg,432,2027-01-06,49.96
+20871501,Amoxicillin,Trimox,Antibiotic,875mg,146,2026-03-03,153.58
+30964530,Amoxicillin,Trimox,Antibiotic,875mg,14,2025-09-08,74.2
+1816125,Albuterol,ProAir,Bronchodilator,180mcg/inh,66,2025-08-11,11.73
+9642795,Albuterol,Proventil,Bronchodilator,180mcg/inh,438,2026-01-06,156.08
+83315356,Sertraline,Zoloft,SSRI,100mg,270,2025-10-02,90.07
+90340744,Amoxicillin,Amoxi&?>l,Antibiotic,875mg,285,2027-12-03,60.35
+30600998,Li%#|sinopril,Priniv<[il,ACE Inhibitor,40mg,109,2027-08-10,196.37
+8300128,Se&rtraline,Asentra,SSRI,25mg,92,2028-01-11,30.84
+78879462,Omeprazole,Zegerid,PPI,40mg,36,2026-02-15,6.81
+47249359,Metformin,Fortamet,Biguanide,1000mg,16,2026-07-17,187.44
+76210569,Sertraline,Lustral,SSRI,100mg,410,2028-03-13,158.11
+92347359,Sertraline,Lustral,SSRI,50mg,161,2027-03-16,147.77
+44596315,Albuterol,Ventolin,Bronchodilator,180mcg/inh,376,2026-02-28,23.31
+19351475,Omeprazole,Losec,PPI,40mg,303,2025-08-23,77.92
+67052484,Lisinopril,Prinivil,ACE Inhibitor,20mg,31,2027-11-20,193.85
+4191883,Metformin,Glucophage,Biguanide,1000mg,190,2025-08-11,30.34
+18095129,Albuterol&$,Vento`</lin,Bronchodilator,90mcg/inh,6,2026-10-06,191.36
+54751434,Amoxicillin,Trimox,Antibiotic,875mg,354,2026-11-23,85.98
+82737417,Metformin,Glucophage,Biguanide,1000mg,381,2027-08-10,168.05
+89260616,Atorvastatin,Torvast,Statin,20mg,283,2027-08-12,77.54
+98775120,Omeprazole,Losec,PPI,40mg,424,2027-12-02,162.18
+93995476,Lisinopril,Zestril,ACE Inhibitor,40mg,453,2026-05-31,32.42
+80092402,Amoxicillin,"Tri.,mox",Antibiotic,875mg,447,2026-07-29,185.86
+60079177,Sertraline,Z~`oloft,SSRI,25mg,348,2028-05-13,175.4
+72240589,Metformin,Fortamet,Biguanide,500mg,224,2026-04-24,63.45
+81984081,Atorvastatin,Torvast,Statin,10mg,116,2026-08-24,91.8
+67941947,Albuterol,ProAir,Bronchodilator,180mcg/inh,28,2027-02-01,50.83
+85477727,Amoxicillin,Trimox,Antibiotic,500mg,33,2027-03-11,71.62
+27703561,Albuterol,Ventolin,Bronchodilator,180mcg/inh,60,2025-07-08,138.37
+79832508,Sertraline,Asentra,SSRI,100mg,271,2026-03-05,27.84
+5755873,Amoxicilli`]{n,T^]rimox,Antibiotic,500mg,348,2027-05-22,16.54
+75823420,Me`?;tformin,Glumetza,Biguanide,1000mg,277,2027-01-15,13.96
+2967794,Atorvastatin,Atorva,Statin,10mg,49,2028-01-02,13.52
+96451182,Sertraline,Zoloft,SSRI,25mg,235,2028-02-18,155.0
+59645738,Atorvastatin,Lipitor,Statin,80mg,8,2026-03-17,125.62
+40268332,Omeprazole,Zeger)id,PPI,40mg,61,2026-04-10,160.95
+16746144,Omeprazole,Prilosec,PPI,40mg,20,2026-11-20,29.58
+53279526,Lisinop+!!ril,Prinivil,ACE Inhibitor,10mg,76,2027-03-21,81.65
+78406663,Atorvastatin,Lipitor,Statin,10mg,338,2027-06-01,116.22
+41501734,Atorvastatin,"T|,@orvast",Statin,20mg,296,2027-09-04,139.49
+41388023,Metformin,Fortame*]t,Biguanide,1000mg,64,2027-05-20,133.02
+33134193,Sertraline,Asentra,SSRI,50mg,2,2028-02-19,93.38
+98914117,Atorvast:atin,Atorva,Statin,40mg,240,2025-11-06,29.12
+8335689,Amox;;)icillin,Trimox,Antibiotic,875mg,443,2026-05-04,163.08
+80412168,Amoxicillin,Trimox,Antibiotic,875mg,439,2028-03-17,14.74
+13560538,Lisi|.nopril,Prinivil,ACE Inhibitor,10mg,353,2026-10-08,90.23
+9460562,Amoxicillin,Tri$*&mox,Antibiotic,250mg,280,2027-07-27,179.37
+26711900,Metf*}:ormin,Glucophage,Biguanide,500mg,455,2026-12-17,185.13
+30453409,Lisinopril,Prinivil,ACE Inhibitor,20mg,500,2026-05-28,129.66
+5218602,Sertraline,Zoloft,SSRI,50mg,309,2026-09-30,17.48
+9124576,Metformin,Glumetza,Biguanide,1000mg,495,2028-04-11,63.82
+42278357,Metformin,Glucophage,Biguanide,1000mg,481,2025-10-01,179.57
+68928535,Sertralin{]e,Asentra,SSRI,25mg,494,2026-07-07,60.41
+2822167,Metfor=min,+Fortamet,Biguanide,1000mg,240,2027-04-26,144.04
+33372287,Sertraline,A?sentra,SSRI,100mg,219,2026-05-25,84.88
+60082522,Sertraline,Zoloft,SSRI,50mg,104,2025-09-02,49.7
+31231216,Metform@%#in,Glucophage,Biguanide,1000mg,7,2028-05-04,176.98
+50481904,Atorvastatin,Atorva,Statin,80mg,213,2025-11-30,14.57
+60024099,Albuterol,ProAir,Bronchodilator,180mcg/inh,190,2026-09-21,83.73
+30377742,Omeprazole,Losec,PPI,20mg,88,2026-08-05,33.22
+48675082,Atorvastatin,Lipitor,Statin,80mg,74,2026-10-05,5.81
+68216167,Omeprazole,Lose@#c,PPI,20mg,18,2027-09-03,26.57
+64319575,Lisinopril,Qbrelis,ACE Inhibitor,20mg,328,2025-08-29,24.96
+72951646,Albuterol,Proventil,Bronchodilator,180mcg/inh,286,2027-01-15,94.68
+18254870,Albut&erol,Proventil,Bronchodilator,90mcg/inh,327,2025-08-31,99.43
+99175039,Atorvastatin,Torvast,Statin,20mg,67,2028-02-12,99.17
+93794548,Amoxicillin,Moxatag,Antibiotic,250mg,74,2027-01-01,102.11
+62566458,Atorvastatin,Atorva,Statin,10mg,170,2025-09-25,70.25
+81750129,Albuterol,ProAir,Bronchodilator,90mcg/inh,36,2026-06-28,127.45
+13041144,S[ertraline,Lustral,SSRI,100mg,309,2026-03-18,82.76
+78585755,Lisinopril,Zestril,ACE Inhibitor,5mg,175,2026-08-01,7.78
+95615542,Amo*(xicillin,"Mox,(~atag",Antibiotic,500mg,412,2026-02-24,183.68
+3653363,Amoxicillin,Moxat<ag,Antibiotic,250mg,35,2026-03-28,12.96
+90468524,Amoxicillin,Amoxil,Antibiotic,250mg,150,2026-03-20,130.11
+87105517,Sertraline,Asentra,SSRI,25mg,423,2027-05-16,122.39
+62519177,Lisin):+opril,"P|&,rinivil",ACE Inhibitor,40mg,108,2026-08-24,124.23
+5323052,Lisinopril,Prinivil,ACE Inhibitor,10mg,364,2027-07-15,41.05
+32311957,Albuterol,Proventil,Bronchodilator,180mcg/inh,74,2027-06-12,102.79
+57363270,Lisinopril,Zestril,ACE Inhibitor,5mg,454,2027-09-19,109.08
+15273702,Metformin,Fortamet,Biguanide,850mg,289,2027-09-14,94.49
+71703963,Omeprazole,Z`]egerid,PPI,40mg,397,2028-04-25,91.74
+46119491,Metformin,Fortamet,Biguanide,1000mg,22,2028-03-16,109.78
+76714438,Lisinopril,Prinivil,ACE Inhibitor,10mg,80,2028-04-20,42.0
+21183300,Albuterol,Ventolin,Bronchodilator,90mcg/inh,140,2026-11-19,57.19
+19496075,"Albutero,l",Ventolin,Bronchodilator,90mcg/inh,150,2026-05-06,123.11
+57524246,Lisinopril,Prinivil,ACE Inhibitor,10mg,122,2025-07-09,117.58
+64241157,Metformin,Fortamet,Biguanide,1000mg,144,2026-02-25,198.64
+7376827,Metformin,Glumetza,Biguanide,1000mg,52,2026-08-08,94.15
+29021636,Metformin,Glucophage,Biguanide,850mg,289,2025-07-12,20.69
+47914821,Omeprazole,Zegerid,PPI,40mg,377,2027-07-22,145.73
+59233937,Omeprazole,Prilosec,PPI,20mg,343,2027-08-20,164.68
+64226437,Omeprazole,Losec,PPI,20mg,181,2026-01-05,112.05
+36993087,Atorvastatin,Atorva,Statin,40mg,326,2027-12-19,134.41
+85022592,Albuterol,Proventil,Bronchodilator,180mcg/inh,345,2026-03-22,25.88
+16206853,Lisinopril,Qbrelis,ACE Inhibitor,20mg,355,2027-02-23,45.95
+86250592,Metformin,Glucophage,Biguanide,1000mg,491,2027-02-22,76.15
+24457809,Albuterol,Proventil,Bronchodilator,90mcg/inh,378,2027-05-17,31.52
+38905547,Lisinopril,Prinivil,ACE Inhibitor,40mg,333,2025-08-22,99.16
+99506781,Amoxicillin,Amoxil,Antibiotic,500mg,492,2027-04-24,93.72
+42113283,Albuterol,Proventil,Bronchodilator,90mcg/inh,201,2026-03-25,107.6
+24097761,Metformin,Glucophage,Biguanide,850mg,49,2026-05-28,118.88
+18168740,A`$.moxicillin,Amoxil,Antibiotic,500mg,483,2027-01-14,139.96
+75318827,L>isinopril,Zestril,ACE Inhibitor,5mg,9,2026-06-27,27.18
+73636503,Atorvastatin,Atorva,Statin,80mg,448,2027-12-08,159.62
+23324880,Omeprazole,Prilosec,PPI,20mg,361,2026-04-01,48.28
+94602494,Lisinopril,Zestril,ACE Inhibitor,40mg,213,2027-11-30,124.12
+70305361,Lisinopril,Zestr?il,ACE Inhibitor,5mg,126,2027-09-26,28.39
+47813487,Albuterol,Proventil,Bronchodilator,90mcg/inh,115,2026-01-31,135.52
+90013059,Albuterol,ProAir,Bronchodilator,180mcg/inh,264,2026-08-28,85.58
+10734697,Metf.ormin,Glucophage,Biguanide,1000mg,489,2027-08-08,183.75
+91459471,Atorvastatin,Lipitor,Statin,20mg,487,2027-12-04,123.83
+18198252,Lisinopril,Zestril,ACE Inhibitor,10mg,290,2026-05-21,184.39
+67017696,Albuterol,ProAir,Bronchodilator,90mcg/inh,93,2025-12-26,146.21
+68054160,Amoxicillin,Moxatag,Antibiotic,875mg,51,2027-08-19,137.04
+10223891,Sertraline,Zoloft,SSRI,100mg,387,2026-12-13,33.44
+24724631,Sertraline,Zoloft,SSRI,25mg,218,2027-02-17,174.67
+54965132,Atorvastatin,Lipitor,Statin,80mg,421,2028-02-03,52.4
+64176277,Lisinopril,Qbrelis,ACE Inhibitor,40mg,351,2026-05-27,89.71
+32820893,Omeprazole,Zegerid,PPI,40mg,78,2027-05-03,113.22
+66824926,Om{+eprazole,Zegerid,PPI,20mg,170,2026-11-05,161.07
+28179080,Amoxici/)&llin,Amoxil,Antibiotic,875mg,105,2027-06-01,178.81
+22586574,Amoxicillin,Moxatag,Antibiotic,875mg,230,2026-01-16,21.16
+6280246,Sertraline,Zoloft,SSRI,25mg,182,2027-03-13,52.08
+18875297,Omeprazole,Prilosec,PPI,20mg,272,2027-01-28,118.14
+30353392,Albuterol,ProAir,Bronchodilator,180mcg/inh,181,2026-03-15,111.91
+82596750,Albuterol,ProAir,Bronchodilator,180mcg/inh,77,2028-01-01,184.57
+6307040,Omeprazole,Prilosec,PPI,20mg,260,2027-07-18,73.56
+24411735,Amoxicillin,Moxatag,Antibiotic,250mg,413,2027-01-21,90.29
+37428587,Albuterol,Ventolin,Bronchodilator,90mcg/inh,179,2027-08-17,11.88
+81681314,|>#Albuterol,Proventil,Bronchodilator,90mcg/inh,396,2027-06-11,9.29
+643924,Lisinopril,Zestril,ACE Inhibitor,40mg,32,2026-02-23,107.65
+35144324,Albuterol,Ventolin,Bronchodilator,90mcg/inh,277,2026-02-27,142.38
+85394260,Sertraline,Lustral,SSRI,25mg,88,2026-02-18,199.78
+65495674,Lisinopril,Zestril,ACE Inhibitor,40mg,479,2027-08-26,138.21
+55775667,Omeprazole,Losec,PPI,40mg,443,2027-11-21,16.1
+73326384,Sertraline,Zoloft,SSRI,25mg,24,2026-06-20,198.1
+45102751,Sertraline,Zoloft,SSRI,100mg,451,2027-02-16,196.38
+62611817,Omeprazole,Prilose*|c,PPI,40mg,62,2026-12-02,121.58
+57005243,Amoxicillin,Amoxil,Antibiotic,500mg,128,2025-08-31,118.65
+35354782,Albutero#$]l,Proventil,Bronchodilator,90mcg/inh,309,2027-10-30,117.47
+73328332,Lisinopri%=l,Zestril,ACE Inhibitor,20mg,310,2027-03-19,51.92
+62295480,Alb<&uterol,ProAir,Bronchodilator,90mcg/inh,310,2027-04-18,199.76
+19901705,Omeprazole,Zegerid,PPI,20mg,356,2026-05-06,148.64
+99520098,Sertraline,Lustral,SSRI,25mg,177,2027-11-23,144.95
+99709810,Lisinopril,Qbrelis,ACE Inhibitor,20mg,47,2026-02-19,49.59
+86039612,Met&formin,Glumetza,Biguanide,1000mg,195,2027-01-14,179.05
+56765084,Amoxicillin,Trimox,Antibiotic,875mg,72,2027-02-20,164.69
+50021050,Amoxicillin,T|rimox,Antibiotic,875mg,280,2028-02-12,105.96
+8004098,Amoxicillin,Amoxi.l,Antibiotic,250mg,343,2026-03-02,62.71
+86679857,Lisinopril,Qbrelis,ACE Inhibitor,20mg,214,2025-07-16,97.51
+30932952,Albuterol,ProAir}>%,Bronchodilator,90mcg/inh,145,2025-07-10,165.52
+60743120,Lisinopril,Prinivil,ACE Inhibitor,5mg,41,2027-06-15,5.31
+27168497,Albuterol,ProAir,Bronchodilator,90mcg/inh,481,2025-08-26,167.45
+22112841,Atorvastatin,Torvast,Statin,10mg,393,2025-10-11,190.85
+98636369,Albuterol,ProAir,Bronchodilator,180mcg/inh,26,2027-10-19,137.57
+8704321,Albuterol,Ventolin,Bronchodilator,90mcg/inh,311,2025-08-14,61.33
+79489740,Albuterol,Proventil,Bronchodilator,90mcg/inh,491,2026-12-21,162.5
+14565237,Sertraline,Asentra,SSRI,50mg,279,2027-11-08,120.53
+57015084,Lisinopril,Prinivil,ACE Inhibitor,20mg,432,2028-01-20,90.25
+67758325,Albuterol,Ventolin,Bronchodilator,180mcg/inh,136,2025-06-24,100.33
+91800243,Sertraline,Lustral,SSRI,25mg,111,2027-06-07,79.23
+86543611,Lisinopril,Prinivil,ACE Inhibitor,40mg,121,2027-10-29,112.88
+44679818,Albuterol,Ventolin,Bronchodilator,90mcg/inh,157,2028-04-04,117.24
+35226184,Atorvastatin,Lipitor,Statin,40mg,369,2028-03-15,44.91
+79720926,Amoxicillin,Moxatag,Antibiotic,875mg,23,2026-03-19,20.46
+35816364,Atorvastatin,Torvast,Statin,80mg,41,2027-10-04,38.94
+33271666,Sertraline,Lustral,SSRI,50mg,290,2027-05-14,53.61
+13104586,Amoxicillin,Trimox,Antibiotic,250mg,499,2026-12-08,50.72
+69420197,Omeprazole,Zegerid,PPI,40mg,409,2025-08-25,56.48
+56238022,Sertraline,Zoloft,SSRI,25mg,351,2027-06-12,152.25
+75542485,Metformin,Glumetza,Biguanide,1000mg,148,2026-03-24,95.68
+55643491,Lisinopril,Prinivil,ACE Inhibitor,40mg,337,2026-02-24,34.58
+31843354,Sertraline,Zoloft,SSRI,100mg,169,2026-01-08,139.94
+92621411,Albuterol,ProAir,Bronchodilator,90mcg/inh,405,2026-03-08,140.02
+68108876,Metformin,Gl`umetza,Biguanide,1000mg,133,2027-01-10,67.55
+71705578,Amoxicillin,Moxatag,Antibiotic,500mg,364,2026-10-29,88.15
+17720352,Lisinopril,Qb|&relis,ACE Inhibitor,5mg,418,2026-09-20,27.08
+75313933,Sertraline,Lustral,SSRI,100mg,36,2026-04-23,130.17
+56353290,Om%{eprazole,Prilosec,PPI,20mg,400,2026-02-02,97.37
+87656834,Sertraline,Asentra*,SSRI,50mg,364,2027-05-01,94.93
+45925379,Amoxicillin,Trimox,Antibiotic,875mg,162,2027-02-13,151.83
+72752682,Albuterol,Ventolin,Bronchodilator,90mcg/inh,34,2025-07-07,30.53
+60031156,Sertraline,Zoloft,SSRI,25mg,155,2028-05-08,118.63
+96581715,Metformin,Glucophage,Biguanide,1000mg,391,2027-10-24,121.0
+10268848,Lisinopril,Zestril,ACE Inhibitor,20mg,14,2025-09-12,139.87
+77493419,Lis&!inopril,Prinivil,ACE Inhibitor,40mg,182,2028-04-30,92.83
+39494642,Amoxicillin,Amoxil,Antibiotic,500mg,202,2028-05-10,188.86
+132978,Met*!@formin,Glucophage,Biguanide,850mg,275,2026-02-26,14.55
+28678345,Amoxicillin,Moxatag<(,Antibiotic,500mg,292,2027-03-12,94.69
+30316956,Lisinopril,Prinivil,ACE Inhibitor,5mg,488,2026-12-11,41.78
+78992628,Lisinopril,Prinivil@%,ACE Inhibitor,20mg,154,2025-08-17,29.35
+67779905,Metformin,Glumetza,Biguanide,500mg,51,2027-08-27,62.86
+46214871,Metformin,Glumetza,Biguanide,1000mg,99,2027-04-23,171.71
+96153377,Albuterol,Proventil,Bronchodilator,90mcg/inh,366,2028-01-22,53.86
+26306358,Albuterol,ProAir,Bronchodilator,90mcg/inh,403,2028-02-02,41.8
+17341084,Amoxicillin,Trimox,Antibiotic,875mg,141,2027-12-03,133.91
+19571343,Sertraline,"Asentr,^a",SSRI,25mg,12,2027-04-23,33.74
+70231137,Sertraline,Zoloft,SSRI,100mg,401,2027-10-23,111.05
+19868686,Sertraline,Asentra,SSRI,25mg,295,2026-04-24,139.06
+55488193,Sertraline,Lustral,SSRI,100mg,30,2025-08-27,99.57
+66952804,Albuterol,Ventolin,Bronchodilator,90mcg/inh,168,2027-06-11,174.77
+84172478,Albuterol,Ventolin,Bronchodilator,90mcg/inh,104,2025-06-25,159.88
+21883430,Albuterol,Ventolin,Bronchodilator,180mcg/inh,426,2027-10-24,115.48
+7348229,Sertraline,Asentra,SSRI,25mg,53,2028-03-03,71.51
+70605568,Se!rtraline,Lustral,SSRI,25mg,457,2026-08-22,127.26
+66612090,Amoxicillin,Amo#&xil,Antibiotic,250mg,38,2027-09-18,87.59
+29225340,Amoxicillin,Moxatag,Antibiotic,875mg,34,2027-03-25,137.44
+42178096,Albuterol,Ventolin,Bronchodilator,180mcg/inh,5,2027-11-18,162.47
+6420775,Atorvastatin,Atorva,Statin,40mg,184,2028-05-02,192.8
+65538012,Amox<%/icillin,Trimox,Antibiotic,500mg,82,2026-04-06,72.88
+76275689,Metformin,Glucophage,Biguanide,850mg,364,2027-04-10,124.01
+79958564,Albuterol,Ventolin,Bronchodilator,180mcg/inh,46,2027-06-09,93.94
+14083753,Amoxicillin,Moxatag,Antibiotic,875mg,319,2027-08-03,170.62
+62852757,Omeprazole,Zegerid,PPI,40mg,206,2025-07-06,181.34
+27521656,Lisinopril,Zestril,ACE Inhibitor,5mg,301,2027-12-20,111.03
+52624244,Sertraline,Lustral,SSRI,25mg,198,2025-06-17,97.73
+43359609,Lisinopril,Qbrelis,ACE Inhibitor,40mg,240,2026-04-29,11.56
+92978038,Omeprazole,Losec,PPI,20mg,5,2026-11-16,164.39
+64711934,Metformin,Glucophage,Biguanide,500mg,381,2026-06-20,49.06
+39563516,Omeprazole,Zegerid,PPI,40mg,118,2026-01-05,194.97
+40168441,Lisinopril,Qbrelis,ACE Inhibitor,10mg,237,2027-08-01,143.99
+84038044,Omeprazole,Losec,PPI,20mg,36,2025-08-11,63.76
+79236859,Omeprazole,Prilosec,PPI,40mg,467,2027-04-13,8.79
+97773826,Sertraline,Zoloft,SSRI,100mg,456,2027-05-23,105.58
+89859594,Atorvastatin,Lipitor,Statin,10mg,298,2025-06-14,116.57
+86640315,Atorvastatin,Torvast,Statin,80mg,265,2026-06-30,36.65
+77982052,Sertraline,Zoloft,SSRI,25mg,37,2027-09-29,89.6
+35051981,"Lisinop,:&ril",Z;;.estril,ACE Inhibitor,5mg,458,2026-01-03,32.14
+54070834,Sertraline,Zoloft,SSRI,50mg,224,2027-11-18,35.37
+69719180,Omeprazole,Zegerid,PPI,40mg,51,2028-05-02,149.71
+22833659,Sertr%aline,Lustral,SSRI,100mg,398,2027-09-25,166.4
+17914283,Lisinopril,Zestril,ACE Inhibitor,40mg,100,2027-08-31,39.81
+93074992,Lis{inopril,Zestril,ACE Inhibitor,5mg,486,2026-11-06,118.08
+69775829,Atorvastatin,Torvast,Statin,80mg,113,2025-06-27,191.73
+39338484,Metformin,Fortamet,Biguanide,1000mg,486,2027-04-22,197.28
+98005372,Atorva!statin,Atorva,Statin,10mg,252,2026-02-26,173.19
+56675042,Atorvastatin,Torvast,Statin,10mg,370,2027-03-13,111.74
+96695288,Metformin,Glumetza,Biguanide,1000mg,216,2026-10-24,135.57
+98416115,Atorvastatin,T<;*orvast,Statin,10mg,375,2026-07-05,115.79
+66395598,Metformin,Glumetza,Biguanide,1000mg,86,2028-02-20,58.01
+3213278,Omeprazole,Prilosec,PPI,40mg,470,2027-08-24,64.28
+96718564,Omeprazole,Losec,PPI,20mg,372,2028-05-10,137.94
+18795715,@]*Metformin,Glu<]cophage,Biguanide,850mg,186,2028-01-23,126.83
+71962580,Omeprazole,Zegerid,PPI,20mg,330,2025-08-22,79.52
+68659483,Lisinopril,Prinivil,ACE Inhibitor,10mg,87,2027-11-17,7.87
+36296505,Amoxicillin,Amoxil,Antibiotic,250mg,496,2028-02-06,93.2
+87315928,Atorvastatin,Lipitor,Statin,80mg,415,2026-06-28,14.74
+31634569,Lisinopril,Qbrelis,ACE Inhibitor,20mg,318,2027-05-03,156.82
+3568752,Sertraline,Asentra,SSRI,100mg,70,2027-04-04,32.68
+7270474,Sertraline,Zoloft,SSRI,25mg,265,2026-06-04,59.63
+41230667,Lisinopril,"P,rinivil",ACE Inhibitor,40mg,431,2026-08-26,136.05
+18446591,Lisinopril,Zestril,ACE Inhibitor,5mg,343,2025-12-19,57.35
+19035305,Sertraline,Asentra={>,SSRI,25mg,51,2026-08-28,181.66
+5983518,Alb%uterol,Ventolin,Bronchodilator,180mcg/inh,1,2027-07-01,118.15
+14070042,Sertraline,Zoloft,SSRI,100mg,146,2028-02-05,161.9
+60409770,Amoxicillin,Amoxil,Antibiotic,500mg,67,2027-08-06,83.34
+80285571,Lisinopril,P^~rinivil,ACE Inhibitor,40mg,74,2025-06-22,125.55
+31019401,Atorvastatin,Lipitor,Statin,40mg,256,2026-05-30,61.81
+36142789,Amoxicillin,Amoxil,Antibiotic,250mg,58,2026-04-30,41.79
+48668721,"Lisinopri,(+l",Zestril,ACE Inhibitor,10mg,145,2028-05-14,99.54
+99830645,Albuterol,Proventil,Bronchodilator,90mcg/inh,17,2027-06-18,119.37
+43759280,Omeprazole,Prilosec,PPI,40mg,74,2025-08-16,18.6
+89335275,Amoxicillin,/@&Moxatag,Antibiotic,875mg,32,2025-05-22,120.24
+4482265,Lisinopril,Prinivil,ACE Inhibitor,10mg,255,2026-11-23,163.52
+86974214,Lisinopril,Zes}tril,ACE Inhibitor,5mg,445,2025-11-08,43.81
+83565055,..!Albuterol,Proventil,Bronchodilator,180mcg/inh,331,2026-05-16,39.04
+40333128,Atorvastatin,Torvast,Statin,40mg,467,2027-02-28,149.85
+5415849,Amoxicillin,Amoxil,Antibiotic,875mg,287,2026-08-15,150.1
+88165579,Albuterol,ProAir,Bronchodilator,180mcg/inh,325,2025-11-07,173.17
+39176619,Lisinopril,Zestril,ACE Inhibitor,5mg,404,2027-05-26,18.63
+8906385,Omeprazole,Zegerid,PPI,40mg,147,2025-06-23,72.88
+18824912,Amoxicillin,Moxatag,Antibiotic,500mg,50,2025-07-25,20.47
+5442631,Atorvastatin,Atorva,Statin,20mg,465,2028-03-17,5.6
+66230847,Atorvastatin,Lipitor,Statin,40mg,28,2026-12-29,115.69
+66288135,Metformin,Glumetza,Biguanide,1000mg,237,2027-09-28,13.24
+51838856,Sertraline,Lustral,SSRI,50mg,343,2026-02-08,86.41
+83373891,Omeprazole,Losec,PPI,40mg,89,2025-10-30,21.44
+74853870,Amoxicillin,Moxatag,Antibiotic,500mg,356,2026-01-28,50.83
+49920143,Metformin,Glucophage,Biguanide,1000mg,103,2025-09-15,153.35
+87209373,Amoxicillin,Moxatag,Antibiotic,875mg,418,2027-08-04,176.28
+96602396,Atorvastatin,Atorv..[a,Statin,10mg,227,2027-01-19,61.8
+76265534,Metformin,Fortamet,Biguanide,500mg,55,2026-07-16,179.38
+92315802,Lisinopri&l,Qbrelis,ACE Inhibitor,5mg,185,2026-06-02,67.49
+66923634,Sertraline,Zoloft,SSRI,100mg,350,2027-03-03,135.01
+12710536,Sertraline,Lustral,SSRI,100mg,434,2027-12-02,177.19
+31733245,Amoxicillin,Trimox,Antibiotic,250mg,293,2026-05-20,175.62
+94058996,Amoxicillin,Amoxil,Antibiotic,250mg,243,2025-08-02,87.39
+44680436,Atorvastatin,Torvast,Statin,20mg,200,2027-08-30,64.77
+41832987,Omeprazole,Prilosec,PPI,40mg,368,2025-12-01,172.73
+72770868,Atorvastatin,Atorva,Statin,10mg,185,2025-08-21,97.03
+5212450,Lisinopril,Zestril,ACE Inhibitor,40mg,239,2026-07-24,67.67
+51502651,Lisinopril,Zestril,ACE Inhibitor,10mg,177,2026-04-13,193.49
+33642523,Albuterol,ProAir,Bronchodilator,180mcg/inh,418,2026-10-01,161.59
+40690581,Sertraline,Asentra,SSRI,50mg,105,2025-11-14,65.5
+9041192,Sertraline,Lustral,SSRI,100mg,417,2027-01-26,44.94
+81426119,Omeprazole,Zegerid,PPI,40mg,72,2028-04-22,129.44
+24388220,Amoxicillin,Trimox,Antibiotic,875mg,332,2027-09-02,146.4
+53103913,Lisinopril,Prinivil,ACE Inhibitor,5mg,258,2026-10-20,129.99
+93908142,Metformin,Glucophage,Biguanide,850mg,300,2026-12-22,56.11
+7451705,Albuterol,ProA+!$ir,Bronchodilator,90mcg/inh,208,2027-08-01,27.72
+49610642,Lisinopril,Prinivil,ACE Inhibitor,20mg,74,2026-07-23,44.37
+35588834,Lisinopril,Prinivil,ACE Inhibitor,20mg,99,2026-05-27,11.23
+67941614,Amoxicillin,Trimox,Antibiotic,875mg,408,2028-02-23,45.77
+54640811,Lisinopril,Zestril,ACE Inhibitor,5mg,156,2026-11-23,166.77
+63080136,Omeprazole,Lose@;c,PPI,20mg,406,2025-12-02,108.28
+26277282,Omeprazole,Zegerid,PPI,40mg,191,2027-09-17,24.72
+73069632,Amoxicillin,Amoxil,Antibiotic,250mg,327,2027-11-21,81.53
+1239297,Sertraline,Lustral,SSRI,50mg,379,2025-08-03,122.28
+63806518,Atorvastatin,Lipitor,Statin,40mg,328,2025-05-29,121.45
+51281428,Albuterol,Ventolin,Bronchodilator,90mcg/inh,111,2026-11-02,50.15
+51308357,Metformin,Glucophage,Biguanide,500mg,378,2028-03-09,87.33
+35033543,Metformin,Fortamet,Biguanide,500mg,398,2028-02-25,176.53
+82551593,Sertraline,Asentra,SSRI,25mg,300,2025-10-27,88.51
+61566919,Amoxicillin,Trimox,Antibiotic,250mg,449,2028-04-20,117.25
+2726272,Amoxicillin,Trimox,Antibiotic,875mg,15,2027-05-01,54.55
+45469677,Omeprazole,Zegerid,PPI,40mg,172,2025-09-20,166.15
+50210393,Albuterol,ProAir,Bronchodilator,180mcg/inh,460,2026-01-25,21.77
+71982922,Omeprazole,Zegerid,PPI,40mg,136,2026-10-25,135.04
+4367737,Metformin,Glumetza,Biguanide,500mg,366,2025-07-26,96.67
+90157421,Amox$icillin,?Amoxil,Antibiotic,500mg,186,2026-08-04,193.0
+45480169,",[~Sertraline",Z%~/oloft,SSRI,100mg,458,2025-11-27,79.91
+51852916,Metformin,Glumetza,Biguanide,500mg,103,2027-08-06,118.97
+11658350,Albuterol,Ventolin,Bronchodilator,90mcg/inh,115,2025-05-26,164.97
+69441682,O=[meprazole,Prilosec,PPI,20mg,423,2027-09-10,151.18
+23990631,Lisinopril,Qbrelis,ACE Inhibitor,5mg,174,2025-12-13,47.11
+23132255,Metformin,Glumetza,Biguanide,850mg,92,2026-08-12,28.85
+35713760,Omeprazole,Prilosec,PPI,20mg,213,2026-02-03,31.8
+19439306,Metformin,Fortamet,Biguanide,1000mg,8,2028-03-15,24.47
+27137496,Metformin,Glumetza,Biguanide,1000mg,338,2027-07-27,68.85
+11746136,Metformin,Glucophage,Biguanide,1000mg,449,2025-08-07,63.25
+1286864,Omeprazole,Prilosec,PPI,20mg,5,2027-09-19,13.41
+35540379,Albuterol,ProAir,Bronchodilator,90mcg/inh,339,2027-08-09,176.59
+43759280,Omeprazole,Prilosec,PPI,40mg,74,2025-08-16,18.6
+60409770,Amoxicillin,Amoxil,Antibiotic,500mg,67,2027-08-06,83.34
+4368158,Metformin,Glumetza,Biguanide,1000mg,9,2026-09-21,61.97
+26820449,Albuterol,Ventolin,Bronchodilator,90mcg/inh,346,2025-10-24,10.27
+34245172,Albuterol,ProAir,Bronchodilator,90mcg/inh,437,2028-04-07,49.8
+68928535,Sertraline,Asentra,SSRI,25mg,494,2026-07-07,60.41
+75996460,Atorvastatin,Atorva,Statin,20mg,252,2026-06-03,45.57
+53103913,Lisinopril,Prinivil,ACE Inhibitor,5mg,258,2026-10-20,129.99
+79832508,Sertraline,Asentra,SSRI,100mg,271,2026-03-05,27.84
+89599907,Metformin,Glucophage,Biguanide,1000mg,14,2025-07-09,171.68
+39021924,Amoxicillin,Trimox,Antibiotic,875mg,262,2025-05-23,162.78
+49714213,Sertraline,Lustral,SSRI,50mg,119,2026-01-27,46.22
+32311957,Albuterol,Proventil,Bronchodilator,180mcg/inh,74,2027-06-12,102.79
+10580032,Sertraline,Lustral,SSRI,100mg,469,2025-09-06,124.33
+75313933,Sertraline,Lustral,SSRI,100mg,36,2026-04-23,130.17
+72770868,Atorvastatin,Atorva,Statin,10mg,185,2025-08-21,97.03
+25840222,Sertraline,Zoloft,SSRI,50mg,111,2027-08-19,73.2
+69420197,Omeprazole,Zegerid,PPI,40mg,409,2025-08-25,56.48
+68619124,Omeprazole,Prilosec,PPI,40mg,266,2025-08-27,43.35
+18777713,Sertraline,Zoloft,SSRI,25mg,392,2025-08-14,37.73
+30287945,Metformin,Glucophage,Biguanide,850mg,457,2026-02-06,103.56
+54070834,Sertraline,Zoloft,SSRI,50mg,224,2027-11-18,35.37
+84961588,Lisinopril,Zestril,ACE Inhibitor,10mg,369,2025-08-22,117.5
+14242469,Amoxicillin,Amoxil,Antibiotic,250mg,286,2026-05-08,186.49
+50391667,Albuterol,ProAir,Bronchodilator,90mcg/inh,194,2025-06-25,155.29
+35588834,Lisinopril,Prinivil,ACE Inhibitor,20mg,99,2026-05-27,11.23
+15359939,Amoxicillin,Amoxil,Antibiotic,250mg,47,2026-12-01,146.5
+69775829,Atorvastatin,Torvast,Statin,80mg,113,2025-06-27,191.73
+78398004,Atorvastatin,Lipitor,Statin,20mg,20,2026-04-08,46.9
+19316833,Atorvastatin,Lipitor,Statin,40mg,388,2025-06-11,154.62
+90832323,Amoxicillin,Amoxil,Antibiotic,500mg,72,2026-04-12,72.54
+29021636,Metformin,Glucophage,Biguanide,850mg,289,2025-07-12,20.69
+48467874,Lisinopril,Zestril,ACE Inhibitor,5mg,385,2028-03-03,113.67
+21183300,Albuterol,Ventolin,Bronchodilator,90mcg/inh,140,2026-11-19,57.19
+82633864,Albuterol,Ventolin,Bronchodilator,90mcg/inh,178,2028-05-01,62.67
+40333128,Atorvastatin,Torvast,Statin,40mg,467,2027-02-28,149.85
+22833659,Sertraline,Lustral,SSRI,100mg,398,2027-09-25,166.4
+55306559,Omeprazole,Prilosec,PPI,20mg,67,2026-06-20,122.38
+22112841,Atorvastatin,Torvast,Statin,10mg,393,2025-10-11,190.85
+89859594,Atorvastatin,Lipitor,Statin,10mg,298,2025-06-14,116.57
+99748438,Metformin,Glumetza,Biguanide,1000mg,464,2026-12-20,56.51
+34468073,Lisinopril,Qbrelis,ACE Inhibitor,20mg,405,2027-12-13,80.27
+57363270,Lisinopril,Zestril,ACE Inhibitor,5mg,454,2027-09-19,109.08
+77893152,Sertraline,Zoloft,SSRI,50mg,287,2027-04-21,111.98
+79236859,Omeprazole,Prilosec,PPI,40mg,467,2027-04-13,8.79
+30643374,Amoxicillin,Trimox,Antibiotic,500mg,139,2028-02-22,20.41
+31577197,Lisinopril,Qbrelis,ACE Inhibitor,20mg,278,2027-05-04,122.42
+31231216,Metformin,Glucophage,Biguanide,1000mg,7,2028-05-04,176.98
+16279557,Metformin,Fortamet,Biguanide,850mg,158,2027-03-25,119.36
+99175039,Atorvastatin,Torvast,Statin,20mg,67,2028-02-12,99.17
+95620991,Amoxicillin,Moxatag,Antibiotic,500mg,494,2027-09-17,170.05
+14070042,Sertraline,Zoloft,SSRI,100mg,146,2028-02-05,161.9
+18824912,Amoxicillin,Moxatag,Antibiotic,500mg,50,2025-07-25,20.47
+15968184,Lisinopril,Zestril,ACE Inhibitor,40mg,474,2026-03-02,9.42
+76210569,Sertraline,Lustral,SSRI,100mg,410,2028-03-13,158.11
+62271770,Sertraline,Lustral,SSRI,25mg,176,2026-11-30,194.17
+80602288,Metformin,Glucophage,Biguanide,850mg,257,2025-06-10,40.36
+11658350,Albuterol,Ventolin,Bronchodilator,90mcg/inh,115,2025-05-26,164.97
+3351601,Sertraline,Lustral,SSRI,50mg,19,2025-06-20,157.8
+87105517,Sertraline,Asentra,SSRI,25mg,423,2027-05-16,122.39
+79375635,Lisinopril,Prinivil,ACE Inhibitor,5mg,468,2026-08-08,103.54
+54637000,Amoxicillin,Trimox,Antibiotic,500mg,380,2027-11-23,45.78
+33644749,Amoxicillin,Trimox,Antibiotic,250mg,402,2025-08-01,146.49
+1834776,Lisinopril,Zestril,ACE Inhibitor,40mg,206,2026-01-17,196.37
+35033543,Metformin,Fortamet,Biguanide,500mg,398,2028-02-25,176.53
+91459471,Atorvastatin,Lipitor,Statin,20mg,487,2027-12-04,123.83
+19159635,Sertraline,Lustral,SSRI,25mg,167,2025-06-25,36.19
+88682943,Sertraline,Asentra,SSRI,50mg,350,2028-04-29,143.03
+98914117,Atorvastatin,Atorva,Statin,40mg,240,2025-11-06,29.12
+5755873,Amoxicillin,Trimox,Antibiotic,500mg,348,2027-05-22,16.54
+82612205,Amoxicillin,Moxatag,Antibiotic,250mg,413,2025-09-05,176.89
+96153377,Albuterol,Proventil,Bronchodilator,90mcg/inh,366,2028-01-22,53.86
+12038883,Atorvastatin,Torvast,Statin,40mg,73,2025-09-15,146.63
+35713760,Omeprazole,Prilosec,PPI,20mg,213,2026-02-03,31.8
+37516537,Lisinopril,Prinivil,ACE Inhibitor,20mg,280,2027-06-21,24.54
+39176619,Lisinopril,Zestril,ACE Inhibitor,5mg,404,2027-05-26,18.63
+23324880,Omeprazole,Prilosec,PPI,20mg,361,2026-04-01,48.28
+6352672,Albuterol,Ventolin,Bronchodilator,180mcg/inh,127,2027-10-23,46.6
+8300128,Sertraline,Asentra,SSRI,25mg,92,2028-01-11,30.84
+37979325,Omeprazole,Prilosec,PPI,20mg,446,2027-11-29,115.28
+30567139,Atorvastatin,Torvast,Statin,80mg,265,2028-03-22,77.15
+8704321,Albuterol,Ventolin,Bronchodilator,90mcg/inh,311,2025-08-14,61.33
+37428587,Albuterol,Ventolin,Bronchodilator,90mcg/inh,179,2027-08-17,11.88
+41358736,Metformin,Fortamet,Biguanide,1000mg,246,2027-11-30,49.98
+68765559,Metformin,Fortamet,Biguanide,1000mg,359,2026-02-19,17.62
+76240286,Albuterol,Proventil,Bronchodilator,180mcg/inh,402,2026-04-29,180.18
+84172478,Albuterol,Ventolin,Bronchodilator,90mcg/inh,104,2025-06-25,159.88
+41388023,Metformin,Fortamet,Biguanide,1000mg,64,2027-05-20,133.02
+79785891,Amoxicillin,Trimox,Antibiotic,250mg,340,2028-03-04,98.94
+67941947,Albuterol,ProAir,Bronchodilator,180mcg/inh,28,2027-02-01,50.83
+24474421,Omeprazole,Zegerid,PPI,20mg,483,2028-01-09,180.93
+36240766,Sertraline,Asentra,SSRI,100mg,181,2027-06-08,70.59
+97014045,Amoxicillin,Moxatag,Antibiotic,875mg,145,2027-10-10,117.12
+93908142,Metformin,Glucophage,Biguanide,850mg,300,2026-12-22,56.11
+18254870,Albuterol,Proventil,Bronchodilator,90mcg/inh,327,2025-08-31,99.43
+80285571,Lisinopril,Prinivil,ACE Inhibitor,40mg,74,2025-06-22,125.55
+59849636,Atorvastatin,Atorva,Statin,20mg,397,2026-04-13,142.56
+67100211,Albuterol,Proventil,Bronchodilator,90mcg/inh,475,2026-06-23,72.46
+66952804,Albuterol,Ventolin,Bronchodilator,90mcg/inh,168,2027-06-11,174.77
+96718564,Omeprazole,Losec,PPI,20mg,372,2028-05-10,137.94
+56353290,Omeprazole,Prilosec,PPI,20mg,400,2026-02-02,97.37
+45942027,Metformin,Glumetza,Biguanide,850mg,144,2028-01-03,170.21
+54319619,Sertraline,Zoloft,SSRI,100mg,18,2026-06-08,79.85
+44585607,Amoxicillin,Moxatag,Antibiotic,500mg,308,2027-02-19,169.7
+35788379,Sertraline,Lustral,SSRI,100mg,417,2026-12-31,175.65
+82737417,Metformin,Glucophage,Biguanide,1000mg,381,2027-08-10,168.05
+61304811,Albuterol,ProAir,Bronchodilator,180mcg/inh,262,2025-10-04,179.49
+66465133,Amoxicillin,Moxatag,Antibiotic,875mg,212,2026-10-17,54.27
+81750129,Albuterol,ProAir,Bronchodilator,90mcg/inh,36,2026-06-28,127.45
+55775667,Omeprazole,Losec,PPI,40mg,443,2027-11-21,16.1
+28648938,Atorvastatin,Atorva,Statin,40mg,186,2026-12-31,104.03
+56675042,Atorvastatin,Torvast,Statin,10mg,370,2027-03-13,111.74
+95615542,Amoxicillin,Moxatag,Antibiotic,500mg,412,2026-02-24,183.68
+76737005,Metformin,Glumetza,Biguanide,1000mg,340,2028-04-15,147.37
+67513245,Amoxicillin,Moxatag,Antibiotic,250mg,468,2027-12-31,127.54
+18875297,Omeprazole,Prilosec,PPI,20mg,272,2027-01-28,118.14
+71890971,Lisinopril,Zestril,ACE Inhibitor,5mg,106,2026-10-31,88.81
+87656834,Sertraline,Asentra,SSRI,50mg,364,2027-05-01,94.93
+75965285,Omeprazole,Losec,PPI,20mg,364,2025-06-16,135.12
+27703561,Albuterol,Ventolin,Bronchodilator,180mcg/inh,60,2025-07-08,138.37
+22586574,Amoxicillin,Moxatag,Antibiotic,875mg,230,2026-01-16,21.16
+10471177,Lisinopril,Zestril,ACE Inhibitor,20mg,340,2025-08-05,163.27
+86341280,Metformin,Glumetza,Biguanide,1000mg,141,2026-08-07,173.79
+84483510,Omeprazole,Zegerid,PPI,20mg,252,2027-06-10,163.42
+92403546,Omeprazole,Prilosec,PPI,40mg,274,2026-03-10,183.18
+13069468,Lisinopril,Qbrelis,ACE Inhibitor,40mg,453,2026-10-06,84.04
+57745171,Atorvastatin,Lipitor,Statin,10mg,283,2027-04-21,7.32
+78497801,Sertraline,Asentra,SSRI,100mg,416,2028-04-06,110.12
+1286864,Omeprazole,Prilosec,PPI,20mg,5,2027-09-19,13.41
+660171,Sertraline,Asentra,SSRI,50mg,206,2028-05-08,127.54
+65468114,Sertraline,Zoloft,SSRI,25mg,266,2027-10-04,57.92
+89638617,Metformin,Glumetza,Biguanide,500mg,343,2027-05-12,170.23
+30453409,Lisinopril,Prinivil,ACE Inhibitor,20mg,500,2026-05-28,129.66
+19868686,Sertraline,Asentra,SSRI,25mg,295,2026-04-24,139.06
+19329276,Lisinopril,Prinivil,ACE Inhibitor,5mg,11,2027-09-17,24.41
+37693683,Metformin,Glumetza,Biguanide,1000mg,264,2027-05-28,17.93
+68108876,Metformin,Glumetza,Biguanide,1000mg,133,2027-01-10,67.55
+98416115,Atorvastatin,Torvast,Statin,10mg,375,2026-07-05,115.79
+90856244,Sertraline,Asentra,SSRI,50mg,58,2028-04-02,121.65
+44680436,Atorvastatin,Torvast,Statin,20mg,200,2027-08-30,64.77
+40690581,Sertraline,Asentra,SSRI,50mg,105,2025-11-14,65.5
+51035632,Sertraline,Lustral,SSRI,25mg,482,2027-07-03,176.22
+46463972,Metformin,Fortamet,Biguanide,1000mg,358,2025-05-29,77.14
+47125068,Albuterol,ProAir,Bronchodilator,90mcg/inh,162,2027-12-29,65.41
